@@ -1,0 +1,3 @@
+0	50	Political
+203	464	Health_and_safety
+1226	1518	Health_and_safety

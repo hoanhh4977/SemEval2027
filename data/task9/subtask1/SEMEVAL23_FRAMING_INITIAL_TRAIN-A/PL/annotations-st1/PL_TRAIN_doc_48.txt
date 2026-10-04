@@ -1,0 +1,4 @@
+0	44	Policy_prescription_and_evaluation
+48	375	Economic	Security_and_defense
+379	828	Economic	External_regulation_and_reputation
+1300	1741	Economic

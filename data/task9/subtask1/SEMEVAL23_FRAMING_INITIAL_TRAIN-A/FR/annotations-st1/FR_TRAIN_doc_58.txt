@@ -1,0 +1,6 @@
+604	768	Political
+1254	1442	Morality
+1446	1550	Cultural_identity
+2041	2211	Cultural_identity
+3952	4018	Morality
+4554	4732	Cultural_identity

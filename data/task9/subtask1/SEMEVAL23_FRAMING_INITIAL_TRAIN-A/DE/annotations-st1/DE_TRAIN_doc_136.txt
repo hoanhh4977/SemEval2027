@@ -1,0 +1,4 @@
+0	61	Capacity_and_resources
+63	680	Political
+682	801	Political
+1904	2630	Legality_Constitutionality_and_jurisprudence	Cultural_identity	External_regulation_and_reputation	Capacity_and_resources	Security_and_defense

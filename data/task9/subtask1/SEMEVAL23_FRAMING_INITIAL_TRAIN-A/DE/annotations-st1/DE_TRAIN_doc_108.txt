@@ -1,0 +1,5 @@
+0	77	Policy_prescription_and_evaluation	Health_and_safety
+81	597	Health_and_safety
+852	1485	Legality_Constitutionality_and_jurisprudence
+2045	2648	Health_and_safety
+2677	3213	Public_opinion	Crime_and_punishment

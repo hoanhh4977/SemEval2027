@@ -1,0 +1,4 @@
+294	484	Policy_prescription_and_evaluation
+1876	1978	Quality_of_life
+1982	2581	Fairness_and_equality
+2585	3097	Morality

@@ -1,0 +1,4 @@
+719	1003	Political
+1323	1842	Economic	Security_and_defense
+2163	2684	Security_and_defense
+2688	3172	Cultural_identity

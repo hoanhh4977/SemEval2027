@@ -1,0 +1,7 @@
+0	90	Policy_prescription_and_evaluation
+351	985	External_regulation_and_reputation
+989	1486	Capacity_and_resources
+2377	2415	Cultural_identity
+2419	3044	Morality	Security_and_defense
+4952	5333	Legality_Constitutionality_and_jurisprudence	Economic
+7857	8268	Economic	Political

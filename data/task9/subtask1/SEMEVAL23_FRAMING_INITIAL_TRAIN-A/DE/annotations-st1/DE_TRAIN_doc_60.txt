@@ -1,0 +1,6 @@
+91	1009	Political
+1013	1560	Security_and_defense	Public_opinion
+1605	2206	Economic	Political	Security_and_defense
+2904	4306	Political
+4310	5315	Economic	Capacity_and_resources
+5319	6703	Policy_prescription_and_evaluation

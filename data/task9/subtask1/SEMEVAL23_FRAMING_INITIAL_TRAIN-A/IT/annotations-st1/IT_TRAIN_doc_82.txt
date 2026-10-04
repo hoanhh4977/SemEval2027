@@ -1,0 +1,6 @@
+0	66	Political
+70	784	Political
+894	1412	Morality
+1416	2063	Political
+3203	4865	Policy_prescription_and_evaluation
+5351	5671	Political

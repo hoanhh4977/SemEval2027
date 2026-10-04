@@ -1,0 +1,4 @@
+64	352	Legality_Constitutionality_and_jurisprudence	Morality
+356	658	Policy_prescription_and_evaluation
+1184	1505	Health_and_safety
+1509	1885	Public_opinion

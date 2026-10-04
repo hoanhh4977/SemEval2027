@@ -1,0 +1,5 @@
+0	82	Political
+84	464	Security_and_defense
+836	872	Crime_and_punishment
+874	1385	External_regulation_and_reputation
+1387	1706	Policy_prescription_and_evaluation

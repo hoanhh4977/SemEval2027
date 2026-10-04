@@ -1,0 +1,3 @@
+0	31	Capacity_and_resources
+62	407	Economic
+1014	1376	Economic	Capacity_and_resources

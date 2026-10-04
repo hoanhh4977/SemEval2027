@@ -1,0 +1,3 @@
+0	140	Political
+142	586	Policy_prescription_and_evaluation	Public_opinion
+588	1199	Political

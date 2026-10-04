@@ -1,0 +1,3 @@
+0	68	Legality_Constitutionality_and_jurisprudence
+70	368	Capacity_and_resources
+370	814	Quality_of_life

@@ -1,0 +1,4 @@
+43	234	Political
+236	670	Policy_prescription_and_evaluation	Cultural_identity	Quality_of_life
+672	1581	Health_and_safety	Security_and_defense	Political
+1583	2360	Economic	External_regulation_and_reputation

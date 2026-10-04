@@ -1,0 +1,14 @@
+217	481	Political
+1236	1855	External_regulation_and_reputation
+1859	2028	Security_and_defense
+2032	3255	Quality_of_life	Crime_and_punishment
+3641	4379	External_regulation_and_reputation
+5064	5721	Economic	Cultural_identity
+5935	6725	Health_and_safety	Capacity_and_resources
+9748	10008	Public_opinion
+11264	11848	Security_and_defense
+12526	13479	Policy_prescription_and_evaluation
+13483	14820	Cultural_identity
+14893	15011	Morality
+15015	15625	Quality_of_life
+15629	16496	Policy_prescription_and_evaluation

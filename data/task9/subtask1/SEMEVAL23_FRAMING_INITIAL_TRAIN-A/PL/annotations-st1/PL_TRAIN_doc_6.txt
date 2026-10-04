@@ -1,0 +1,3 @@
+21	504	Political
+1452	1965	Health_and_safety	Capacity_and_resources
+3010	3422	Public_opinion

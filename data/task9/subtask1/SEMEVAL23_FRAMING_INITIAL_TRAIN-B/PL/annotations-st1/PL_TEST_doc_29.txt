@@ -1,0 +1,3 @@
+78	489	Economic	Health_and_safety	Political
+493	832	Cultural_identity
+982	1332	Health_and_safety

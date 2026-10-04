@@ -1,0 +1,5 @@
+0	39	Security_and_defense
+767	1245	Capacity_and_resources
+1249	1875	External_regulation_and_reputation
+1879	2390	Economic
+3279	3788	Security_and_defense

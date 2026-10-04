@@ -1,0 +1,6 @@
+79	698	External_regulation_and_reputation	Political	Public_opinion
+702	1272	Public_opinion
+1276	1725	Public_opinion
+1729	3043	External_regulation_and_reputation	Public_opinion
+3047	4054	Morality	External_regulation_and_reputation	Political
+4058	4525	External_regulation_and_reputation

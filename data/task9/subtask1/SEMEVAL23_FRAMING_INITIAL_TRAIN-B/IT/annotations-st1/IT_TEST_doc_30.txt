@@ -1,0 +1,4 @@
+163	679	Policy_prescription_and_evaluation
+681	1133	Economic	Political
+1135	2450	Security_and_defense
+2452	3368	Health_and_safety

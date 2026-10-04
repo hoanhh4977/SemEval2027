@@ -1,0 +1,5 @@
+59	369	Political
+373	607	Cultural_identity
+696	1015	Morality
+1019	1365	Cultural_identity
+1937	2101	Quality_of_life

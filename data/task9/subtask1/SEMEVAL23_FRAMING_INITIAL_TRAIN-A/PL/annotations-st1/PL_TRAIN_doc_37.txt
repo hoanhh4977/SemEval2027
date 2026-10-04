@@ -1,0 +1,6 @@
+2	72	Health_and_safety
+76	168	Capacity_and_resources
+172	452	Policy_prescription_and_evaluation
+456	798	Fairness_and_equality
+904	1597	Morality	Political
+1924	2447	Political

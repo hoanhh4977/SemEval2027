@@ -1,0 +1,5 @@
+415	816	Policy_prescription_and_evaluation
+818	1233	Legality_Constitutionality_and_jurisprudence	Economic	Public_opinion
+1235	1655	Morality	Cultural_identity
+1903	2464	Policy_prescription_and_evaluation
+3250	4198	Security_and_defense

@@ -1,0 +1,7 @@
+0	135	Security_and_defense
+137	308	Political
+467	595	Security_and_defense
+1457	1636	External_regulation_and_reputation
+2227	2513	Health_and_safety
+3064	3247	Policy_prescription_and_evaluation
+3379	3546	Capacity_and_resources

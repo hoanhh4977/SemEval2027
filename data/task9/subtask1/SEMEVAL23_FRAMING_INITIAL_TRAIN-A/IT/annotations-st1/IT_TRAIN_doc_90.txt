@@ -1,0 +1,4 @@
+0	88	Health_and_safety
+92	226	Policy_prescription_and_evaluation
+541	1509	Public_opinion
+1513	2644	Health_and_safety

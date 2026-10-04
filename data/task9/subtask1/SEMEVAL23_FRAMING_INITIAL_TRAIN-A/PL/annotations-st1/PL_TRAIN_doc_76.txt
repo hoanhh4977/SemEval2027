@@ -1,0 +1,4 @@
+0	102	Policy_prescription_and_evaluation	Cultural_identity
+104	1265	Political	Crime_and_punishment
+1338	3629	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation	Security_and_defense	Crime_and_punishment
+3697	4606	Political

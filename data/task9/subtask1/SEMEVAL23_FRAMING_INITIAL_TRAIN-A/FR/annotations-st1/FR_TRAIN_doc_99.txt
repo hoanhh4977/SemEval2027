@@ -1,0 +1,3 @@
+0	101	Political
+817	1346	Legality_Constitutionality_and_jurisprudence	Political
+2133	2623	External_regulation_and_reputation

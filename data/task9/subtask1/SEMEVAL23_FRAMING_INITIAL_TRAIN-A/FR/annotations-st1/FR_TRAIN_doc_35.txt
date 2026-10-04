@@ -1,0 +1,3 @@
+71	1038	Economic
+1042	1873	Morality
+1877	2606	Health_and_safety

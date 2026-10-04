@@ -1,0 +1,6 @@
+24	738	Cultural_identity	Political	Security_and_defense
+962	1514	Political	Public_opinion
+1516	1921	Policy_prescription_and_evaluation
+2106	2232	Political
+2487	2767	Political
+3115	3550	Political

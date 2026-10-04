@@ -1,0 +1,31 @@
+Meta, Microsoft and Amazon team up on maps project to crack Apple-Google duopoly
+
+Google and Apple dominate the market for online maps, charging mobile app developers for access to their mapping services. The other mega-cap tech companies are joining together to help create another option.
+
+A group formed by Meta, Microsoft and Amazon Web Services, along with TomTom, is releasing data that could enable companies to build their own maps, without having to rely on Google or Apple.
+
+The Overture Maps Foundation, which was established late last year, captured 59 million “points of interest,” such as restaurants, landmarks, streets and regional borders. The data has been cleaned and formatted so it can be used for free as the base layer for a new map application.
+
+Meta and Microsoft collected and donated the data to Overture, according to Marc Prioleau, executive director of the OMF. Data on places is often difficult to collect and license, and building map data requires lots of time and staff to gather and clean it, he told CNBC in an interview.
+
+“We have some companies that, if they wanted to invest to build the map data, they could,” Prioleau said. Rather than spending that kind of money, he said, companies were asking, “Can we just get collaboration around the open base map?”
+
+Overture is aiming to establish a baseline for maps data so that companies can use it to build and operate their own maps.
+
+For many companies, Google’s and Apple’s maps aren’t ideal, because they don’t provide access to the underlying data. Instead, those companies allow app makers to use their maps as a service and, in many cases, charge each time the underlying map is accessed.
+
+For example, app makers pay per thousand Google Maps lookups through an application programming interface (API). Apple allows access to Apple Maps for free for native app developers, but web app developers need to pay.
+
+“That works for a lot of people, but not for others,” Prioleau said.
+
+Overture is only offering the underlying map data, leaving it up to companies to build their own software on top of it.
+
+Digital maps are important for nearly all mobile apps. Emerging technologies such as augmented reality and self-driving cars also require high-quality mapping software to work. Using Overture’s data, companies can integrate their proprietary information, such as exact pickup locations for a delivery app, to customize their offerings.
+
+Overture isn’t the first organization to strive to create map data that can be used freely or cheaply. OpenStreetMap, founded in 2004, creates maps using crowdsourced data. Meta uses the data in its maps.
+
+Prioleau, who worked at Meta until earlier this year, says Overture seeks to distinguish its data from OpenStreetMap’s by being more closely vetted and curated.
+
+One big challenge is keeping the map data up to date, as businesses close and roads change. The foundation hopes its members can contribute enough real-time information to enable the regular release of accurate updates instead of a one-time data dump. Prioleau envisions using artificial intelligence technology and other automated techniques to help.
+
+“You build maps for the rest of your life,” Prioleau said, “which is also one of the reasons why these companies said, ‘Hey, we don’t get any huge benefit from cleaning up data, right? We’re willing to share that, that’s not a strategic advantage for us.’”

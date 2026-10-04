@@ -1,0 +1,11 @@
+80	655	Security_and_defense
+664	1004	Economic	Morality	Cultural_identity	External_regulation_and_reputation	Political	Security_and_defense
+1013	1761	External_regulation_and_reputation	Public_opinion
+2215	2565	Morality
+6298	7136	Health_and_safety
+7658	8241	Security_and_defense
+8250	9400	Capacity_and_resources	Quality_of_life
+9409	10381	Cultural_identity
+10445	10953	External_regulation_and_reputation
+12110	12448	Public_opinion
+12781	13121	Political

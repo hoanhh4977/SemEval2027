@@ -1,0 +1,6 @@
+62	515	Security_and_defense
+519	835	Morality
+839	1194	Fairness_and_equality
+1198	2368	Economic	Cultural_identity
+2525	3144	Quality_of_life	Capacity_and_resources
+3514	4050	Economic

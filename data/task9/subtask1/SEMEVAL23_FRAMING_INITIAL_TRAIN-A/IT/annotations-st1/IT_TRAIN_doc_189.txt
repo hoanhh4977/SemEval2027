@@ -1,0 +1,6 @@
+349	1159	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation
+1238	2123	Economic
+4184	4387	Capacity_and_resources
+4962	5741	Legality_Constitutionality_and_jurisprudence
+7707	8104	Quality_of_life
+8108	8288	Political

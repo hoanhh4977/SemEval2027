@@ -1,0 +1,4 @@
+68	269	Capacity_and_resources
+271	648	Economic
+921	1109	Political
+1916	2210	Health_and_safety

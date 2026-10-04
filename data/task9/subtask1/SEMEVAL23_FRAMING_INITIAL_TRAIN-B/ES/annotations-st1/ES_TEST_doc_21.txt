@@ -1,0 +1,3 @@
+547	1044	Economic	Capacity_and_resources
+1046	1595	Economic
+2173	3235	Capacity_and_resources

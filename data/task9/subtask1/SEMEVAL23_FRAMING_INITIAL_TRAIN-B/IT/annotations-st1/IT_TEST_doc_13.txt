@@ -1,0 +1,7 @@
+36	229	Political
+288	1148	Security_and_defense
+1150	1516	Crime_and_punishment
+2101	2345	Security_and_defense
+2647	3173	Health_and_safety
+3175	3476	External_regulation_and_reputation
+3919	4291	Political

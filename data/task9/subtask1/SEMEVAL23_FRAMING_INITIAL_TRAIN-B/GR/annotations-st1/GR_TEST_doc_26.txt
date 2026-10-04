@@ -1,0 +1,8 @@
+0	126	Political
+128	295	Political
+703	764	Public_opinion
+766	794	Public_opinion
+796	872	Public_opinion
+874	935	Public_opinion
+937	974	Public_opinion
+976	996	Public_opinion

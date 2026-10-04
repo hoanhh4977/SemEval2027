@@ -1,0 +1,14 @@
+0	191	Capacity_and_resources
+193	524	Capacity_and_resources	Public_opinion
+526	685	Political
+808	1037	Public_opinion
+1361	1647	Economic
+1698	1985	Economic	Political
+1987	2311	Capacity_and_resources
+2313	2764	Economic	External_regulation_and_reputation
+2766	2799	Public_opinion
+3245	3265	Economic
+3267	3610	Economic
+3858	4122	Economic	Capacity_and_resources
+4180	4385	Capacity_and_resources
+5352	5656	Capacity_and_resources

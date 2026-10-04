@@ -1,0 +1,5 @@
+102	208	Security_and_defense
+210	331	Political
+1246	2466	Morality	Cultural_identity	Political	Security_and_defense
+2495	2585	Economic
+2635	4311	Quality_of_life	Fairness_and_equality

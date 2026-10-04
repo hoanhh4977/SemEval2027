@@ -1,0 +1,11 @@
+139	474	Security_and_defense
+990	1754	Political
+5259	5499	Political
+6602	7398	Economic
+7400	7701	Economic
+8522	9121	Morality
+9123	9627	Security_and_defense
+10547	10946	Security_and_defense
+10948	11218	Security_and_defense
+12247	12692	Security_and_defense
+15136	15499	Security_and_defense

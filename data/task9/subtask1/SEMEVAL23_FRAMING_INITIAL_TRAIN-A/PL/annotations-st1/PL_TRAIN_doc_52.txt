@@ -1,0 +1,5 @@
+74	483	Economic	Security_and_defense
+487	875	Health_and_safety	Political
+879	1344	Economic	Quality_of_life	Health_and_safety
+1616	1933	Public_opinion
+2619	3153	Policy_prescription_and_evaluation	Fairness_and_equality

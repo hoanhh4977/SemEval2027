@@ -1,0 +1,6 @@
+34	259	Security_and_defense
+263	343	Public_opinion
+4423	4980	Economic	External_regulation_and_reputation
+4984	5437	Economic	Capacity_and_resources
+5441	6020	Quality_of_life	Political
+6538	7036	Public_opinion

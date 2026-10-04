@@ -1,0 +1,3 @@
+0	34	Health_and_safety
+38	287	Political
+291	821	Health_and_safety

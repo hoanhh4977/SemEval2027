@@ -1,0 +1,13 @@
+39	360	Quality_of_life
+364	628	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+2305	2560	Political
+2874	3245	Economic
+3249	3618	Economic
+5480	5852	Fairness_and_equality
+5856	6124	Capacity_and_resources
+6533	6742	Health_and_safety
+7308	7586	Crime_and_punishment
+10376	10815	Economic
+11778	12158	Health_and_safety
+13203	13653	Cultural_identity
+15579	15965	Policy_prescription_and_evaluation

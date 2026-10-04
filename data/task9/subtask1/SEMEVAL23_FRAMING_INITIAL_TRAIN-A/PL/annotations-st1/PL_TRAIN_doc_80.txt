@@ -1,0 +1,5 @@
+71	1402	Economic
+1429	2429	Health_and_safety
+2460	3314	Political	Security_and_defense
+3343	4254	Cultural_identity	Public_opinion
+4286	4866	Political

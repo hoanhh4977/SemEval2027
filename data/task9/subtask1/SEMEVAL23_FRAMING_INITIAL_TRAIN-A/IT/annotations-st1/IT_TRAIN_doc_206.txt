@@ -1,0 +1,5 @@
+0	71	Political
+75	627	Policy_prescription_and_evaluation	External_regulation_and_reputation	Security_and_defense
+631	843	Security_and_defense
+2456	2753	Security_and_defense
+2757	3908	Economic

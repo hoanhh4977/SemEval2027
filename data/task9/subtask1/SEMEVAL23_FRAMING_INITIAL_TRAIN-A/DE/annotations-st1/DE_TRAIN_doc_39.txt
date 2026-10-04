@@ -1,0 +1,5 @@
+72	267	Capacity_and_resources
+691	1107	Health_and_safety
+1111	1545	Health_and_safety
+1549	2023	Economic
+2027	2722	Health_and_safety	Security_and_defense

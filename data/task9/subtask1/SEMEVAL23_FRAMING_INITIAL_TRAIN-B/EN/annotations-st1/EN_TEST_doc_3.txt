@@ -1,0 +1,4 @@
+0	80	Legality_Constitutionality_and_jurisprudence
+2902	3165	Health_and_safety
+3167	3323	Quality_of_life
+4597	4964	Policy_prescription_and_evaluation

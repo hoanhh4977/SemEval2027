@@ -1,0 +1,4 @@
+18	161	Political
+165	1167	External_regulation_and_reputation	Political
+2449	2878	Policy_prescription_and_evaluation	Economic
+2882	4012	Capacity_and_resources	Health_and_safety

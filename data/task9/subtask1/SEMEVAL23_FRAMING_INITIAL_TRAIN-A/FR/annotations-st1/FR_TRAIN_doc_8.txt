@@ -1,0 +1,5 @@
+519	790	Morality
+794	1111	Quality_of_life
+2732	3205	Quality_of_life
+3209	3466	Health_and_safety
+3470	3830	Fairness_and_equality

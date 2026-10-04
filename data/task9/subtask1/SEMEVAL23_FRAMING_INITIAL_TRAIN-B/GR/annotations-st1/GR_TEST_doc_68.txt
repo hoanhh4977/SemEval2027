@@ -1,0 +1,4 @@
+0	114	Cultural_identity
+116	336	Cultural_identity
+338	477	Cultural_identity
+479	667	Cultural_identity

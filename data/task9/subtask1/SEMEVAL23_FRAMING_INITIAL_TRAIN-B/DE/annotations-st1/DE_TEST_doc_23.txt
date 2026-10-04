@@ -1,0 +1,6 @@
+0	76	Public_opinion
+78	497	Economic	Capacity_and_resources	Political
+1383	2208	Legality_Constitutionality_and_jurisprudence
+2236	2969	Economic	External_regulation_and_reputation	Health_and_safety	Security_and_defense
+3001	3374	Political
+3376	3991	Economic	Cultural_identity	Health_and_safety

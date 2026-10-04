@@ -1,0 +1,2 @@
+22	583	Economic	Capacity_and_resources
+587	1352	Capacity_and_resources

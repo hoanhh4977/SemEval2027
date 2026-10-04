@@ -1,0 +1,7 @@
+0	80	Political
+82	489	Security_and_defense
+491	1067	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+1069	1694	Security_and_defense
+2160	2905	Security_and_defense
+3707	4348	Legality_Constitutionality_and_jurisprudence
+5927	6527	Political

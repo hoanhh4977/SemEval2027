@@ -1,0 +1,6 @@
+76	606	Health_and_safety
+608	1057	Capacity_and_resources
+1351	1738	Political
+1740	1979	Political
+1981	2576	Capacity_and_resources
+5022	5303	Capacity_and_resources

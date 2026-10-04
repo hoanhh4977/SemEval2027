@@ -1,0 +1,5 @@
+0	45	Morality
+49	220	Security_and_defense
+224	627	Security_and_defense
+2118	2814	Economic
+4096	4148	Crime_and_punishment

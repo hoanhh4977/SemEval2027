@@ -1,0 +1,5 @@
+233	505	Economic	Security_and_defense
+509	828	External_regulation_and_reputation
+832	1183	Security_and_defense
+1187	1613	Security_and_defense
+2845	3206	Cultural_identity

@@ -1,0 +1,7 @@
+41	366	Economic	Health_and_safety
+1194	2364	Cultural_identity	Crime_and_punishment
+2366	2729	Cultural_identity	Capacity_and_resources
+2731	3232	Cultural_identity
+3234	3479	Cultural_identity	Security_and_defense
+3481	4579	Cultural_identity	Security_and_defense
+4581	4705	Legality_Constitutionality_and_jurisprudence

@@ -1,0 +1,4 @@
+0	108	Security_and_defense
+112	460	Public_opinion
+464	1015	External_regulation_and_reputation
+1394	1979	Political	Security_and_defense

@@ -1,0 +1,2 @@
+0	62	Economic
+66	3257	Economic	Political	Public_opinion

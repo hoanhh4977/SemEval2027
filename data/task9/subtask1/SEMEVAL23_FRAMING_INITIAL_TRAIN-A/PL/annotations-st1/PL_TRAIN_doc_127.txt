@@ -1,0 +1,7 @@
+0	64	Quality_of_life
+66	394	Security_and_defense	Fairness_and_equality
+396	623	Political
+1184	1668	Quality_of_life	Public_opinion
+1670	1928	Cultural_identity
+1930	2125	Economic
+2537	2935	Policy_prescription_and_evaluation

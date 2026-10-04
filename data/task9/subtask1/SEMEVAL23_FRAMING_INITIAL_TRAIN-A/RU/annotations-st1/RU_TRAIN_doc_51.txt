@@ -1,0 +1,4 @@
+0	133	Policy_prescription_and_evaluation	Political
+867	1816	Political
+1818	2905	Political
+6941	8459	Crime_and_punishment

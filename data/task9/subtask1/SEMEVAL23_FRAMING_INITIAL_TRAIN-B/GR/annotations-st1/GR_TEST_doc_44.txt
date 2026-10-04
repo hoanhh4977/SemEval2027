@@ -1,0 +1,8 @@
+95	701	External_regulation_and_reputation	Political
+703	1156	Economic	Quality_of_life
+1209	1553	Legality_Constitutionality_and_jurisprudence
+1555	2198	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+2232	2866	Legality_Constitutionality_and_jurisprudence	Political
+2868	3552	Legality_Constitutionality_and_jurisprudence	Political
+3554	3787	Legality_Constitutionality_and_jurisprudence
+3789	4770	Political

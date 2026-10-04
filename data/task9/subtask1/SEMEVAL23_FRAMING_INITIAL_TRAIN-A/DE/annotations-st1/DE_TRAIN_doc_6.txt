@@ -1,0 +1,2 @@
+15	94	Security_and_defense
+98	1398	Capacity_and_resources	Political	Security_and_defense	Public_opinion

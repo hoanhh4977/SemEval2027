@@ -1,0 +1,11 @@
+0	100	Legality_Constitutionality_and_jurisprudence
+104	385	Legality_Constitutionality_and_jurisprudence	Political
+389	794	Public_opinion
+798	1003	Health_and_safety	Crime_and_punishment
+1533	1833	Political
+2208	2671	Economic
+3066	3353	Public_opinion
+3357	3782	Quality_of_life
+4686	5221	Legality_Constitutionality_and_jurisprudence
+7749	7909	Policy_prescription_and_evaluation
+8517	8835	Public_opinion

@@ -1,0 +1,6 @@
+0	33	Fairness_and_equality
+37	100	Economic
+104	714	Economic	Quality_of_life
+718	1062	Economic
+1066	1364	Policy_prescription_and_evaluation	Political
+1368	1760	Capacity_and_resources

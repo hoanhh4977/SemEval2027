@@ -1,0 +1,6 @@
+100	1405	Health_and_safety
+1407	3610	Policy_prescription_and_evaluation	Economic	Health_and_safety	Quality_of_life	Security_and_defense
+3612	4730	Legality_Constitutionality_and_jurisprudence	Morality	Security_and_defense
+4732	6179	Legality_Constitutionality_and_jurisprudence	Economic	External_regulation_and_reputation	Security_and_defense
+7605	9677	Security_and_defense
+9679	11405	Cultural_identity	Political	Public_opinion

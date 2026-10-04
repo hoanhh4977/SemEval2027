@@ -1,0 +1,8 @@
+2911	4068	Cultural_identity
+5465	6047	Economic
+6051	6418	Economic
+6692	7682	Economic
+9782	10366	Political
+17445	17863	Health_and_safety
+23981	24271	Public_opinion
+26340	27723	Economic

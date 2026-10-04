@@ -1,0 +1,5 @@
+0	51	Legality_Constitutionality_and_jurisprudence	Political
+53	413	Capacity_and_resources	Health_and_safety	Public_opinion
+415	760	Political
+1189	1568	Capacity_and_resources
+1570	1871	Public_opinion

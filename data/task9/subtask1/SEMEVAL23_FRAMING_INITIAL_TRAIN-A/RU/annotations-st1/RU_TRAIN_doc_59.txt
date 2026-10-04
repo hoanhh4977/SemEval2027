@@ -1,0 +1,5 @@
+65	371	Morality
+375	528	Morality
+1785	2268	Fairness_and_equality
+2413	2789	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+2793	3095	Legality_Constitutionality_and_jurisprudence	Morality	Fairness_and_equality

@@ -1,0 +1,5 @@
+0	73	Political
+77	428	Political
+432	830	Public_opinion
+1406	2031	External_regulation_and_reputation
+3778	4780	Policy_prescription_and_evaluation

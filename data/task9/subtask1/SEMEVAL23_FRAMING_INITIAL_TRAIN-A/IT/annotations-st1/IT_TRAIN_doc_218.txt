@@ -1,0 +1,5 @@
+395	458	Political
+1200	1434	Economic	Security_and_defense
+1436	1595	Capacity_and_resources
+1597	2081	Quality_of_life
+2083	2128	Health_and_safety

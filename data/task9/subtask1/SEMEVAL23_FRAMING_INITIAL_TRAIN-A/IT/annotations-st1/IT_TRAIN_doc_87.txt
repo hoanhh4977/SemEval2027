@@ -1,0 +1,2 @@
+46	256	Health_and_safety
+258	718	Quality_of_life

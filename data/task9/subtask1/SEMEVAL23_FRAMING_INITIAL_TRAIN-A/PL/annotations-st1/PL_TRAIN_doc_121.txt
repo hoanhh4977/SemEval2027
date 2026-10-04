@@ -1,0 +1,6 @@
+2	60	Policy_prescription_and_evaluation
+257	595	Health_and_safety	Political
+740	984	Political
+988	1350	Crime_and_punishment
+2047	2621	Public_opinion
+4251	4514	Fairness_and_equality

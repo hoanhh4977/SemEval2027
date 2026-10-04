@@ -1,0 +1,4 @@
+61	619	Health_and_safety
+621	1155	Public_opinion
+1157	1682	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+1684	2275	Political	Public_opinion

@@ -1,0 +1,4 @@
+874	1100	Health_and_safety
+2223	2556	Policy_prescription_and_evaluation
+3867	4188	Security_and_defense
+4690	5238	Quality_of_life

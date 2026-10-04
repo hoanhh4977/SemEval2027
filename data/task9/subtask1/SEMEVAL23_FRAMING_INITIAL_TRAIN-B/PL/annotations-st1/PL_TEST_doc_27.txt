@@ -1,0 +1,4 @@
+63	530	Morality
+534	953	Crime_and_punishment
+957	1286	Political
+2342	2808	Legality_Constitutionality_and_jurisprudence	Health_and_safety	Political

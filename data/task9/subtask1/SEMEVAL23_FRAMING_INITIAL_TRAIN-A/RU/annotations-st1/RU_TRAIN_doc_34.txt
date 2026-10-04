@@ -1,0 +1,8 @@
+0	66	Public_opinion
+88	280	Legality_Constitutionality_and_jurisprudence
+284	552	Legality_Constitutionality_and_jurisprudence
+909	1092	Legality_Constitutionality_and_jurisprudence
+1116	1339	Fairness_and_equality
+1573	1978	Crime_and_punishment
+2486	2760	Public_opinion
+2764	3171	Political

@@ -1,0 +1,3 @@
+48	468	External_regulation_and_reputation	Security_and_defense
+470	975	Security_and_defense
+3263	3523	Economic

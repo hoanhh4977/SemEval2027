@@ -1,0 +1,13 @@
+537	1194	Security_and_defense
+1476	1910	Fairness_and_equality
+2090	2253	Security_and_defense
+2257	2695	Policy_prescription_and_evaluation	External_regulation_and_reputation
+3018	4127	External_regulation_and_reputation
+5040	5158	Economic
+6366	6988	Capacity_and_resources	Health_and_safety
+7706	8314	Economic	Political
+11354	11539	Capacity_and_resources
+11543	11828	Security_and_defense
+11832	12593	Cultural_identity
+13661	14154	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources
+14572	15412	Political	Crime_and_punishment

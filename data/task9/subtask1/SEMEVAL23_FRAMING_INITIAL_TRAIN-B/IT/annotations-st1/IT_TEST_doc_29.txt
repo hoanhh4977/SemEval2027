@@ -1,0 +1,3 @@
+437	1346	Security_and_defense
+5359	5879	Political
+5881	6276	Capacity_and_resources

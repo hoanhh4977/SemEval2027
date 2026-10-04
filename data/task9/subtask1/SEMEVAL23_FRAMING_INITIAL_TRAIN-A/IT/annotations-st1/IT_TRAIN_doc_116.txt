@@ -1,0 +1,6 @@
+237	390	Capacity_and_resources
+716	1002	External_regulation_and_reputation
+2019	2320	Crime_and_punishment
+2322	2708	Economic
+2710	3210	Political
+3528	3750	External_regulation_and_reputation

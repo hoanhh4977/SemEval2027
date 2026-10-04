@@ -1,0 +1,2 @@
+65	291	Morality
+293	1003	Quality_of_life

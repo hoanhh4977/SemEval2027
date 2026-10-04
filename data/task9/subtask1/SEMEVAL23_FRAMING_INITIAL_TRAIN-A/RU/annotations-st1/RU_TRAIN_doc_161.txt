@@ -1,0 +1,7 @@
+0	50	Legality_Constitutionality_and_jurisprudence
+260	438	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+609	823	Legality_Constitutionality_and_jurisprudence
+827	1105	Legality_Constitutionality_and_jurisprudence
+1109	1317	Legality_Constitutionality_and_jurisprudence
+1321	1612	Legality_Constitutionality_and_jurisprudence
+1704	2123	Health_and_safety

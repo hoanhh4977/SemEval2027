@@ -1,0 +1,17 @@
+465	1244	Morality
+1246	1879	Fairness_and_equality
+1949	2461	Morality	Crime_and_punishment
+2805	3237	Public_opinion
+3239	3396	Political
+3555	3881	Policy_prescription_and_evaluation
+3883	4365	Political
+4843	5336	Policy_prescription_and_evaluation
+5948	6506	Health_and_safety
+7539	7989	Cultural_identity
+7991	8281	Cultural_identity
+10311	10509	Morality
+11997	12236	Economic
+15625	15822	Economic
+19411	19688	Quality_of_life	Fairness_and_equality
+24201	24508	Morality
+24510	24865	Morality

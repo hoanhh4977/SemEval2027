@@ -1,0 +1,6 @@
+0	64	Health_and_safety
+66	313	Health_and_safety
+315	648	Health_and_safety
+2991	3495	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+3497	3799	Health_and_safety
+3801	4069	Crime_and_punishment

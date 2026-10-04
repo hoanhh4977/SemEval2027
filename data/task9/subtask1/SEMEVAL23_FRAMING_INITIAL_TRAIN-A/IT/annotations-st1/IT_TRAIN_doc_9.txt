@@ -1,0 +1,2 @@
+0	75	Crime_and_punishment
+79	3691	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Economic	Health_and_safety	Security_and_defense	Public_opinion	Crime_and_punishment

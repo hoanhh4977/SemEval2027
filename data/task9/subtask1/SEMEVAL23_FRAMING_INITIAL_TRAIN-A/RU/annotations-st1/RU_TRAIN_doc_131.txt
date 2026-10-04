@@ -1,0 +1,2 @@
+51	341	Political
+345	651	Security_and_defense

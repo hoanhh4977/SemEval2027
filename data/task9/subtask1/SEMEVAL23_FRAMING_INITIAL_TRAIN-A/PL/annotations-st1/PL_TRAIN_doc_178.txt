@@ -1,0 +1,4 @@
+0	97	Political
+99	401	Economic	Capacity_and_resources	Security_and_defense
+403	759	Economic
+5652	6007	Policy_prescription_and_evaluation

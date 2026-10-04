@@ -1,0 +1,5 @@
+0	152	Economic
+512	693	Economic	Capacity_and_resources
+905	1070	Economic	Security_and_defense
+1074	1381	Capacity_and_resources
+3325	3689	Economic

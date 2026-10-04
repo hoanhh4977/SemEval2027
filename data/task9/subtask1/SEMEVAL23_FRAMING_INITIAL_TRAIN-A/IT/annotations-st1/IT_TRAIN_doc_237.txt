@@ -1,0 +1,4 @@
+0	30	Security_and_defense
+34	273	Public_opinion
+277	1292	Security_and_defense
+1296	2060	External_regulation_and_reputation

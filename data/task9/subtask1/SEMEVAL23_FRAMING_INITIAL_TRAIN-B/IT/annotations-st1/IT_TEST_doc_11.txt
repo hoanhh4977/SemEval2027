@@ -1,0 +1,5 @@
+1269	1460	Policy_prescription_and_evaluation
+1637	1785	Economic
+1787	2228	Political
+2230	2533	Security_and_defense
+2535	2706	Crime_and_punishment

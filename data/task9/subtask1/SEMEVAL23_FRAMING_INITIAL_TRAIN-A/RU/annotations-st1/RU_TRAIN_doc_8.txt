@@ -1,0 +1,9 @@
+0	88	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+92	725	Health_and_safety	Crime_and_punishment
+731	1898	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+1902	2514	Economic
+2891	3902	Health_and_safety
+6547	6948	Health_and_safety
+7562	8701	Health_and_safety
+10454	10943	Health_and_safety
+13000	13411	Health_and_safety

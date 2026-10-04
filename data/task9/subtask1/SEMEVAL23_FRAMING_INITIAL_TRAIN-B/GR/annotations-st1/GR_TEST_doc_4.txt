@@ -1,0 +1,19 @@
+283	482	Economic
+484	697	Economic
+934	1131	Policy_prescription_and_evaluation	Economic
+1133	1276	Economic
+1278	1495	Economic
+1521	1851	Economic
+1853	1877	Economic
+1879	2084	Economic
+2086	2153	Economic
+2155	2347	Economic
+2349	2452	Economic
+2454	2565	Economic
+2567	2660	Economic
+2662	2892	Economic
+2894	3252	Economic
+4069	4231	Economic
+4233	4382	Economic
+4384	4634	Economic
+5374	5512	Economic

@@ -1,0 +1,8 @@
+0	94	Quality_of_life
+96	635	Health_and_safety
+887	1018	Political
+1020	1558	External_regulation_and_reputation
+1941	2276	Economic
+3072	3617	External_regulation_and_reputation
+3619	4104	Political
+4720	5550	Policy_prescription_and_evaluation	External_regulation_and_reputation

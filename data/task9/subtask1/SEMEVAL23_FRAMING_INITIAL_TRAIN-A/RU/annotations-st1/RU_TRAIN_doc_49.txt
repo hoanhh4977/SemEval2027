@@ -1,0 +1,3 @@
+64	853	Capacity_and_resources
+857	1723	Economic
+3541	5002	Economic	Quality_of_life

@@ -1,0 +1,4 @@
+511	1110	Political
+2329	3091	Public_opinion
+3093	3474	External_regulation_and_reputation
+3841	3975	Political

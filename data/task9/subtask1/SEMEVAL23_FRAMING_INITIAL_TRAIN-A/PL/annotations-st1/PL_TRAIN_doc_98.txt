@@ -1,0 +1,5 @@
+0	94	Security_and_defense
+100	881	Security_and_defense
+887	1752	External_regulation_and_reputation
+1758	2320	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+6316	6887	External_regulation_and_reputation

@@ -1,0 +1,5 @@
+74	304	Health_and_safety	Political
+308	647	Legality_Constitutionality_and_jurisprudence
+920	1174	Morality
+2251	2576	Policy_prescription_and_evaluation	Economic
+3005	3054	Political

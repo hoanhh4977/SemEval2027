@@ -1,0 +1,7 @@
+1237	1498	Health_and_safety
+1502	1932	Political
+2904	3469	Capacity_and_resources	Health_and_safety
+4324	4397	External_regulation_and_reputation
+4640	4769	Health_and_safety
+5319	5703	Legality_Constitutionality_and_jurisprudence	Political
+5707	6411	Economic

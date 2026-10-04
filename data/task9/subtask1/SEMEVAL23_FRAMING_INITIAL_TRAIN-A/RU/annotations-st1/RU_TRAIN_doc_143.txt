@@ -1,0 +1,4 @@
+130	429	Legality_Constitutionality_and_jurisprudence	Political
+3744	4265	Legality_Constitutionality_and_jurisprudence
+4267	4886	Legality_Constitutionality_and_jurisprudence	Economic
+5869	6458	Legality_Constitutionality_and_jurisprudence	Economic

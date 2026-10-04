@@ -1,0 +1,3 @@
+1	72	Economic
+76	323	Economic	Crime_and_punishment
+467	840	Crime_and_punishment

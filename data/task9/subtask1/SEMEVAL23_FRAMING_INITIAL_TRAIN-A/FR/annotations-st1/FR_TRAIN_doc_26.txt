@@ -1,0 +1,2 @@
+0	123	Political
+12942	13722	Morality	Economic	Cultural_identity	Quality_of_life

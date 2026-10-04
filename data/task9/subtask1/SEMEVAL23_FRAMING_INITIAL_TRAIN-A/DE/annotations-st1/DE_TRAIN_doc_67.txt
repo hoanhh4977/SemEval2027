@@ -1,0 +1,3 @@
+0	130	Capacity_and_resources	Security_and_defense
+134	898	Capacity_and_resources	Health_and_safety
+902	1802	Capacity_and_resources

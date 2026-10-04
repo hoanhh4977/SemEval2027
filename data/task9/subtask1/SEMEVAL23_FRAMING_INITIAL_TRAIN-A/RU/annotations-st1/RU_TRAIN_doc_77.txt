@@ -1,0 +1,5 @@
+0	77	Political
+146	407	Policy_prescription_and_evaluation	Health_and_safety
+1336	1734	Economic
+1738	2093	Health_and_safety
+2097	2732	Health_and_safety

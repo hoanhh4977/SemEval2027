@@ -1,0 +1,4 @@
+0	91	Crime_and_punishment
+269	654	Crime_and_punishment
+658	1109	Legality_Constitutionality_and_jurisprudence	Morality	Security_and_defense
+1113	1374	Security_and_defense	Public_opinion

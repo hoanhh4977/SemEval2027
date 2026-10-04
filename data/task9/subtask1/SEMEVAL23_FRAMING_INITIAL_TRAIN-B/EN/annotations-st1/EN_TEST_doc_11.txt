@@ -1,0 +1,4 @@
+83	328	Public_opinion
+695	1043	Health_and_safety
+2505	3003	Fairness_and_equality
+3601	4049	Economic

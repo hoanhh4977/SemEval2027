@@ -1,0 +1,3 @@
+0	79	Health_and_safety
+83	332	Political
+1103	1832	Quality_of_life

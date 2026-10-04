@@ -1,0 +1,2 @@
+65	379	Capacity_and_resources
+1084	1482	Fairness_and_equality

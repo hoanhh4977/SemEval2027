@@ -1,0 +1,7 @@
+72	255	Legality_Constitutionality_and_jurisprudence
+693	1327	External_regulation_and_reputation
+2270	3234	Legality_Constitutionality_and_jurisprudence
+3238	4053	Health_and_safety
+4331	4835	Policy_prescription_and_evaluation
+6060	6717	Morality	Security_and_defense
+14599	14852	Morality

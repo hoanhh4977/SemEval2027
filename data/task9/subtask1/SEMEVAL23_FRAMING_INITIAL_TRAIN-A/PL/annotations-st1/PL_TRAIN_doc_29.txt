@@ -1,0 +1,7 @@
+0	117	Quality_of_life
+121	603	Policy_prescription_and_evaluation
+607	1293	Economic	Quality_of_life
+1297	1677	Political
+2489	2816	Quality_of_life
+3855	3892	Health_and_safety
+5682	5937	Crime_and_punishment

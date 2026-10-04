@@ -1,0 +1,2 @@
+0	69	Economic	Capacity_and_resources
+73	512	Economic

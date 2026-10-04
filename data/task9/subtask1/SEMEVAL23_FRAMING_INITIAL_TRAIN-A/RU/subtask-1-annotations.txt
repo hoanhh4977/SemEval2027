@@ -1,0 +1,589 @@
+RU_TRAIN_doc_1.txt	49	107	Security_and_defense
+RU_TRAIN_doc_1.txt	109	252	Morality
+RU_TRAIN_doc_1.txt	1075	1428	Security_and_defense
+RU_TRAIN_doc_2.txt	78	280	Security_and_defense
+RU_TRAIN_doc_3.txt	58	319	Economic	Public_opinion
+RU_TRAIN_doc_3.txt	321	934	Economic	Quality_of_life	Health_and_safety
+RU_TRAIN_doc_3.txt	936	2187	Economic
+RU_TRAIN_doc_3.txt	2189	3121	Economic
+RU_TRAIN_doc_3.txt	3123	4380	Economic	Security_and_defense
+RU_TRAIN_doc_4.txt	81	576	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation	Security_and_defense
+RU_TRAIN_doc_4.txt	1699	2250	Quality_of_life
+RU_TRAIN_doc_4.txt	2254	3008	Economic
+RU_TRAIN_doc_4.txt	4435	4866	Economic	Political	Security_and_defense
+RU_TRAIN_doc_4.txt	4870	5300	External_regulation_and_reputation
+RU_TRAIN_doc_5.txt	0	71	Morality
+RU_TRAIN_doc_6.txt	255	450	Security_and_defense
+RU_TRAIN_doc_7.txt	0	58	External_regulation_and_reputation	Fairness_and_equality
+RU_TRAIN_doc_7.txt	386	719	External_regulation_and_reputation	Health_and_safety
+RU_TRAIN_doc_7.txt	723	1029	Morality	External_regulation_and_reputation	Health_and_safety
+RU_TRAIN_doc_7.txt	1793	2022	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_7.txt	3656	3928	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_8.txt	0	88	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+RU_TRAIN_doc_8.txt	92	725	Health_and_safety	Crime_and_punishment
+RU_TRAIN_doc_8.txt	731	1898	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+RU_TRAIN_doc_8.txt	1902	2514	Economic
+RU_TRAIN_doc_8.txt	2891	3902	Health_and_safety
+RU_TRAIN_doc_8.txt	6547	6948	Health_and_safety
+RU_TRAIN_doc_8.txt	7562	8701	Health_and_safety
+RU_TRAIN_doc_8.txt	10454	10943	Health_and_safety
+RU_TRAIN_doc_8.txt	13000	13411	Health_and_safety
+RU_TRAIN_doc_9.txt	0	262	Economic
+RU_TRAIN_doc_9.txt	264	508	Economic
+RU_TRAIN_doc_9.txt	510	646	Economic
+RU_TRAIN_doc_10.txt	0	80	Security_and_defense
+RU_TRAIN_doc_10.txt	82	315	Security_and_defense
+RU_TRAIN_doc_10.txt	317	434	Security_and_defense
+RU_TRAIN_doc_11.txt	0	69	Political
+RU_TRAIN_doc_11.txt	73	227	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_12.txt	0	67	Political
+RU_TRAIN_doc_12.txt	370	613	Security_and_defense
+RU_TRAIN_doc_12.txt	615	1072	Crime_and_punishment
+RU_TRAIN_doc_13.txt	69	297	Crime_and_punishment
+RU_TRAIN_doc_14.txt	0	28	Security_and_defense
+RU_TRAIN_doc_14.txt	6546	6843	Economic	Quality_of_life
+RU_TRAIN_doc_15.txt	0	71	Security_and_defense
+RU_TRAIN_doc_15.txt	237	438	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_15.txt	442	761	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_15.txt	919	1365	Security_and_defense
+RU_TRAIN_doc_15.txt	1927	2298	Fairness_and_equality
+RU_TRAIN_doc_16.txt	98	325	Public_opinion
+RU_TRAIN_doc_16.txt	329	686	Policy_prescription_and_evaluation
+RU_TRAIN_doc_16.txt	906	1234	Public_opinion
+RU_TRAIN_doc_17.txt	101	335	Cultural_identity
+RU_TRAIN_doc_17.txt	339	1054	Economic
+RU_TRAIN_doc_17.txt	1386	1970	Morality
+RU_TRAIN_doc_17.txt	1974	2359	Morality
+RU_TRAIN_doc_18.txt	352	828	Security_and_defense
+RU_TRAIN_doc_18.txt	1317	1649	Crime_and_punishment
+RU_TRAIN_doc_19.txt	938	1266	External_regulation_and_reputation	Security_and_defense
+RU_TRAIN_doc_19.txt	1270	1589	Economic
+RU_TRAIN_doc_20.txt	410	589	External_regulation_and_reputation
+RU_TRAIN_doc_20.txt	593	956	Security_and_defense
+RU_TRAIN_doc_20.txt	960	1145	Morality
+RU_TRAIN_doc_21.txt	101	1156	Policy_prescription_and_evaluation
+RU_TRAIN_doc_21.txt	2261	3401	Fairness_and_equality	Crime_and_punishment
+RU_TRAIN_doc_21.txt	4682	5944	Morality
+RU_TRAIN_doc_22.txt	74	270	Security_and_defense
+RU_TRAIN_doc_23.txt	1	121	Health_and_safety
+RU_TRAIN_doc_23.txt	123	474	Health_and_safety
+RU_TRAIN_doc_23.txt	1248	1636	Health_and_safety
+RU_TRAIN_doc_23.txt	2291	2873	Economic
+RU_TRAIN_doc_24.txt	0	75	Security_and_defense
+RU_TRAIN_doc_24.txt	79	351	Security_and_defense
+RU_TRAIN_doc_24.txt	606	781	Economic	Capacity_and_resources
+RU_TRAIN_doc_24.txt	785	1009	Economic	Public_opinion
+RU_TRAIN_doc_24.txt	2082	2182	Economic
+RU_TRAIN_doc_25.txt	0	155	Political
+RU_TRAIN_doc_25.txt	444	933	Economic	External_regulation_and_reputation	Health_and_safety
+RU_TRAIN_doc_26.txt	0	89	Policy_prescription_and_evaluation
+RU_TRAIN_doc_26.txt	219	334	External_regulation_and_reputation
+RU_TRAIN_doc_26.txt	390	626	Policy_prescription_and_evaluation
+RU_TRAIN_doc_27.txt	0	64	Security_and_defense
+RU_TRAIN_doc_27.txt	68	271	Security_and_defense
+RU_TRAIN_doc_27.txt	997	1210	Crime_and_punishment
+RU_TRAIN_doc_27.txt	1214	1408	Crime_and_punishment
+RU_TRAIN_doc_27.txt	3691	4187	Security_and_defense	Crime_and_punishment
+RU_TRAIN_doc_28.txt	102	471	Economic
+RU_TRAIN_doc_28.txt	584	898	Economic
+RU_TRAIN_doc_28.txt	2127	2395	Economic
+RU_TRAIN_doc_28.txt	2995	3326	Economic
+RU_TRAIN_doc_29.txt	79	451	Morality	Security_and_defense
+RU_TRAIN_doc_29.txt	4419	4594	External_regulation_and_reputation
+RU_TRAIN_doc_29.txt	4859	5442	Crime_and_punishment
+RU_TRAIN_doc_30.txt	70	158	Capacity_and_resources
+RU_TRAIN_doc_30.txt	964	2053	Economic	Quality_of_life
+RU_TRAIN_doc_31.txt	77	555	Security_and_defense	Crime_and_punishment
+RU_TRAIN_doc_31.txt	1061	1843	Security_and_defense
+RU_TRAIN_doc_31.txt	1847	3169	Security_and_defense
+RU_TRAIN_doc_32.txt	318	636	Political
+RU_TRAIN_doc_33.txt	0	28	Security_and_defense
+RU_TRAIN_doc_33.txt	32	848	Economic	Capacity_and_resources
+RU_TRAIN_doc_34.txt	0	66	Public_opinion
+RU_TRAIN_doc_34.txt	88	280	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_34.txt	284	552	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_34.txt	909	1092	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_34.txt	1116	1339	Fairness_and_equality
+RU_TRAIN_doc_34.txt	1573	1978	Crime_and_punishment
+RU_TRAIN_doc_34.txt	2486	2760	Public_opinion
+RU_TRAIN_doc_34.txt	2764	3171	Political
+RU_TRAIN_doc_35.txt	0	69	Economic	Capacity_and_resources
+RU_TRAIN_doc_35.txt	73	512	Economic
+RU_TRAIN_doc_36.txt	0	481	External_regulation_and_reputation	Political
+RU_TRAIN_doc_36.txt	1857	2912	Economic
+RU_TRAIN_doc_36.txt	6254	7324	Crime_and_punishment
+RU_TRAIN_doc_36.txt	8460	9350	Crime_and_punishment
+RU_TRAIN_doc_36.txt	9354	9922	Crime_and_punishment
+RU_TRAIN_doc_36.txt	10543	11719	Crime_and_punishment
+RU_TRAIN_doc_37.txt	1	72	Economic
+RU_TRAIN_doc_37.txt	76	323	Economic	Crime_and_punishment
+RU_TRAIN_doc_37.txt	467	840	Crime_and_punishment
+RU_TRAIN_doc_38.txt	760	1128	Health_and_safety	Political
+RU_TRAIN_doc_39.txt	0	37	Cultural_identity
+RU_TRAIN_doc_39.txt	43	336	Morality	Cultural_identity	Fairness_and_equality
+RU_TRAIN_doc_39.txt	6165	6450	Health_and_safety
+RU_TRAIN_doc_40.txt	0	62	Morality
+RU_TRAIN_doc_41.txt	1079	1240	Economic
+RU_TRAIN_doc_41.txt	2867	3024	Crime_and_punishment
+RU_TRAIN_doc_42.txt	0	52	Economic
+RU_TRAIN_doc_42.txt	54	127	Economic
+RU_TRAIN_doc_42.txt	430	793	Economic
+RU_TRAIN_doc_42.txt	795	1238	Economic
+RU_TRAIN_doc_42.txt	1513	2066	Economic	External_regulation_and_reputation
+RU_TRAIN_doc_43.txt	0	17	Security_and_defense
+RU_TRAIN_doc_43.txt	21	4143	Economic	Capacity_and_resources	Quality_of_life	Security_and_defense	Political	Crime_and_punishment
+RU_TRAIN_doc_44.txt	1153	1753	Economic
+RU_TRAIN_doc_44.txt	2783	3121	Economic	Political
+RU_TRAIN_doc_44.txt	3125	3384	Political
+RU_TRAIN_doc_44.txt	4324	4873	Economic
+RU_TRAIN_doc_44.txt	6601	6939	Political	Security_and_defense
+RU_TRAIN_doc_44.txt	7396	7677	Security_and_defense
+RU_TRAIN_doc_45.txt	0	62	Political
+RU_TRAIN_doc_45.txt	456	900	Policy_prescription_and_evaluation	Crime_and_punishment
+RU_TRAIN_doc_45.txt	1156	1442	Security_and_defense
+RU_TRAIN_doc_46.txt	63	269	Security_and_defense
+RU_TRAIN_doc_46.txt	597	784	Security_and_defense
+RU_TRAIN_doc_47.txt	78	264	Security_and_defense
+RU_TRAIN_doc_47.txt	268	723	Security_and_defense
+RU_TRAIN_doc_48.txt	716	989	External_regulation_and_reputation
+RU_TRAIN_doc_48.txt	1226	1525	Political
+RU_TRAIN_doc_49.txt	64	853	Capacity_and_resources
+RU_TRAIN_doc_49.txt	857	1723	Economic
+RU_TRAIN_doc_49.txt	3541	5002	Economic	Quality_of_life
+RU_TRAIN_doc_50.txt	0	89	Health_and_safety
+RU_TRAIN_doc_51.txt	0	133	Policy_prescription_and_evaluation	Political
+RU_TRAIN_doc_51.txt	867	1816	Political
+RU_TRAIN_doc_51.txt	1818	2905	Political
+RU_TRAIN_doc_51.txt	6941	8459	Crime_and_punishment
+RU_TRAIN_doc_52.txt	0	75	Health_and_safety
+RU_TRAIN_doc_52.txt	79	260	Health_and_safety
+RU_TRAIN_doc_52.txt	517	877	Health_and_safety
+RU_TRAIN_doc_53.txt	68	335	Political
+RU_TRAIN_doc_53.txt	339	816	Public_opinion
+RU_TRAIN_doc_53.txt	820	1345	Crime_and_punishment
+RU_TRAIN_doc_54.txt	76	695	Capacity_and_resources
+RU_TRAIN_doc_54.txt	699	1067	Security_and_defense
+RU_TRAIN_doc_54.txt	1071	1395	External_regulation_and_reputation
+RU_TRAIN_doc_55.txt	0	77	Economic
+RU_TRAIN_doc_55.txt	81	182	Economic
+RU_TRAIN_doc_55.txt	186	337	Policy_prescription_and_evaluation	Economic
+RU_TRAIN_doc_55.txt	341	568	Economic
+RU_TRAIN_doc_56.txt	91	368	Economic	Capacity_and_resources
+RU_TRAIN_doc_56.txt	1097	1358	Economic
+RU_TRAIN_doc_57.txt	0	69	Health_and_safety
+RU_TRAIN_doc_57.txt	258	1230	Health_and_safety
+RU_TRAIN_doc_57.txt	2298	2741	Economic
+RU_TRAIN_doc_57.txt	3241	3584	Economic
+RU_TRAIN_doc_58.txt	90	269	Crime_and_punishment
+RU_TRAIN_doc_58.txt	273	670	Crime_and_punishment
+RU_TRAIN_doc_58.txt	881	1306	Health_and_safety
+RU_TRAIN_doc_59.txt	65	371	Morality
+RU_TRAIN_doc_59.txt	375	528	Morality
+RU_TRAIN_doc_59.txt	1785	2268	Fairness_and_equality
+RU_TRAIN_doc_59.txt	2413	2789	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+RU_TRAIN_doc_59.txt	2793	3095	Legality_Constitutionality_and_jurisprudence	Morality	Fairness_and_equality
+RU_TRAIN_doc_61.txt	0	69	Capacity_and_resources
+RU_TRAIN_doc_62.txt	66	632	Crime_and_punishment
+RU_TRAIN_doc_63.txt	309	493	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_63.txt	881	1234	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+RU_TRAIN_doc_63.txt	1238	1755	Legality_Constitutionality_and_jurisprudence	Quality_of_life	Crime_and_punishment
+RU_TRAIN_doc_64.txt	0	313	Crime_and_punishment
+RU_TRAIN_doc_65.txt	0	72	Crime_and_punishment
+RU_TRAIN_doc_65.txt	447	903	Security_and_defense
+RU_TRAIN_doc_65.txt	995	1298	Crime_and_punishment
+RU_TRAIN_doc_65.txt	1567	2219	Security_and_defense
+RU_TRAIN_doc_66.txt	87	378	Health_and_safety
+RU_TRAIN_doc_66.txt	1372	1875	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_66.txt	1879	2203	Health_and_safety
+RU_TRAIN_doc_67.txt	0	72	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_67.txt	150	406	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_67.txt	736	1059	Legality_Constitutionality_and_jurisprudence	Health_and_safety	Crime_and_punishment
+RU_TRAIN_doc_67.txt	1388	1872	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_68.txt	57	263	External_regulation_and_reputation
+RU_TRAIN_doc_68.txt	265	583	Economic
+RU_TRAIN_doc_68.txt	642	835	Morality
+RU_TRAIN_doc_69.txt	1364	1738	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+RU_TRAIN_doc_69.txt	2232	2560	Crime_and_punishment
+RU_TRAIN_doc_70.txt	77	729	Political
+RU_TRAIN_doc_70.txt	733	1192	Political
+RU_TRAIN_doc_71.txt	77	592	Economic
+RU_TRAIN_doc_71.txt	596	1232	Economic
+RU_TRAIN_doc_72.txt	0	64	Capacity_and_resources
+RU_TRAIN_doc_72.txt	68	320	Capacity_and_resources	Political
+RU_TRAIN_doc_72.txt	324	823	Security_and_defense
+RU_TRAIN_doc_73.txt	72	158	Economic
+RU_TRAIN_doc_73.txt	162	556	Quality_of_life
+RU_TRAIN_doc_73.txt	560	766	Quality_of_life
+RU_TRAIN_doc_73.txt	770	1262	Health_and_safety
+RU_TRAIN_doc_73.txt	1266	2059	Health_and_safety
+RU_TRAIN_doc_74.txt	949	1631	Health_and_safety	Security_and_defense
+RU_TRAIN_doc_75.txt	1402	1582	Health_and_safety
+RU_TRAIN_doc_75.txt	6403	6822	Health_and_safety
+RU_TRAIN_doc_76.txt	1	54	Health_and_safety
+RU_TRAIN_doc_76.txt	58	144	Health_and_safety
+RU_TRAIN_doc_76.txt	763	1038	Health_and_safety
+RU_TRAIN_doc_77.txt	0	77	Political
+RU_TRAIN_doc_77.txt	146	407	Policy_prescription_and_evaluation	Health_and_safety
+RU_TRAIN_doc_77.txt	1336	1734	Economic
+RU_TRAIN_doc_77.txt	1738	2093	Health_and_safety
+RU_TRAIN_doc_77.txt	2097	2732	Health_and_safety
+RU_TRAIN_doc_78.txt	79	507	Security_and_defense
+RU_TRAIN_doc_78.txt	731	915	Quality_of_life	Public_opinion
+RU_TRAIN_doc_79.txt	0	73	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_79.txt	77	204	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_79.txt	263	369	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_79.txt	373	564	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_79.txt	568	729	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+RU_TRAIN_doc_79.txt	733	1035	Crime_and_punishment
+RU_TRAIN_doc_80.txt	604	908	Security_and_defense
+RU_TRAIN_doc_81.txt	117	442	Political
+RU_TRAIN_doc_81.txt	1197	1506	External_regulation_and_reputation
+RU_TRAIN_doc_81.txt	1508	2017	Capacity_and_resources
+RU_TRAIN_doc_82.txt	506	1094	Morality	Cultural_identity
+RU_TRAIN_doc_82.txt	1220	1422	Crime_and_punishment
+RU_TRAIN_doc_83.txt	0	64	Health_and_safety
+RU_TRAIN_doc_83.txt	66	313	Health_and_safety
+RU_TRAIN_doc_83.txt	315	648	Health_and_safety
+RU_TRAIN_doc_83.txt	2991	3495	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+RU_TRAIN_doc_83.txt	3497	3799	Health_and_safety
+RU_TRAIN_doc_83.txt	3801	4069	Crime_and_punishment
+RU_TRAIN_doc_84.txt	4649	4914	Security_and_defense
+RU_TRAIN_doc_84.txt	7098	7361	Economic
+RU_TRAIN_doc_84.txt	7363	8060	Economic	Quality_of_life
+RU_TRAIN_doc_85.txt	0	67	Cultural_identity
+RU_TRAIN_doc_85.txt	71	494	Cultural_identity	Security_and_defense
+RU_TRAIN_doc_86.txt	297	524	Crime_and_punishment
+RU_TRAIN_doc_87.txt	6202	6778	Quality_of_life
+RU_TRAIN_doc_88.txt	74	1013	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_88.txt	1680	2088	Fairness_and_equality
+RU_TRAIN_doc_88.txt	2092	3546	Morality
+RU_TRAIN_doc_89.txt	399	880	Economic
+RU_TRAIN_doc_89.txt	884	1202	Economic	Political
+RU_TRAIN_doc_90.txt	0	86	Cultural_identity	Fairness_and_equality
+RU_TRAIN_doc_90.txt	90	138	Security_and_defense
+RU_TRAIN_doc_90.txt	142	337	Cultural_identity
+RU_TRAIN_doc_90.txt	341	622	Economic	Cultural_identity	Political
+RU_TRAIN_doc_90.txt	1272	1637	Public_opinion
+RU_TRAIN_doc_90.txt	1641	1995	Security_and_defense
+RU_TRAIN_doc_90.txt	3459	3680	Security_and_defense
+RU_TRAIN_doc_91.txt	785	1075	Crime_and_punishment
+RU_TRAIN_doc_92.txt	46	207	Economic
+RU_TRAIN_doc_92.txt	1127	1215	Quality_of_life
+RU_TRAIN_doc_92.txt	1217	1671	Economic
+RU_TRAIN_doc_93.txt	74	371	Crime_and_punishment
+RU_TRAIN_doc_94.txt	885	1046	Security_and_defense
+RU_TRAIN_doc_95.txt	53	236	External_regulation_and_reputation
+RU_TRAIN_doc_95.txt	411	737	Political	Security_and_defense
+RU_TRAIN_doc_95.txt	741	995	Political
+RU_TRAIN_doc_95.txt	999	1487	Security_and_defense	Political
+RU_TRAIN_doc_95.txt	2012	2324	Economic	Political
+RU_TRAIN_doc_96.txt	46	114	Economic
+RU_TRAIN_doc_96.txt	251	694	Quality_of_life
+RU_TRAIN_doc_96.txt	1336	1487	Economic
+RU_TRAIN_doc_96.txt	1491	1981	Quality_of_life	Fairness_and_equality
+RU_TRAIN_doc_96.txt	2509	2951	Economic
+RU_TRAIN_doc_97.txt	525	1329	Morality
+RU_TRAIN_doc_98.txt	474	1205	External_regulation_and_reputation
+RU_TRAIN_doc_98.txt	1209	2183	Economic	Morality	Security_and_defense	Political
+RU_TRAIN_doc_98.txt	6360	7319	Morality
+RU_TRAIN_doc_98.txt	9397	9930	Security_and_defense
+RU_TRAIN_doc_98.txt	10907	11929	Policy_prescription_and_evaluation
+RU_TRAIN_doc_98.txt	11933	12810	Economic	Political
+RU_TRAIN_doc_98.txt	15581	16201	Economic
+RU_TRAIN_doc_98.txt	20538	21215	Economic
+RU_TRAIN_doc_98.txt	24205	25070	Security_and_defense
+RU_TRAIN_doc_98.txt	25773	26647	Economic	Political
+RU_TRAIN_doc_99.txt	0	75	Security_and_defense
+RU_TRAIN_doc_99.txt	79	602	Cultural_identity
+RU_TRAIN_doc_99.txt	606	1191	Fairness_and_equality
+RU_TRAIN_doc_99.txt	1199	1779	Fairness_and_equality
+RU_TRAIN_doc_99.txt	2125	2422	Morality
+RU_TRAIN_doc_99.txt	2426	2730	Security_and_defense
+RU_TRAIN_doc_100.txt	817	1839	Fairness_and_equality
+RU_TRAIN_doc_101.txt	380	692	Policy_prescription_and_evaluation	Political
+RU_TRAIN_doc_101.txt	694	1049	Public_opinion
+RU_TRAIN_doc_101.txt	1051	1376	Security_and_defense
+RU_TRAIN_doc_101.txt	1902	2125	Security_and_defense	Crime_and_punishment
+RU_TRAIN_doc_102.txt	184	305	Fairness_and_equality
+RU_TRAIN_doc_103.txt	0	117	Political
+RU_TRAIN_doc_103.txt	543	762	Political
+RU_TRAIN_doc_103.txt	764	2273	External_regulation_and_reputation
+RU_TRAIN_doc_104.txt	0	60	Crime_and_punishment
+RU_TRAIN_doc_104.txt	64	206	Security_and_defense
+RU_TRAIN_doc_104.txt	555	909	Crime_and_punishment
+RU_TRAIN_doc_105.txt	0	115	Security_and_defense
+RU_TRAIN_doc_105.txt	463	654	Security_and_defense
+RU_TRAIN_doc_106.txt	159	664	Security_and_defense
+RU_TRAIN_doc_106.txt	668	921	Security_and_defense
+RU_TRAIN_doc_106.txt	2300	4060	Crime_and_punishment
+RU_TRAIN_doc_106.txt	4064	6120	Crime_and_punishment
+RU_TRAIN_doc_107.txt	315	719	Economic
+RU_TRAIN_doc_107.txt	723	1052	Economic
+RU_TRAIN_doc_107.txt	1056	1208	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_108.txt	949	1202	Morality
+RU_TRAIN_doc_109.txt	74	292	Economic	Public_opinion
+RU_TRAIN_doc_109.txt	296	856	Economic	Health_and_safety	Political
+RU_TRAIN_doc_109.txt	860	1233	Economic	Quality_of_life
+RU_TRAIN_doc_109.txt	1927	2416	Economic	External_regulation_and_reputation
+RU_TRAIN_doc_110.txt	0	81	Capacity_and_resources
+RU_TRAIN_doc_110.txt	191	611	Capacity_and_resources
+RU_TRAIN_doc_110.txt	1004	2020	Economic	External_regulation_and_reputation	Capacity_and_resources	Health_and_safety
+RU_TRAIN_doc_110.txt	2024	2558	External_regulation_and_reputation
+RU_TRAIN_doc_111.txt	0	75	Security_and_defense
+RU_TRAIN_doc_112.txt	740	1278	Health_and_safety
+RU_TRAIN_doc_112.txt	1282	1546	Health_and_safety
+RU_TRAIN_doc_113.txt	0	73	External_regulation_and_reputation
+RU_TRAIN_doc_113.txt	249	864	Economic
+RU_TRAIN_doc_113.txt	868	1281	Morality
+RU_TRAIN_doc_114.txt	254	807	Economic
+RU_TRAIN_doc_114.txt	811	1136	Quality_of_life
+RU_TRAIN_doc_114.txt	1140	1470	Economic	Health_and_safety
+RU_TRAIN_doc_114.txt	1474	1934	Economic
+RU_TRAIN_doc_114.txt	8511	8893	External_regulation_and_reputation
+RU_TRAIN_doc_114.txt	9196	9569	Capacity_and_resources
+RU_TRAIN_doc_114.txt	10076	10322	Capacity_and_resources
+RU_TRAIN_doc_114.txt	10841	11220	Economic
+RU_TRAIN_doc_114.txt	11610	11911	Economic
+RU_TRAIN_doc_114.txt	11915	12154	External_regulation_and_reputation
+RU_TRAIN_doc_114.txt	12374	12720	Public_opinion
+RU_TRAIN_doc_115.txt	0	72	Policy_prescription_and_evaluation
+RU_TRAIN_doc_115.txt	1285	1732	Crime_and_punishment
+RU_TRAIN_doc_116.txt	0	67	External_regulation_and_reputation
+RU_TRAIN_doc_116.txt	871	1015	Economic
+RU_TRAIN_doc_116.txt	1201	1522	External_regulation_and_reputation	Political
+RU_TRAIN_doc_117.txt	23	58	Crime_and_punishment
+RU_TRAIN_doc_117.txt	3416	3922	Crime_and_punishment
+RU_TRAIN_doc_118.txt	0	71	Political
+RU_TRAIN_doc_118.txt	243	364	External_regulation_and_reputation
+RU_TRAIN_doc_119.txt	0	128	Fairness_and_equality
+RU_TRAIN_doc_119.txt	371	619	Fairness_and_equality
+RU_TRAIN_doc_120.txt	702	845	Fairness_and_equality
+RU_TRAIN_doc_120.txt	849	1097	Legality_Constitutionality_and_jurisprudence	Public_opinion
+RU_TRAIN_doc_121.txt	0	168	Morality
+RU_TRAIN_doc_121.txt	172	664	External_regulation_and_reputation	Security_and_defense
+RU_TRAIN_doc_122.txt	56	608	Quality_of_life	Capacity_and_resources
+RU_TRAIN_doc_122.txt	1343	2371	Capacity_and_resources
+RU_TRAIN_doc_122.txt	2493	3065	Economic	External_regulation_and_reputation	Health_and_safety
+RU_TRAIN_doc_122.txt	3069	3423	Economic
+RU_TRAIN_doc_123.txt	0	47	Health_and_safety
+RU_TRAIN_doc_123.txt	51	441	Health_and_safety
+RU_TRAIN_doc_123.txt	445	769	Health_and_safety
+RU_TRAIN_doc_124.txt	0	162	Morality
+RU_TRAIN_doc_124.txt	164	604	Economic
+RU_TRAIN_doc_124.txt	606	638	External_regulation_and_reputation
+RU_TRAIN_doc_124.txt	640	1050	Economic	External_regulation_and_reputation
+RU_TRAIN_doc_124.txt	2560	2799	Economic
+RU_TRAIN_doc_125.txt	1028	1478	Crime_and_punishment
+RU_TRAIN_doc_125.txt	1480	1958	Crime_and_punishment
+RU_TRAIN_doc_125.txt	2242	2661	Crime_and_punishment
+RU_TRAIN_doc_125.txt	2663	2961	Crime_and_punishment
+RU_TRAIN_doc_125.txt	4629	4920	Crime_and_punishment
+RU_TRAIN_doc_125.txt	6614	6898	Economic	Quality_of_life
+RU_TRAIN_doc_125.txt	8086	8366	Economic
+RU_TRAIN_doc_125.txt	8368	8750	Crime_and_punishment
+RU_TRAIN_doc_126.txt	311	834	Public_opinion
+RU_TRAIN_doc_127.txt	0	152	Economic
+RU_TRAIN_doc_127.txt	512	693	Economic	Capacity_and_resources
+RU_TRAIN_doc_127.txt	905	1070	Economic	Security_and_defense
+RU_TRAIN_doc_127.txt	1074	1381	Capacity_and_resources
+RU_TRAIN_doc_127.txt	3325	3689	Economic
+RU_TRAIN_doc_128.txt	110	1015	Policy_prescription_and_evaluation	Security_and_defense	Political
+RU_TRAIN_doc_129.txt	0	66	Political
+RU_TRAIN_doc_129.txt	70	371	External_regulation_and_reputation
+RU_TRAIN_doc_129.txt	375	946	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+RU_TRAIN_doc_130.txt	3378	3951	Health_and_safety
+RU_TRAIN_doc_130.txt	4417	4677	Health_and_safety
+RU_TRAIN_doc_130.txt	4884	5130	Economic
+RU_TRAIN_doc_130.txt	5402	6037	Economic
+RU_TRAIN_doc_130.txt	6602	6811	Economic
+RU_TRAIN_doc_130.txt	6815	7086	Economic
+RU_TRAIN_doc_131.txt	51	341	Political
+RU_TRAIN_doc_131.txt	345	651	Security_and_defense
+RU_TRAIN_doc_132.txt	67	1616	Morality	Capacity_and_resources	Political
+RU_TRAIN_doc_132.txt	1620	2113	Economic
+RU_TRAIN_doc_132.txt	2117	3351	Public_opinion
+RU_TRAIN_doc_132.txt	3355	5779	Morality	Economic	Capacity_and_resources
+RU_TRAIN_doc_132.txt	5783	7815	Economic
+RU_TRAIN_doc_133.txt	0	63	External_regulation_and_reputation
+RU_TRAIN_doc_133.txt	68	238	External_regulation_and_reputation	Quality_of_life
+RU_TRAIN_doc_133.txt	532	911	External_regulation_and_reputation
+RU_TRAIN_doc_133.txt	915	1496	Economic	External_regulation_and_reputation	Capacity_and_resources
+RU_TRAIN_doc_134.txt	441	683	Political
+RU_TRAIN_doc_135.txt	260	570	Political
+RU_TRAIN_doc_135.txt	753	916	Morality
+RU_TRAIN_doc_135.txt	920	1288	Security_and_defense
+RU_TRAIN_doc_136.txt	744	1119	Security_and_defense
+RU_TRAIN_doc_137.txt	1504	1902	Health_and_safety
+RU_TRAIN_doc_138.txt	61	689	Security_and_defense
+RU_TRAIN_doc_139.txt	98	288	Security_and_defense
+RU_TRAIN_doc_139.txt	625	809	Security_and_defense
+RU_TRAIN_doc_139.txt	1026	1227	Security_and_defense
+RU_TRAIN_doc_140.txt	0	49	Security_and_defense
+RU_TRAIN_doc_140.txt	53	420	Security_and_defense	Crime_and_punishment
+RU_TRAIN_doc_140.txt	3542	3963	Economic	External_regulation_and_reputation	Capacity_and_resources
+RU_TRAIN_doc_140.txt	4590	4757	Economic
+RU_TRAIN_doc_140.txt	5569	5932	Public_opinion
+RU_TRAIN_doc_141.txt	0	40	Security_and_defense
+RU_TRAIN_doc_141.txt	403	945	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_141.txt	1427	2168	Legality_Constitutionality_and_jurisprudence	Political
+RU_TRAIN_doc_141.txt	5906	6379	Quality_of_life
+RU_TRAIN_doc_142.txt	0	60	Security_and_defense
+RU_TRAIN_doc_142.txt	154	921	Security_and_defense
+RU_TRAIN_doc_142.txt	925	1339	Security_and_defense	Crime_and_punishment
+RU_TRAIN_doc_143.txt	130	429	Legality_Constitutionality_and_jurisprudence	Political
+RU_TRAIN_doc_143.txt	3744	4265	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_143.txt	4267	4886	Legality_Constitutionality_and_jurisprudence	Economic
+RU_TRAIN_doc_143.txt	5869	6458	Legality_Constitutionality_and_jurisprudence	Economic
+RU_TRAIN_doc_144.txt	0	77	Political
+RU_TRAIN_doc_144.txt	240	686	Economic
+RU_TRAIN_doc_145.txt	84	238	External_regulation_and_reputation
+RU_TRAIN_doc_145.txt	1188	1441	External_regulation_and_reputation
+RU_TRAIN_doc_146.txt	1133	1317	Crime_and_punishment
+RU_TRAIN_doc_146.txt	1321	1439	Security_and_defense
+RU_TRAIN_doc_147.txt	291	855	Political
+RU_TRAIN_doc_148.txt	355	909	Policy_prescription_and_evaluation
+RU_TRAIN_doc_148.txt	913	1331	Policy_prescription_and_evaluation
+RU_TRAIN_doc_149.txt	616	989	Quality_of_life
+RU_TRAIN_doc_150.txt	0	74	External_regulation_and_reputation
+RU_TRAIN_doc_150.txt	78	267	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+RU_TRAIN_doc_150.txt	271	643	Security_and_defense	Public_opinion
+RU_TRAIN_doc_150.txt	647	968	Legality_Constitutionality_and_jurisprudence	Public_opinion	Crime_and_punishment
+RU_TRAIN_doc_150.txt	972	1150	Economic	External_regulation_and_reputation
+RU_TRAIN_doc_151.txt	0	72	Political
+RU_TRAIN_doc_151.txt	76	216	Security_and_defense
+RU_TRAIN_doc_151.txt	220	534	Political
+RU_TRAIN_doc_152.txt	0	106	Capacity_and_resources
+RU_TRAIN_doc_152.txt	110	339	Capacity_and_resources
+RU_TRAIN_doc_152.txt	727	909	Capacity_and_resources
+RU_TRAIN_doc_152.txt	913	1305	Capacity_and_resources
+RU_TRAIN_doc_152.txt	1309	1522	Economic
+RU_TRAIN_doc_153.txt	177	392	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_153.txt	801	1121	Health_and_safety	Crime_and_punishment
+RU_TRAIN_doc_154.txt	71	325	Security_and_defense
+RU_TRAIN_doc_155.txt	0	148	Capacity_and_resources
+RU_TRAIN_doc_155.txt	634	725	Economic
+RU_TRAIN_doc_155.txt	977	1615	Capacity_and_resources
+RU_TRAIN_doc_156.txt	1258	1763	External_regulation_and_reputation
+RU_TRAIN_doc_156.txt	2571	3257	External_regulation_and_reputation
+RU_TRAIN_doc_156.txt	4577	5117	Economic
+RU_TRAIN_doc_156.txt	10441	10734	Economic
+RU_TRAIN_doc_156.txt	11104	11298	Economic
+RU_TRAIN_doc_156.txt	12773	13035	External_regulation_and_reputation
+RU_TRAIN_doc_157.txt	70	314	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_157.txt	318	493	Capacity_and_resources
+RU_TRAIN_doc_157.txt	497	703	Political
+RU_TRAIN_doc_157.txt	707	900	External_regulation_and_reputation
+RU_TRAIN_doc_157.txt	904	971	Capacity_and_resources
+RU_TRAIN_doc_158.txt	17	187	Security_and_defense
+RU_TRAIN_doc_158.txt	189	414	Security_and_defense
+RU_TRAIN_doc_158.txt	416	866	Quality_of_life
+RU_TRAIN_doc_159.txt	76	164	Policy_prescription_and_evaluation	External_regulation_and_reputation
+RU_TRAIN_doc_159.txt	275	403	Economic
+RU_TRAIN_doc_160.txt	0	55	Capacity_and_resources
+RU_TRAIN_doc_160.txt	59	2007	Policy_prescription_and_evaluation	Economic
+RU_TRAIN_doc_161.txt	0	50	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_161.txt	260	438	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+RU_TRAIN_doc_161.txt	609	823	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_161.txt	827	1105	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_161.txt	1109	1317	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_161.txt	1321	1612	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_161.txt	1704	2123	Health_and_safety
+RU_TRAIN_doc_162.txt	0	43	Health_and_safety
+RU_TRAIN_doc_162.txt	45	213	Health_and_safety
+RU_TRAIN_doc_162.txt	445	660	Economic	Health_and_safety
+RU_TRAIN_doc_163.txt	0	80	Security_and_defense
+RU_TRAIN_doc_163.txt	177	420	Security_and_defense
+RU_TRAIN_doc_163.txt	424	612	Security_and_defense
+RU_TRAIN_doc_164.txt	259	542	Public_opinion
+RU_TRAIN_doc_164.txt	1153	1309	Morality	Political
+RU_TRAIN_doc_165.txt	71	879	External_regulation_and_reputation
+RU_TRAIN_doc_165.txt	883	1107	Cultural_identity	Security_and_defense
+RU_TRAIN_doc_166.txt	0	55	Health_and_safety
+RU_TRAIN_doc_166.txt	120	371	Health_and_safety
+RU_TRAIN_doc_166.txt	375	701	Health_and_safety
+RU_TRAIN_doc_166.txt	705	1408	Health_and_safety
+RU_TRAIN_doc_166.txt	1412	2120	Health_and_safety
+RU_TRAIN_doc_167.txt	0	93	Political
+RU_TRAIN_doc_167.txt	723	1045	Economic	Capacity_and_resources
+RU_TRAIN_doc_168.txt	54	368	External_regulation_and_reputation
+RU_TRAIN_doc_169.txt	187	289	Economic
+RU_TRAIN_doc_169.txt	291	678	Security_and_defense
+RU_TRAIN_doc_169.txt	680	1098	Political
+RU_TRAIN_doc_169.txt	1100	1460	Quality_of_life
+RU_TRAIN_doc_170.txt	0	81	External_regulation_and_reputation
+RU_TRAIN_doc_170.txt	85	159	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_170.txt	3274	3552	Crime_and_punishment
+RU_TRAIN_doc_171.txt	0	47	Morality
+RU_TRAIN_doc_171.txt	96	277	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_171.txt	281	1080	Cultural_identity
+RU_TRAIN_doc_172.txt	137	340	Cultural_identity
+RU_TRAIN_doc_172.txt	772	978	Crime_and_punishment
+RU_TRAIN_doc_172.txt	982	1290	Crime_and_punishment
+RU_TRAIN_doc_173.txt	0	87	External_regulation_and_reputation
+RU_TRAIN_doc_174.txt	338	731	Security_and_defense
+RU_TRAIN_doc_174.txt	827	1266	Crime_and_punishment
+RU_TRAIN_doc_175.txt	80	277	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_175.txt	281	612	Legality_Constitutionality_and_jurisprudence	Morality
+RU_TRAIN_doc_175.txt	1625	1912	Public_opinion
+RU_TRAIN_doc_176.txt	0	90	Capacity_and_resources
+RU_TRAIN_doc_176.txt	386	846	Quality_of_life
+RU_TRAIN_doc_176.txt	850	1267	Morality	Fairness_and_equality
+RU_TRAIN_doc_177.txt	0	64	External_regulation_and_reputation
+RU_TRAIN_doc_177.txt	66	239	Political
+RU_TRAIN_doc_177.txt	647	872	Economic
+RU_TRAIN_doc_178.txt	0	46	External_regulation_and_reputation
+RU_TRAIN_doc_178.txt	473	745	Crime_and_punishment
+RU_TRAIN_doc_178.txt	747	1095	Security_and_defense	Public_opinion
+RU_TRAIN_doc_178.txt	1097	1240	External_regulation_and_reputation
+RU_TRAIN_doc_179.txt	0	151	External_regulation_and_reputation
+RU_TRAIN_doc_179.txt	1214	1402	Security_and_defense
+RU_TRAIN_doc_180.txt	777	921	Political
+RU_TRAIN_doc_181.txt	2911	4068	Cultural_identity
+RU_TRAIN_doc_181.txt	5465	6047	Economic
+RU_TRAIN_doc_181.txt	6051	6418	Economic
+RU_TRAIN_doc_181.txt	6692	7682	Economic
+RU_TRAIN_doc_181.txt	9782	10366	Political
+RU_TRAIN_doc_181.txt	17445	17863	Health_and_safety
+RU_TRAIN_doc_181.txt	23981	24271	Public_opinion
+RU_TRAIN_doc_181.txt	26340	27723	Economic
+RU_TRAIN_doc_182.txt	0	44	Security_and_defense
+RU_TRAIN_doc_182.txt	48	93	Security_and_defense
+RU_TRAIN_doc_182.txt	611	873	Public_opinion
+RU_TRAIN_doc_182.txt	1137	1222	Security_and_defense
+RU_TRAIN_doc_182.txt	1593	1945	Security_and_defense
+RU_TRAIN_doc_183.txt	247	457	Cultural_identity
+RU_TRAIN_doc_183.txt	1202	1306	Security_and_defense
+RU_TRAIN_doc_184.txt	0	74	Fairness_and_equality
+RU_TRAIN_doc_184.txt	1874	2179	Quality_of_life
+RU_TRAIN_doc_184.txt	2665	3279	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_185.txt	98	304	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+RU_TRAIN_doc_186.txt	514	1082	Security_and_defense
+RU_TRAIN_doc_187.txt	534	764	External_regulation_and_reputation	Security_and_defense
+RU_TRAIN_doc_187.txt	1055	1140	Security_and_defense
+RU_TRAIN_doc_188.txt	0	164	Security_and_defense
+RU_TRAIN_doc_188.txt	168	580	Health_and_safety
+RU_TRAIN_doc_189.txt	0	76	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_189.txt	130	481	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_189.txt	485	716	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_189.txt	720	868	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_189.txt	872	1252	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_189.txt	1256	1342	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_189.txt	1346	1529	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+RU_TRAIN_doc_189.txt	1793	2052	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_189.txt	2948	3292	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_189.txt	3736	4104	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+RU_TRAIN_doc_189.txt	5262	5566	Economic	Quality_of_life
+RU_TRAIN_doc_190.txt	0	61	Health_and_safety
+RU_TRAIN_doc_190.txt	65	216	Health_and_safety
+RU_TRAIN_doc_190.txt	220	787	Health_and_safety
+RU_TRAIN_doc_190.txt	1985	2470	Health_and_safety
+RU_TRAIN_doc_190.txt	2474	3040	Health_and_safety
+RU_TRAIN_doc_190.txt	3175	3805	Health_and_safety
+RU_TRAIN_doc_190.txt	3809	4404	Health_and_safety
+RU_TRAIN_doc_191.txt	89	525	Crime_and_punishment
+RU_TRAIN_doc_191.txt	527	951	Crime_and_punishment
+RU_TRAIN_doc_192.txt	82	353	Political
+RU_TRAIN_doc_192.txt	945	1916	Legality_Constitutionality_and_jurisprudence
+RU_TRAIN_doc_192.txt	9076	9839	Crime_and_punishment
+RU_TRAIN_doc_192.txt	9841	10474	Crime_and_punishment
+RU_TRAIN_doc_192.txt	11541	12798	Crime_and_punishment

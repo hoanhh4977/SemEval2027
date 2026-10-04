@@ -1,0 +1,3 @@
+36	558	Cultural_identity	Health_and_safety	Political
+560	909	Quality_of_life
+995	1134	Health_and_safety

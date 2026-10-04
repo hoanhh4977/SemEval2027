@@ -1,0 +1,6 @@
+63	467	Capacity_and_resources
+469	1007	Security_and_defense
+3199	3527	Security_and_defense
+3529	3675	Economic
+7100	7427	Security_and_defense
+7852	8024	Security_and_defense

@@ -1,0 +1,8 @@
+0	25	Security_and_defense
+29	211	Economic
+217	633	Capacity_and_resources
+637	1086	Crime_and_punishment
+1090	1505	Public_opinion
+1509	2495	Economic	External_regulation_and_reputation
+2499	3236	Economic	Public_opinion
+3623	3989	Security_and_defense

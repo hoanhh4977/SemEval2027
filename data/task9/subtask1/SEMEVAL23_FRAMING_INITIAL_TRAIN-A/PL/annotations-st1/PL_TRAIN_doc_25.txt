@@ -1,0 +1,4 @@
+57	696	Cultural_identity
+700	824	Security_and_defense
+847	1336	Economic
+1340	1805	Economic

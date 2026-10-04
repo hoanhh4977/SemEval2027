@@ -1,0 +1,3 @@
+0	172	Cultural_identity
+176	335	Fairness_and_equality
+1740	2270	Health_and_safety

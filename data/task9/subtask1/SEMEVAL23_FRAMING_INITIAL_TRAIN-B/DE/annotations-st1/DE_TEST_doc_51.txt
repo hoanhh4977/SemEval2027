@@ -1,0 +1,5 @@
+0	105	Legality_Constitutionality_and_jurisprudence	Political	Public_opinion	Crime_and_punishment
+107	663	Crime_and_punishment
+2251	2374	Crime_and_punishment
+3095	3525	Public_opinion
+4194	4739	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality

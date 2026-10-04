@@ -1,0 +1,11 @@
+0	50	Quality_of_life
+54	251	Economic
+255	526	Quality_of_life
+2533	2773	Crime_and_punishment
+4007	4202	Economic
+4206	4644	Quality_of_life	Public_opinion
+5556	5772	Economic
+8568	8916	Fairness_and_equality
+8920	9199	Fairness_and_equality
+10040	10398	Morality
+10402	10564	Political

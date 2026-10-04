@@ -1,0 +1,11 @@
+0	100	Security_and_defense
+193	673	Security_and_defense
+675	962	Security_and_defense
+964	1183	External_regulation_and_reputation
+1185	1577	Quality_of_life	Security_and_defense
+1579	2021	Quality_of_life
+2388	2576	Security_and_defense
+2578	2903	Security_and_defense	Political
+3698	4330	Political
+4332	4923	Legality_Constitutionality_and_jurisprudence
+6302	6773	Public_opinion

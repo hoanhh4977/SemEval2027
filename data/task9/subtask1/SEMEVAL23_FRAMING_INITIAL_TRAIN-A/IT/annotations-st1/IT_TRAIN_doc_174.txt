@@ -1,0 +1,5 @@
+0	95	Policy_prescription_and_evaluation
+248	734	External_regulation_and_reputation	Political
+738	1185	Cultural_identity
+1456	1917	Morality
+1921	2229	Health_and_safety

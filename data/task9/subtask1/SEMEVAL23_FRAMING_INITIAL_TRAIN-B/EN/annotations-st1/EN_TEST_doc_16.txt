@@ -1,0 +1,7 @@
+0	73	Cultural_identity	Health_and_safety
+412	615	Health_and_safety	Public_opinion
+2613	2768	Political
+2770	3016	Cultural_identity
+3018	3144	Legality_Constitutionality_and_jurisprudence
+3301	3502	Morality
+3755	3811	Public_opinion

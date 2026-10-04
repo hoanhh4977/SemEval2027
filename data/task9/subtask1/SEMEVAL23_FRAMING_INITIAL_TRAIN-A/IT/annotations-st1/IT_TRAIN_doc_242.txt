@@ -1,0 +1,3 @@
+0	85	Political
+601	909	Economic	Security_and_defense
+4106	4547	External_regulation_and_reputation

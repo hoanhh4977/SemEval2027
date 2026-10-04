@@ -1,0 +1,9 @@
+0	104	Political
+468	724	Crime_and_punishment
+1155	1484	Economic
+1657	2071	Economic	Crime_and_punishment
+3372	3828	Public_opinion
+4135	4329	External_regulation_and_reputation
+5040	5303	Security_and_defense
+5305	5609	External_regulation_and_reputation
+7195	7434	Political

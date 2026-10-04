@@ -1,0 +1,6 @@
+302	909	Economic
+1668	1685	Morality
+1687	2318	Morality	Crime_and_punishment
+3132	3776	Crime_and_punishment
+3821	4279	Quality_of_life
+4298	4547	Health_and_safety

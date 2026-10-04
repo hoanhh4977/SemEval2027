@@ -1,0 +1,8 @@
+0	188	Political
+192	443	Public_opinion
+447	753	Crime_and_punishment
+981	1273	Political
+1277	1503	Cultural_identity
+2247	2433	Policy_prescription_and_evaluation
+2437	2628	Public_opinion
+4063	4249	Crime_and_punishment

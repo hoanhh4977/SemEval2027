@@ -1,0 +1,5 @@
+0	106	Capacity_and_resources
+110	339	Capacity_and_resources
+727	909	Capacity_and_resources
+913	1305	Capacity_and_resources
+1309	1522	Economic

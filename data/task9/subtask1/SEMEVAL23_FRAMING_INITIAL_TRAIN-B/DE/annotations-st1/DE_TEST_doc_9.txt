@@ -1,0 +1,12 @@
+63	205	Political
+207	607	Cultural_identity	Fairness_and_equality
+953	1233	Political
+1235	1498	Economic	Fairness_and_equality
+1527	1898	Legality_Constitutionality_and_jurisprudence	Economic	Fairness_and_equality
+1900	2163	Political
+2165	2430	Cultural_identity
+3125	3443	Public_opinion
+3445	3914	Legality_Constitutionality_and_jurisprudence	Public_opinion
+4200	4624	Morality	Fairness_and_equality
+5452	5796	Morality
+5798	6093	Political

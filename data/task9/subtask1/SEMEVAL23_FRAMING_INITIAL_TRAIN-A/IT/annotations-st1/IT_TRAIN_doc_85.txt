@@ -1,0 +1,2 @@
+73	742	Health_and_safety	Quality_of_life	Public_opinion
+744	1077	Security_and_defense	Crime_and_punishment

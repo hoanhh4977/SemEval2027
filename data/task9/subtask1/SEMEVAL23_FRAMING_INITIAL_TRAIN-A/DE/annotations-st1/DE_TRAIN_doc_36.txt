@@ -1,0 +1,2 @@
+0	150	Political
+154	417	External_regulation_and_reputation

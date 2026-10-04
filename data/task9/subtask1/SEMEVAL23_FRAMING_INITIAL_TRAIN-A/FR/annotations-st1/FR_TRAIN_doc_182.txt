@@ -1,0 +1,2 @@
+0	30	Political
+255	755	External_regulation_and_reputation

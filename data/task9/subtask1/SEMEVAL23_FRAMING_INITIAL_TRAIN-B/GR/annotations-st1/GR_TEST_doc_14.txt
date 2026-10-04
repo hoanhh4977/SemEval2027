@@ -1,0 +1,4 @@
+0	82	Security_and_defense
+84	257	Security_and_defense
+743	919	Security_and_defense
+921	1033	Security_and_defense

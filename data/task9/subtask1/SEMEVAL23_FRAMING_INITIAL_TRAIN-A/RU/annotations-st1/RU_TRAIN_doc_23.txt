@@ -1,0 +1,4 @@
+1	121	Health_and_safety
+123	474	Health_and_safety
+1248	1636	Health_and_safety
+2291	2873	Economic

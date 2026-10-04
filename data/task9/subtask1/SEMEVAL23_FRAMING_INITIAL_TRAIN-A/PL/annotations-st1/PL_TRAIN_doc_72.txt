@@ -1,0 +1,5 @@
+0	97	Public_opinion
+101	378	Legality_Constitutionality_and_jurisprudence
+382	561	Policy_prescription_and_evaluation
+1266	1361	Health_and_safety
+1755	2121	Health_and_safety

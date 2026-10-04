@@ -1,0 +1,4 @@
+65	315	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+680	1202	Morality
+2402	2669	Policy_prescription_and_evaluation
+2671	2929	Security_and_defense

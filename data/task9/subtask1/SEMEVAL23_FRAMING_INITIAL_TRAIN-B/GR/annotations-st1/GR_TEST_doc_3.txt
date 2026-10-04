@@ -1,0 +1,6 @@
+32	400	Political
+402	423	Political
+425	1034	Political
+1036	1042	Political
+1044	1599	Legality_Constitutionality_and_jurisprudence	Political
+1610	2398	Legality_Constitutionality_and_jurisprudence

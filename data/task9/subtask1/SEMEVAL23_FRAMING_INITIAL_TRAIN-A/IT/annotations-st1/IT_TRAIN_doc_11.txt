@@ -1,0 +1,4 @@
+0	30	Security_and_defense
+44	1232	Morality	Political
+1234	2912	Political
+2914	4643	Economic

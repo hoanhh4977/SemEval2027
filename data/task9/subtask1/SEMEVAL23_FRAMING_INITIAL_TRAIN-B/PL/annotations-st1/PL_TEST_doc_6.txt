@@ -1,0 +1,6 @@
+46	444	Political
+962	1701	Economic	Quality_of_life
+2202	3343	External_regulation_and_reputation	Crime_and_punishment
+4825	6441	Capacity_and_resources	Public_opinion
+11713	12626	Economic
+12630	14661	Legality_Constitutionality_and_jurisprudence

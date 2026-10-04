@@ -1,0 +1,4 @@
+0	84	Policy_prescription_and_evaluation	Security_and_defense
+419	621	Health_and_safety
+625	814	Political
+1754	1896	Capacity_and_resources

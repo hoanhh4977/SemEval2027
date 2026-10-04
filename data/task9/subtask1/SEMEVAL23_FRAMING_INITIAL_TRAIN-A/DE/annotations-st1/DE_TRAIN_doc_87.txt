@@ -1,0 +1,9 @@
+0	56	Security_and_defense
+60	331	Cultural_identity	Security_and_defense
+480	732	Public_opinion
+1305	1659	Cultural_identity
+1663	1935	Cultural_identity
+2471	3005	Cultural_identity
+3056	3469	Quality_of_life	Security_and_defense
+3639	4181	Security_and_defense	Crime_and_punishment
+4185	4430	Cultural_identity	Public_opinion

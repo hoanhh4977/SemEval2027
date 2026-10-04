@@ -1,0 +1,5 @@
+9	269	Cultural_identity
+271	736	Legality_Constitutionality_and_jurisprudence
+1281	1605	Legality_Constitutionality_and_jurisprudence
+1607	1948	Political
+1950	2691	Political

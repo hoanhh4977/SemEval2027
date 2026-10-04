@@ -1,0 +1,7 @@
+0	61	Health_and_safety
+65	216	Health_and_safety
+220	787	Health_and_safety
+1985	2470	Health_and_safety
+2474	3040	Health_and_safety
+3175	3805	Health_and_safety
+3809	4404	Health_and_safety

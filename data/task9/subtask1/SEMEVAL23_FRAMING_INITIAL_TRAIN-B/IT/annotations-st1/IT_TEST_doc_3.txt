@@ -1,0 +1,7 @@
+63	377	Health_and_safety	Quality_of_life
+379	588	Policy_prescription_and_evaluation
+633	983	Public_opinion
+985	1197	Security_and_defense
+4581	4789	Legality_Constitutionality_and_jurisprudence
+5188	5365	Fairness_and_equality
+5764	6114	External_regulation_and_reputation

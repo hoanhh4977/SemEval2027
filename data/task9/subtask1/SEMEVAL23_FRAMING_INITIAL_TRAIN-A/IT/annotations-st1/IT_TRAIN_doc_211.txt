@@ -1,0 +1,2 @@
+75	746	Morality	Fairness_and_equality
+803	1742	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality	Crime_and_punishment

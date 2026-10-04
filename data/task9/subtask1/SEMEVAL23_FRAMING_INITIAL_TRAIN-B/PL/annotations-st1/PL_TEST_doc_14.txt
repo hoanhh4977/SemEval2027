@@ -1,0 +1,9 @@
+67	299	Morality
+1751	2747	Morality	Cultural_identity
+2783	3713	Policy_prescription_and_evaluation	Economic
+4805	5689	Public_opinion
+5715	6725	External_regulation_and_reputation
+7362	8043	Capacity_and_resources
+8097	8821	Security_and_defense
+9745	10240	Public_opinion
+10244	11531	Health_and_safety	Quality_of_life	Crime_and_punishment

@@ -1,0 +1,4 @@
+0	51	Economic
+421	1568	Capacity_and_resources
+6940	7801	Economic
+7805	8215	Quality_of_life

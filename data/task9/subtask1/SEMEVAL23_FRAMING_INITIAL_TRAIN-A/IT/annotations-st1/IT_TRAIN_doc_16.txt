@@ -1,0 +1,3 @@
+0	80	External_regulation_and_reputation	Security_and_defense
+497	856	Capacity_and_resources
+1258	1489	External_regulation_and_reputation

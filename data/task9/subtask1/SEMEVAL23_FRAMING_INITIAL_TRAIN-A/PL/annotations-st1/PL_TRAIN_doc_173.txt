@@ -1,0 +1,12 @@
+0	89	Political
+93	446	Morality	Health_and_safety
+1317	2027	Morality
+2031	2188	Economic
+2952	3199	Fairness_and_equality
+3482	3916	Morality
+4998	5239	Policy_prescription_and_evaluation	Economic
+5942	6164	Cultural_identity
+6704	6980	Fairness_and_equality
+6984	7237	Political
+7305	7601	Political	Public_opinion
+7908	8305	Capacity_and_resources

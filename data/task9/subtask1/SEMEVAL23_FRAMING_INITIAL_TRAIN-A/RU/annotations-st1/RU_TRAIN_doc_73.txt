@@ -1,0 +1,5 @@
+72	158	Economic
+162	556	Quality_of_life
+560	766	Quality_of_life
+770	1262	Health_and_safety
+1266	2059	Health_and_safety

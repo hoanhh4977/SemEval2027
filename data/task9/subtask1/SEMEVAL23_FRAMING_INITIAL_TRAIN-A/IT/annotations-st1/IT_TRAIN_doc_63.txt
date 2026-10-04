@@ -1,0 +1,4 @@
+135	514	Economic	Quality_of_life
+516	747	Fairness_and_equality
+749	1005	Capacity_and_resources
+1435	1800	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality

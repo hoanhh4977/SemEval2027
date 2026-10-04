@@ -1,0 +1,4 @@
+0	398	Quality_of_life
+2749	3368	Capacity_and_resources	Public_opinion
+3372	3598	Morality
+3602	4004	Political

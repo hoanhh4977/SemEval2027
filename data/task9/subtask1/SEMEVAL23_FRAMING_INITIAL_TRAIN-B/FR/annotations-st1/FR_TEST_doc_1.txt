@@ -1,0 +1,2 @@
+0	76	Public_opinion
+1322	1442	Health_and_safety

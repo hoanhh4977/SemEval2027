@@ -1,0 +1,23 @@
+0	36	External_regulation_and_reputation
+428	813	Political
+1524	1780	Economic	Capacity_and_resources
+1782	2058	Capacity_and_resources
+2060	2725	Security_and_defense
+4529	5312	External_regulation_and_reputation
+5314	5792	Public_opinion
+7317	7910	Economic
+8360	8658	Capacity_and_resources	Security_and_defense
+8660	9040	External_regulation_and_reputation
+9657	9998	Public_opinion
+10120	10497	Crime_and_punishment
+11637	11771	Legality_Constitutionality_and_jurisprudence
+11773	12006	Capacity_and_resources
+13103	13463	Economic
+13465	14156	Capacity_and_resources
+14158	14972	Capacity_and_resources
+14974	15227	External_regulation_and_reputation
+15229	16055	Crime_and_punishment
+16057	16961	Health_and_safety	Public_opinion
+16963	17905	Capacity_and_resources
+17907	18626	Economic	External_regulation_and_reputation
+18628	19323	Quality_of_life

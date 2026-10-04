@@ -1,0 +1,4 @@
+61	235	Political
+237	633	Health_and_safety
+635	1257	Economic
+2731	3442	Health_and_safety

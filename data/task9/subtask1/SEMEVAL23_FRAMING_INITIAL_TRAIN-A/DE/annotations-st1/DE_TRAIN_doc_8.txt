@@ -1,0 +1,4 @@
+0	75	Capacity_and_resources
+79	496	Capacity_and_resources	Health_and_safety
+500	1053	Capacity_and_resources
+1342	1783	Security_and_defense

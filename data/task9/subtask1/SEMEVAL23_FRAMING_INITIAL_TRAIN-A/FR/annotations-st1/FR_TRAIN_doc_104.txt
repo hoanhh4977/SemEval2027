@@ -1,0 +1,8 @@
+97	188	Capacity_and_resources
+192	258	Crime_and_punishment
+305	455	Political
+459	657	Economic
+1164	1377	Political
+1823	1962	Economic
+1966	2589	Legality_Constitutionality_and_jurisprudence
+2593	2703	Cultural_identity

@@ -1,0 +1,2 @@
+0	105	Political
+109	397	Capacity_and_resources

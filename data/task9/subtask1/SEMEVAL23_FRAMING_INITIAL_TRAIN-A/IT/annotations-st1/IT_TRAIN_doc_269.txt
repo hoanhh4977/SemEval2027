@@ -1,0 +1,4 @@
+0	65	Economic
+1556	1893	Economic
+1897	2185	Economic	External_regulation_and_reputation
+2329	2642	Economic

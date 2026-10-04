@@ -1,0 +1,2 @@
+0	90	Economic
+2234	2857	Morality	Economic

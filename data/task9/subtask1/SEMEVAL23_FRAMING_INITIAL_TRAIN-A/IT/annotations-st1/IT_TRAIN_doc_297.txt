@@ -1,0 +1,7 @@
+276	542	Capacity_and_resources	Political
+741	1258	Economic	Quality_of_life
+1693	1931	Public_opinion
+2640	3035	Capacity_and_resources
+3271	3834	Policy_prescription_and_evaluation	External_regulation_and_reputation
+3838	4102	Economic
+4106	4763	Fairness_and_equality

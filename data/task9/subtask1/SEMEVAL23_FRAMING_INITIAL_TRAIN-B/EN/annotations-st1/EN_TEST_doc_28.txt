@@ -1,0 +1,9 @@
+0	86	Cultural_identity
+216	466	Crime_and_punishment
+871	1105	Political
+1109	1268	Cultural_identity
+1272	1537	Security_and_defense
+1953	2468	Cultural_identity
+2910	3286	Policy_prescription_and_evaluation	Political
+3290	3601	Morality
+4119	4437	Crime_and_punishment

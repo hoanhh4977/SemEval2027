@@ -1,0 +1,4 @@
+0	99	Cultural_identity
+243	701	Political
+838	1390	Political
+2048	2521	Political

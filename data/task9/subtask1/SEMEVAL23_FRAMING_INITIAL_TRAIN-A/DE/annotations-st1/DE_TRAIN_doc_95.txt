@@ -1,0 +1,8 @@
+0	71	Security_and_defense
+73	643	External_regulation_and_reputation
+645	1399	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation	Security_and_defense
+1401	2098	Morality
+2100	2868	Crime_and_punishment
+2870	3368	External_regulation_and_reputation	Security_and_defense
+3390	4496	Political
+4498	5012	Capacity_and_resources

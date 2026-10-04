@@ -1,0 +1,2 @@
+0	168	Morality
+172	664	External_regulation_and_reputation	Security_and_defense

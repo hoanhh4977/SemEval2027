@@ -1,0 +1,4 @@
+56	608	Quality_of_life	Capacity_and_resources
+1343	2371	Capacity_and_resources
+2493	3065	Economic	External_regulation_and_reputation	Health_and_safety
+3069	3423	Economic

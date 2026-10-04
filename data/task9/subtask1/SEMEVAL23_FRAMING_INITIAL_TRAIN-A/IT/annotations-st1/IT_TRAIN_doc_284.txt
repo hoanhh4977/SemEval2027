@@ -1,0 +1,3 @@
+0	50	Health_and_safety	Political
+162	1227	Health_and_safety
+2191	3218	Health_and_safety

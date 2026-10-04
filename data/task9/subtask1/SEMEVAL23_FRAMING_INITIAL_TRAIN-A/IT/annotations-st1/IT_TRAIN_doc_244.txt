@@ -1,0 +1,4 @@
+0	77	Quality_of_life	Capacity_and_resources
+81	573	Capacity_and_resources
+607	2848	Policy_prescription_and_evaluation
+2876	6859	Quality_of_life

@@ -1,0 +1,2 @@
+48	112	Morality
+184	770	Security_and_defense

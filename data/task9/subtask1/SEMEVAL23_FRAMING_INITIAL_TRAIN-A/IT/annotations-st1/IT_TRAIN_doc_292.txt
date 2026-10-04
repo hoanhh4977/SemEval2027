@@ -1,0 +1,4 @@
+0	468	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation	Capacity_and_resources	Political
+909	1254	Legality_Constitutionality_and_jurisprudence
+1256	1703	Public_opinion
+2790	3171	Economic

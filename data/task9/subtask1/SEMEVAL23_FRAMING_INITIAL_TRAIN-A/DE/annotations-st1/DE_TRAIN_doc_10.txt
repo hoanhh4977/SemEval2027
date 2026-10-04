@@ -1,0 +1,13 @@
+0	57	Security_and_defense
+446	784	Morality	Security_and_defense
+786	962	External_regulation_and_reputation	Security_and_defense
+964	1280	Security_and_defense
+1282	2095	Security_and_defense
+2097	3035	Security_and_defense	Political
+3668	4350	Economic	Security_and_defense
+4352	4796	Capacity_and_resources	Security_and_defense
+4798	5201	Legality_Constitutionality_and_jurisprudence
+5996	6722	Security_and_defense
+7267	7800	Security_and_defense
+8000	8504	Health_and_safety	Quality_of_life
+8506	9039	Security_and_defense

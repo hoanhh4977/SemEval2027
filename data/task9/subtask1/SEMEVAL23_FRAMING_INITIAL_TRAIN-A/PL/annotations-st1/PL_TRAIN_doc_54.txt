@@ -1,0 +1,9 @@
+0	52	Security_and_defense
+1086	2565	Political
+4825	5764	Capacity_and_resources	Public_opinion
+7451	9029	Economic
+10330	11848	External_regulation_and_reputation
+12736	12753	Policy_prescription_and_evaluation
+13009	14452	Economic
+14456	15600	Crime_and_punishment
+22850	23988	Cultural_identity	Public_opinion

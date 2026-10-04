@@ -1,0 +1,2 @@
+55	349	Political
+351	1243	Legality_Constitutionality_and_jurisprudence	Quality_of_life	Political

@@ -1,0 +1,3 @@
+101	823	External_regulation_and_reputation	Health_and_safety
+1325	1707	Policy_prescription_and_evaluation	Quality_of_life
+1711	2035	Economic	External_regulation_and_reputation

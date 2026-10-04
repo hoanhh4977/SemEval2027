@@ -1,0 +1,4 @@
+74	292	Economic	Public_opinion
+296	856	Economic	Health_and_safety	Political
+860	1233	Economic	Quality_of_life
+1927	2416	Economic	External_regulation_and_reputation

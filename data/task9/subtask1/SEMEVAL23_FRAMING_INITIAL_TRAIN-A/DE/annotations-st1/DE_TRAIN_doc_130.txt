@@ -1,0 +1,2 @@
+0	29	Political
+33	1044	Morality	Security_and_defense	Political

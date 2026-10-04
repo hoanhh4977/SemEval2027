@@ -1,0 +1,5 @@
+74	599	Morality	External_regulation_and_reputation
+603	1343	Policy_prescription_and_evaluation	External_regulation_and_reputation	Security_and_defense
+3338	4045	Legality_Constitutionality_and_jurisprudence
+4049	4832	Morality	Cultural_identity
+5413	6122	Morality	External_regulation_and_reputation

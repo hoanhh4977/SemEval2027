@@ -1,0 +1,2 @@
+0	32	Quality_of_life
+36	7514	Morality

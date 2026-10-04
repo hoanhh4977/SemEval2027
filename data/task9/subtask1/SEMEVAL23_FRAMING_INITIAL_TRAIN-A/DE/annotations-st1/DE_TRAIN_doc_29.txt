@@ -1,0 +1,6 @@
+0	69	Capacity_and_resources
+73	701	Economic	Capacity_and_resources	Security_and_defense
+705	1599	Capacity_and_resources
+1603	2431	External_regulation_and_reputation	Political
+3301	4548	Economic
+4552	5132	Legality_Constitutionality_and_jurisprudence	Economic	Quality_of_life

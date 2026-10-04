@@ -1,0 +1,7 @@
+0	67	Security_and_defense
+69	236	Political
+305	779	External_regulation_and_reputation
+912	1093	Economic
+1095	1438	Security_and_defense
+1620	1931	Public_opinion
+1933	2298	Capacity_and_resources

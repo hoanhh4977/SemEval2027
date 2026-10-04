@@ -1,0 +1,9 @@
+33	145	Security_and_defense
+440	732	Capacity_and_resources
+736	1072	Policy_prescription_and_evaluation	Political
+1492	1831	Capacity_and_resources
+1835	2297	Security_and_defense
+2301	2753	Policy_prescription_and_evaluation	Crime_and_punishment
+2757	2997	Policy_prescription_and_evaluation
+3001	3516	Policy_prescription_and_evaluation	Economic	Crime_and_punishment
+3520	3659	Public_opinion

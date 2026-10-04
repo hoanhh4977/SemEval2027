@@ -1,0 +1,7 @@
+50	650	Political	Security_and_defense
+654	1294	Morality	External_regulation_and_reputation	Security_and_defense
+1298	2181	Political
+2185	2700	Crime_and_punishment
+2704	4041	Security_and_defense
+4045	4790	Economic	Cultural_identity	Capacity_and_resources	Security_and_defense
+4794	4983	Crime_and_punishment

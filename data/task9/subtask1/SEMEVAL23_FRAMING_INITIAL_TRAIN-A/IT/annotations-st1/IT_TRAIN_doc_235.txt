@@ -1,0 +1,7 @@
+0	89	Capacity_and_resources
+91	354	Capacity_and_resources
+356	485	Security_and_defense
+694	1007	Economic
+1009	1483	Public_opinion
+1764	2088	Economic	Quality_of_life
+2090	2632	Capacity_and_resources

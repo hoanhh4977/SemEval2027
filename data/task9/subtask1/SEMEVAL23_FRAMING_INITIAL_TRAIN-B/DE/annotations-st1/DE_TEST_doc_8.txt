@@ -1,0 +1,6 @@
+133	463	Policy_prescription_and_evaluation	Health_and_safety
+1928	2102	Morality
+2241	2527	Policy_prescription_and_evaluation
+2761	3244	Quality_of_life	Political
+3835	4301	Economic
+4303	4583	Health_and_safety

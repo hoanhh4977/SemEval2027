@@ -1,0 +1,4 @@
+66	425	Fairness_and_equality
+429	508	Economic
+512	1232	Economic
+1236	1741	Morality	Capacity_and_resources	Quality_of_life	Fairness_and_equality

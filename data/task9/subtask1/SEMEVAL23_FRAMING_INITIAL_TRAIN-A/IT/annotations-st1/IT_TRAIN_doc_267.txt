@@ -1,0 +1,5 @@
+61	464	Economic
+466	784	Political
+786	1328	Cultural_identity
+1852	2489	Quality_of_life
+2967	3784	Political

@@ -1,0 +1,2 @@
+0	99	External_regulation_and_reputation	Quality_of_life
+103	607	Economic	Capacity_and_resources

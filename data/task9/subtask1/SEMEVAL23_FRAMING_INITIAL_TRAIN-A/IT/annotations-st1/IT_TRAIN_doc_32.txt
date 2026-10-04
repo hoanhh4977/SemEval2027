@@ -1,0 +1,8 @@
+112	497	External_regulation_and_reputation
+499	825	Legality_Constitutionality_and_jurisprudence
+827	935	External_regulation_and_reputation
+1068	1295	Security_and_defense
+1297	1569	Policy_prescription_and_evaluation	Capacity_and_resources
+1571	1733	Economic
+5982	6413	Capacity_and_resources
+10865	11178	Health_and_safety

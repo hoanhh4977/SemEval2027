@@ -1,0 +1,4 @@
+0	74	Capacity_and_resources
+76	249	Economic
+251	491	Economic
+734	1062	Economic

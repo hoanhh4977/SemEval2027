@@ -1,0 +1,6 @@
+65	862	Economic	External_regulation_and_reputation	Political	Public_opinion	Crime_and_punishment
+898	1718	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+1744	2488	Health_and_safety
+2510	3738	Economic	Political
+3757	4577	Crime_and_punishment
+4598	5469	Economic	Security_and_defense

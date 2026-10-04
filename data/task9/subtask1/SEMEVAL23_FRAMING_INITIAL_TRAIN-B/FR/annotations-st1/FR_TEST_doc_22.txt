@@ -1,0 +1,3 @@
+0	72	Health_and_safety
+335	739	Capacity_and_resources
+2133	2551	Quality_of_life	Political

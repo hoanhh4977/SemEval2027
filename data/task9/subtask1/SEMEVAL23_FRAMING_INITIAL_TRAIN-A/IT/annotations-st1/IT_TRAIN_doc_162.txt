@@ -1,0 +1,3 @@
+29	861	Policy_prescription_and_evaluation	External_regulation_and_reputation	Political
+865	1869	Security_and_defense	Crime_and_punishment
+1873	3012	Economic	Capacity_and_resources

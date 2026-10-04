@@ -1,0 +1,5 @@
+73	580	Capacity_and_resources
+584	784	Political
+788	1430	Policy_prescription_and_evaluation	Economic	Capacity_and_resources
+1434	2211	Capacity_and_resources	Quality_of_life	Fairness_and_equality
+2215	2676	Cultural_identity

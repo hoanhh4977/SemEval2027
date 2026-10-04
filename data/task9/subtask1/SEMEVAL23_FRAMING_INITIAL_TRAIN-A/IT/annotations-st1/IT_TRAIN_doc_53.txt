@@ -1,0 +1,5 @@
+39	393	Policy_prescription_and_evaluation	External_regulation_and_reputation	Capacity_and_resources
+397	681	Security_and_defense
+685	918	Legality_Constitutionality_and_jurisprudence
+1208	1316	Quality_of_life
+2481	2716	Morality

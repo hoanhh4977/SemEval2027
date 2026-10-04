@@ -1,0 +1,4 @@
+1073	1275	Economic	Security_and_defense
+1277	1705	Health_and_safety	Political
+1809	1994	Political
+1996	2191	Political

@@ -1,0 +1,8 @@
+0	59	Political
+63	414	Fairness_and_equality
+418	834	Health_and_safety	Security_and_defense
+1348	1561	Public_opinion
+4150	4596	Morality
+5376	5739	External_regulation_and_reputation
+5743	5988	Capacity_and_resources
+6372	6689	Policy_prescription_and_evaluation

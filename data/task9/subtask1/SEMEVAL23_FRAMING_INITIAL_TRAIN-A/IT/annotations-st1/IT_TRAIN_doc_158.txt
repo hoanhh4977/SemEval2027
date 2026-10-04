@@ -1,0 +1,5 @@
+498	1134	Economic
+1496	1892	External_regulation_and_reputation	Security_and_defense
+3635	4116	Economic
+4120	4897	Economic
+5857	6516	Economic

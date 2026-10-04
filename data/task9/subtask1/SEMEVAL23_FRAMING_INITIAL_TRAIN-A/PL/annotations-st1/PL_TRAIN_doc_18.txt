@@ -1,0 +1,5 @@
+0	86	Economic
+90	343	Health_and_safety
+347	611	Capacity_and_resources
+615	851	Quality_of_life
+2394	2623	Health_and_safety

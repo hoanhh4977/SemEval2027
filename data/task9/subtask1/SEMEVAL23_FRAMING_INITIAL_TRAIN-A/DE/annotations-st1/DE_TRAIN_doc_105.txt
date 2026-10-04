@@ -1,0 +1,15 @@
+0	80	Capacity_and_resources
+84	422	Security_and_defense
+690	2081	Crime_and_punishment
+3067	3907	Policy_prescription_and_evaluation	Economic	Quality_of_life	Fairness_and_equality
+4747	5260	Political
+7415	8545	Legality_Constitutionality_and_jurisprudence	Economic	Quality_of_life
+8549	9689	Crime_and_punishment
+9717	11108	Cultural_identity	Crime_and_punishment
+11112	12600	Cultural_identity
+14110	15109	External_regulation_and_reputation	Security_and_defense
+15113	16078	Crime_and_punishment
+17494	18315	Crime_and_punishment
+18319	18582	Capacity_and_resources	Political
+20756	21421	Capacity_and_resources
+21425	22246	Health_and_safety

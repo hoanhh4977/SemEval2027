@@ -1,0 +1,5 @@
+0	96	Public_opinion
+100	388	Policy_prescription_and_evaluation
+392	947	Political	Public_opinion
+2064	2312	Health_and_safety
+2316	2457	Quality_of_life

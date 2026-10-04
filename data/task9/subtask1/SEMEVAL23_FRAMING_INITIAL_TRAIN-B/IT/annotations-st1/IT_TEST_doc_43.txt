@@ -1,0 +1,4 @@
+43	268	Policy_prescription_and_evaluation	Health_and_safety
+808	1588	Quality_of_life
+1590	2045	Economic	Capacity_and_resources
+2875	3573	Health_and_safety

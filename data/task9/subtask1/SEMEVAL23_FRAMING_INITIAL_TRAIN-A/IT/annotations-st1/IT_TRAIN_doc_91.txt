@@ -1,0 +1,2 @@
+0	85	Morality
+89	2184	Economic	Political	Public_opinion

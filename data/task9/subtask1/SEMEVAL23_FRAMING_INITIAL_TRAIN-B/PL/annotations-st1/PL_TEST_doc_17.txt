@@ -1,0 +1,7 @@
+31	909	Cultural_identity	External_regulation_and_reputation
+933	1986	External_regulation_and_reputation
+1990	2465	Morality
+2469	3165	Crime_and_punishment
+4866	6296	Morality	Quality_of_life
+6316	7480	Health_and_safety
+10941	12268	Quality_of_life

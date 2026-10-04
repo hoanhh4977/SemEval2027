@@ -1,0 +1,3 @@
+0	85	Economic
+443	1605	Health_and_safety	Quality_of_life
+3518	4231	Public_opinion

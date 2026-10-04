@@ -1,0 +1,5 @@
+30	265	Cultural_identity
+267	495	Public_opinion
+568	1065	Political
+2831	3434	Policy_prescription_and_evaluation
+3436	3710	Economic

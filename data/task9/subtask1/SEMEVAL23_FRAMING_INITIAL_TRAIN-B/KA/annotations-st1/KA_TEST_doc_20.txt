@@ -1,0 +1,3 @@
+139	581	Political
+732	1355	Political
+1933	2927	Political	Public_opinion

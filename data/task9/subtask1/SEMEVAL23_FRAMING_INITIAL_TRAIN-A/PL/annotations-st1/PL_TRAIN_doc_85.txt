@@ -1,0 +1,6 @@
+0	81	Security_and_defense
+85	500	Capacity_and_resources
+504	551	Quality_of_life
+555	819	Health_and_safety
+823	1262	Policy_prescription_and_evaluation	External_regulation_and_reputation
+1817	2142	Capacity_and_resources

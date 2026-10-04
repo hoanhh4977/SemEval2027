@@ -1,0 +1,3 @@
+80	631	Policy_prescription_and_evaluation
+635	1614	Legality_Constitutionality_and_jurisprudence	Political	Public_opinion
+1618	2497	Quality_of_life	Health_and_safety

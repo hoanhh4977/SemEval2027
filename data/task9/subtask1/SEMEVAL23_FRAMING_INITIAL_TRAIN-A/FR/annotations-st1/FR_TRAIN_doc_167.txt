@@ -1,0 +1,3 @@
+0	75	Economic
+1830	2147	Capacity_and_resources
+3086	3886	Quality_of_life

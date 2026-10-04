@@ -1,0 +1,6 @@
+0	95	Security_and_defense
+97	228	Political
+712	1027	Political
+1029	1340	Economic	Security_and_defense
+1675	1886	Political
+1888	2204	Political

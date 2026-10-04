@@ -1,0 +1,2 @@
+0	75	Economic	External_regulation_and_reputation	Political
+2776	3136	Economic	Security_and_defense

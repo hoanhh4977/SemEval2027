@@ -1,0 +1,7 @@
+89	494	Political
+735	1261	Morality
+2676	3321	Public_opinion
+5297	5640	Fairness_and_equality
+5644	6330	Morality
+7732	8276	Security_and_defense
+8280	9101	Health_and_safety

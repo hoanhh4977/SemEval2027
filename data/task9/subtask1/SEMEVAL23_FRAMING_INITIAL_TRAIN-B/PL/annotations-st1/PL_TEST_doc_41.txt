@@ -1,0 +1,2 @@
+105	260	Political
+1560	1723	Cultural_identity

@@ -1,0 +1,5 @@
+44	304	Economic	Capacity_and_resources
+780	1180	Quality_of_life
+1182	1867	Policy_prescription_and_evaluation
+1869	2490	Quality_of_life	Political
+2492	3128	Legality_Constitutionality_and_jurisprudence	Economic

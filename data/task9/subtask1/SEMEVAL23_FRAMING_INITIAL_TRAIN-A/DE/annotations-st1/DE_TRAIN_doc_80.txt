@@ -1,0 +1,2 @@
+55	572	Cultural_identity	Security_and_defense
+574	1300	Security_and_defense

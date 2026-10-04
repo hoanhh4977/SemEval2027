@@ -1,0 +1,9 @@
+334	666	Health_and_safety
+2935	3593	Health_and_safety	Public_opinion
+5692	6252	Political
+7613	8045	Policy_prescription_and_evaluation
+9306	9927	Political
+9929	10407	Public_opinion
+10919	11560	Economic
+13551	13951	Health_and_safety
+15034	15445	Public_opinion

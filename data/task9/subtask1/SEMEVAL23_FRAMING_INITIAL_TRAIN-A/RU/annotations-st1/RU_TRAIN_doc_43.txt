@@ -1,0 +1,2 @@
+0	17	Security_and_defense
+21	4143	Economic	Capacity_and_resources	Quality_of_life	Security_and_defense	Political	Crime_and_punishment

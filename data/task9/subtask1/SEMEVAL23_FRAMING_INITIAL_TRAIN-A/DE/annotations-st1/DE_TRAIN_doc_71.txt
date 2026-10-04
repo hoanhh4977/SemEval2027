@@ -1,0 +1,8 @@
+0	141	Fairness_and_equality
+145	808	Capacity_and_resources	Health_and_safety
+812	1165	Public_opinion
+1883	2357	Security_and_defense
+2361	2961	Political
+2965	3481	Policy_prescription_and_evaluation	Economic	Fairness_and_equality
+3485	3850	Economic
+3854	4541	External_regulation_and_reputation	Health_and_safety

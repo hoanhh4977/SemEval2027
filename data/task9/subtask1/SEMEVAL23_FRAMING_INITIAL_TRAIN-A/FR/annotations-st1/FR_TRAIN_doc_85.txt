@@ -1,0 +1,2 @@
+0	57	Legality_Constitutionality_and_jurisprudence	Political
+59	632	Quality_of_life	Public_opinion	Crime_and_punishment

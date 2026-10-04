@@ -1,0 +1,5 @@
+0	90	Capacity_and_resources
+92	270	Security_and_defense
+486	689	Security_and_defense
+1107	1206	Political
+1594	1806	Political

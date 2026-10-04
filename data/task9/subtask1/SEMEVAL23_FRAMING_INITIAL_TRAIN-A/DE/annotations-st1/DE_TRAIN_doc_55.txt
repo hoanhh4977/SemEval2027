@@ -1,0 +1,2 @@
+25	762	External_regulation_and_reputation	Security_and_defense
+3331	5348	Economic	Security_and_defense	Political

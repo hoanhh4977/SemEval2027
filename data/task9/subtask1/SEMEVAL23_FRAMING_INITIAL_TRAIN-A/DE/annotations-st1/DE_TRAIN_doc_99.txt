@@ -1,0 +1,10 @@
+0	47	Security_and_defense
+286	498	External_regulation_and_reputation
+502	918	Political
+922	1128	Legality_Constitutionality_and_jurisprudence
+1733	2168	Capacity_and_resources	Fairness_and_equality
+2172	2776	Legality_Constitutionality_and_jurisprudence	Economic
+2780	3044	Policy_prescription_and_evaluation
+3048	3464	Economic
+3468	3969	Capacity_and_resources
+3973	4442	Policy_prescription_and_evaluation	Security_and_defense

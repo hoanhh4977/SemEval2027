@@ -1,0 +1,5 @@
+0	71	Security_and_defense
+237	438	Legality_Constitutionality_and_jurisprudence
+442	761	Legality_Constitutionality_and_jurisprudence
+919	1365	Security_and_defense
+1927	2298	Fairness_and_equality

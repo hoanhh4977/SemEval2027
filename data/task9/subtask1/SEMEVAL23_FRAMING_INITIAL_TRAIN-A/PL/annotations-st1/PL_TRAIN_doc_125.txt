@@ -1,0 +1,4 @@
+384	695	Security_and_defense	Crime_and_punishment
+697	983	Political
+985	1231	Political
+1492	1631	Health_and_safety

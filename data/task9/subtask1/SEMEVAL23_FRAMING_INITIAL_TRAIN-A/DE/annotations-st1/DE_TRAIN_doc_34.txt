@@ -1,0 +1,6 @@
+0	64	Public_opinion
+68	335	Political
+377	723	Public_opinion
+1570	1607	Economic
+1971	2344	Economic	Security_and_defense
+2348	2605	Political

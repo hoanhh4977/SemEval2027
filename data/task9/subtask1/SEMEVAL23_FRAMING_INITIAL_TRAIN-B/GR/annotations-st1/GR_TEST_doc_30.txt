@@ -1,0 +1,6 @@
+67	308	Political
+310	663	Political
+665	1004	Political
+1006	1261	Political
+1263	1945	Security_and_defense
+2879	3196	Security_and_defense

@@ -1,0 +1,6 @@
+103	425	External_regulation_and_reputation	Political
+1383	2061	Public_opinion
+2065	2559	Political
+2563	2789	Political
+2793	3443	Security_and_defense
+3447	3594	External_regulation_and_reputation

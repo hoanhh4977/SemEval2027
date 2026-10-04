@@ -1,0 +1,3 @@
+13	244	Cultural_identity
+246	523	Morality	Crime_and_punishment
+525	899	Security_and_defense

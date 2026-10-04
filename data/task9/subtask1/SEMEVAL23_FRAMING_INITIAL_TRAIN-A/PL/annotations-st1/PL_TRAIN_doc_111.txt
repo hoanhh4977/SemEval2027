@@ -1,0 +1,5 @@
+70	229	Security_and_defense
+233	478	Legality_Constitutionality_and_jurisprudence
+1508	1863	Crime_and_punishment
+3022	3341	Policy_prescription_and_evaluation
+6557	7105	Political

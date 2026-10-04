@@ -1,0 +1,3 @@
+0	95	Economic
+99	391	Economic	External_regulation_and_reputation
+395	1033	Economic	Capacity_and_resources	Security_and_defense

@@ -1,0 +1,5 @@
+405	798	Capacity_and_resources
+1404	1711	Cultural_identity
+2751	3098	Economic
+3202	3446	Capacity_and_resources
+3448	3869	External_regulation_and_reputation

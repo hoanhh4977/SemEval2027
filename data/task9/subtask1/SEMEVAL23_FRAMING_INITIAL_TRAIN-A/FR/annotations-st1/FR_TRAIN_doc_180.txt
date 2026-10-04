@@ -1,0 +1,3 @@
+225	1258	Economic	Security_and_defense
+1262	1845	Security_and_defense
+4671	5449	External_regulation_and_reputation

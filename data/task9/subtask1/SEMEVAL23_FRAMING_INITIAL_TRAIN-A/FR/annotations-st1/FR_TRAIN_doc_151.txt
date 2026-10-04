@@ -1,0 +1,7 @@
+51	196	Legality_Constitutionality_and_jurisprudence
+198	364	Policy_prescription_and_evaluation
+366	671	Capacity_and_resources
+1239	1530	Economic
+1532	1941	Political
+4215	4842	Policy_prescription_and_evaluation
+5859	6172	Legality_Constitutionality_and_jurisprudence

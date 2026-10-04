@@ -1,0 +1,4 @@
+14	636	Morality
+638	1375	External_regulation_and_reputation	Health_and_safety
+1377	2051	Security_and_defense
+2053	3445	Quality_of_life	Public_opinion

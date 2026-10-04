@@ -1,0 +1,5 @@
+65	295	Economic	Quality_of_life
+299	846	Quality_of_life
+1112	1516	Economic	Political
+1970	2373	Capacity_and_resources
+2703	3236	Capacity_and_resources

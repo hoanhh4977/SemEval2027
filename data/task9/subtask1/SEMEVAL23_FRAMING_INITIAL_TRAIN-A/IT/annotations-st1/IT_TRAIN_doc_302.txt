@@ -1,0 +1,5 @@
+0	85	Economic
+1133	1237	Security_and_defense
+1455	1703	Quality_of_life
+1896	2082	External_regulation_and_reputation
+2241	2407	Capacity_and_resources

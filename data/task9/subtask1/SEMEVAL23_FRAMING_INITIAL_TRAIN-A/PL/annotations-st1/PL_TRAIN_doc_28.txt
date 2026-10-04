@@ -1,0 +1,7 @@
+69	496	Security_and_defense
+500	877	Policy_prescription_and_evaluation	Security_and_defense
+919	1129	Policy_prescription_and_evaluation
+1378	1532	Health_and_safety
+1684	2204	Political
+2502	3081	Capacity_and_resources
+3442	3841	Health_and_safety

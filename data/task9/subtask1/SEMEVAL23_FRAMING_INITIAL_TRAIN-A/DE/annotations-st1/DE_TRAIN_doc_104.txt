@@ -1,0 +1,7 @@
+0	947	Economic	Security_and_defense
+951	1421	Political
+1599	1760	Economic
+2638	2801	Crime_and_punishment
+2835	3289	Economic
+3293	3787	Political
+3791	4391	Economic	Quality_of_life

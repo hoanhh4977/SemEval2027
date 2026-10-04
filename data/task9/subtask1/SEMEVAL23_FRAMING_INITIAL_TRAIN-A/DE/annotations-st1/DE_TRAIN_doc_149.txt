@@ -1,0 +1,4 @@
+68	149	Political	Public_opinion
+151	773	Crime_and_punishment
+775	1239	Economic
+1241	2017	Crime_and_punishment

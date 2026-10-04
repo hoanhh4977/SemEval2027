@@ -1,0 +1,6 @@
+1093	1869	Security_and_defense
+2664	3244	Economic	Political
+3395	3688	Security_and_defense
+4264	4633	Morality
+4891	5198	Capacity_and_resources
+6458	7042	Public_opinion

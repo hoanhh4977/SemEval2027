@@ -1,0 +1,5 @@
+56	520	Political
+524	888	Economic	Security_and_defense
+892	1139	External_regulation_and_reputation
+1143	1787	Legality_Constitutionality_and_jurisprudence	Morality
+1791	2060	Policy_prescription_and_evaluation

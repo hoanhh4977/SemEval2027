@@ -1,0 +1,12 @@
+72	282	Health_and_safety
+284	949	Health_and_safety
+1302	1698	Cultural_identity	Capacity_and_resources
+1700	2141	Fairness_and_equality
+2143	2541	Public_opinion
+3490	3639	Quality_of_life
+3641	4488	Economic
+4578	4861	Quality_of_life
+4863	5348	Policy_prescription_and_evaluation
+5350	5973	Public_opinion
+6445	7040	Economic	Political
+10975	11291	Security_and_defense

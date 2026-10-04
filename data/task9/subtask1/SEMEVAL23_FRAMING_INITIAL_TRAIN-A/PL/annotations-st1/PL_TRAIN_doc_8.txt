@@ -1,0 +1,5 @@
+0	61	Health_and_safety	Quality_of_life	Security_and_defense
+251	583	Health_and_safety
+854	1334	Health_and_safety
+2019	2463	Health_and_safety
+3136	3459	Economic

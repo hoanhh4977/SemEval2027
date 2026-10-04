@@ -1,0 +1,4 @@
+109	344	Capacity_and_resources	Security_and_defense
+346	672	Economic
+674	1063	Political
+1065	1341	Capacity_and_resources

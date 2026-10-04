@@ -1,0 +1,3 @@
+0	117	Political
+543	762	Political
+764	2273	External_regulation_and_reputation

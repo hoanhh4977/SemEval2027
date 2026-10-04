@@ -1,0 +1,6 @@
+0	101	Security_and_defense
+103	493	Security_and_defense
+495	690	Security_and_defense
+692	962	Security_and_defense
+2070	2131	Security_and_defense
+2133	2612	External_regulation_and_reputation	Security_and_defense

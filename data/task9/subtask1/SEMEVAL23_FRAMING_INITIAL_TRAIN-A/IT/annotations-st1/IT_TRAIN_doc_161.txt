@@ -1,0 +1,4 @@
+129	536	Fairness_and_equality
+538	825	Political
+827	1080	Policy_prescription_and_evaluation	Security_and_defense
+1082	1463	Policy_prescription_and_evaluation	Health_and_safety	Security_and_defense

@@ -1,0 +1,4 @@
+0	112	Political
+341	650	Health_and_safety
+654	843	Legality_Constitutionality_and_jurisprudence
+1249	1631	Morality

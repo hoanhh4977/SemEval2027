@@ -1,0 +1,2 @@
+70	494	Political
+496	935	Fairness_and_equality

@@ -1,0 +1,4 @@
+0	75	Security_and_defense
+690	1032	Security_and_defense
+1034	1596	Political
+1598	1940	Political

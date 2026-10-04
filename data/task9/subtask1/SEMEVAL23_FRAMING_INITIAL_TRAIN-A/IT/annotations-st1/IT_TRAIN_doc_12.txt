@@ -1,0 +1,11 @@
+49	255	External_regulation_and_reputation
+1834	1950	Capacity_and_resources
+2291	2438	Legality_Constitutionality_and_jurisprudence
+2664	2779	Economic
+2783	3001	Economic
+3005	3315	Capacity_and_resources
+4450	4757	Policy_prescription_and_evaluation
+5555	5827	Policy_prescription_and_evaluation	Health_and_safety
+6220	6489	External_regulation_and_reputation
+6493	6712	Quality_of_life
+8839	9147	Political

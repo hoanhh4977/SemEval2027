@@ -1,0 +1,6 @@
+1258	1763	External_regulation_and_reputation
+2571	3257	External_regulation_and_reputation
+4577	5117	Economic
+10441	10734	Economic
+11104	11298	Economic
+12773	13035	External_regulation_and_reputation

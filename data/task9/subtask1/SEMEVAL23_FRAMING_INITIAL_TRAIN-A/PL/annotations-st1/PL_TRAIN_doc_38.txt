@@ -1,0 +1,4 @@
+27	392	Economic	Capacity_and_resources
+394	734	Quality_of_life
+736	1094	Political
+1395	1845	Policy_prescription_and_evaluation

@@ -1,0 +1,3 @@
+0	52	Health_and_safety
+56	462	Health_and_safety
+515	1020	Security_and_defense

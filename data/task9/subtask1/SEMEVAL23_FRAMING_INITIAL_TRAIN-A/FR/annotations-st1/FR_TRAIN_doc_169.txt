@@ -1,0 +1,5 @@
+0	62	Political
+64	345	Security_and_defense
+648	940	Political
+1321	1728	Legality_Constitutionality_and_jurisprudence
+1730	2201	Health_and_safety

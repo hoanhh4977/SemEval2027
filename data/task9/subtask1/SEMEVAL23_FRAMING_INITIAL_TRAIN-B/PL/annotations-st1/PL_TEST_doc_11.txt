@@ -1,0 +1,9 @@
+80	736	Economic	Health_and_safety	Quality_of_life	Capacity_and_resources
+767	1267	Political
+1271	1977	Political
+3207	3929	Health_and_safety
+4254	5143	Policy_prescription_and_evaluation
+6440	6840	Quality_of_life	Health_and_safety
+6844	7155	Economic
+7159	7628	Fairness_and_equality
+7678	8081	External_regulation_and_reputation

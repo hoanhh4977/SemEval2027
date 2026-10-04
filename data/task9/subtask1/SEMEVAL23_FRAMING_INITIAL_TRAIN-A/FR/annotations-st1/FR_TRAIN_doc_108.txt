@@ -1,0 +1,3 @@
+25	829	Security_and_defense	Political
+833	1566	Security_and_defense
+4388	4818	Morality	Security_and_defense

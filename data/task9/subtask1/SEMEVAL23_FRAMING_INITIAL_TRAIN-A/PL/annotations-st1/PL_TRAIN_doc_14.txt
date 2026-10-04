@@ -1,0 +1,4 @@
+76	143	Economic
+145	603	Capacity_and_resources	Health_and_safety
+2891	3233	Quality_of_life
+3931	4154	Quality_of_life

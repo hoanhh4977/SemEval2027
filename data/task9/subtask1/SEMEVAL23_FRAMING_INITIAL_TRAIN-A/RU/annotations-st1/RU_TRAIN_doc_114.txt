@@ -1,0 +1,11 @@
+254	807	Economic
+811	1136	Quality_of_life
+1140	1470	Economic	Health_and_safety
+1474	1934	Economic
+8511	8893	External_regulation_and_reputation
+9196	9569	Capacity_and_resources
+10076	10322	Capacity_and_resources
+10841	11220	Economic
+11610	11911	Economic
+11915	12154	External_regulation_and_reputation
+12374	12720	Public_opinion

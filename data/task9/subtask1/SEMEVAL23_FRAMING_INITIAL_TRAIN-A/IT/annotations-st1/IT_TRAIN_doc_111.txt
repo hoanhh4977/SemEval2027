@@ -1,0 +1,4 @@
+0	100	Capacity_and_resources
+102	648	Capacity_and_resources
+650	1425	Policy_prescription_and_evaluation	Economic
+1427	2083	Economic	Health_and_safety

@@ -1,0 +1,3 @@
+74	326	Economic
+1667	1997	Capacity_and_resources
+2359	2611	Political

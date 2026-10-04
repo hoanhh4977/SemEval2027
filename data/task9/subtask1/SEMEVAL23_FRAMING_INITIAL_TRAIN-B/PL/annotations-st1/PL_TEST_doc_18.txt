@@ -1,0 +1,7 @@
+57	292	Cultural_identity
+2565	2907	Political
+3977	4293	Health_and_safety	Fairness_and_equality
+4297	5171	Quality_of_life
+6912	7460	Policy_prescription_and_evaluation
+8549	8964	Economic
+8968	9403	Health_and_safety

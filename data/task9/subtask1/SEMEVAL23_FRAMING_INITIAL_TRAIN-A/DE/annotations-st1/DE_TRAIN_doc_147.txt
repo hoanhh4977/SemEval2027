@@ -1,0 +1,3 @@
+0	99	Health_and_safety
+229	524	Policy_prescription_and_evaluation
+528	905	Public_opinion

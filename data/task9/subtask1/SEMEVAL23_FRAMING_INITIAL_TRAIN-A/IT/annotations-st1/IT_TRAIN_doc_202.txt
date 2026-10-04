@@ -1,0 +1,2 @@
+26	545	Political
+1176	2726	Economic	Health_and_safety	Political

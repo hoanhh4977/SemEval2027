@@ -1,0 +1,5 @@
+0	72	Political
+74	603	Political
+605	1261	Economic
+1263	1931	Capacity_and_resources
+2580	2747	Quality_of_life	Health_and_safety

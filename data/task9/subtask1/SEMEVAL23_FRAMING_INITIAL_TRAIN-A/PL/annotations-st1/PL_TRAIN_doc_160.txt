@@ -1,0 +1,8 @@
+93	335	Political
+337	749	Economic	Health_and_safety	Security_and_defense
+1867	2410	Quality_of_life
+2412	2953	Health_and_safety
+4167	4873	Capacity_and_resources
+4875	5326	Political
+5975	6869	Economic	Health_and_safety
+6871	7655	Public_opinion

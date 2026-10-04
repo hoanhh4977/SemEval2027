@@ -1,0 +1,368 @@
+GR_TEST_doc_1.txt	332	1114	Security_and_defense	Political
+GR_TEST_doc_1.txt	1598	1905	External_regulation_and_reputation
+GR_TEST_doc_2.txt	256	650	Security_and_defense
+GR_TEST_doc_2.txt	652	1152	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+GR_TEST_doc_3.txt	32	400	Political
+GR_TEST_doc_3.txt	402	423	Political
+GR_TEST_doc_3.txt	425	1034	Political
+GR_TEST_doc_3.txt	1036	1042	Political
+GR_TEST_doc_3.txt	1044	1599	Legality_Constitutionality_and_jurisprudence	Political
+GR_TEST_doc_3.txt	1610	2398	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_4.txt	283	482	Economic
+GR_TEST_doc_4.txt	484	697	Economic
+GR_TEST_doc_4.txt	934	1131	Policy_prescription_and_evaluation	Economic
+GR_TEST_doc_4.txt	1133	1276	Economic
+GR_TEST_doc_4.txt	1278	1495	Economic
+GR_TEST_doc_4.txt	1521	1851	Economic
+GR_TEST_doc_4.txt	1853	1877	Economic
+GR_TEST_doc_4.txt	1879	2084	Economic
+GR_TEST_doc_4.txt	2086	2153	Economic
+GR_TEST_doc_4.txt	2155	2347	Economic
+GR_TEST_doc_4.txt	2349	2452	Economic
+GR_TEST_doc_4.txt	2454	2565	Economic
+GR_TEST_doc_4.txt	2567	2660	Economic
+GR_TEST_doc_4.txt	2662	2892	Economic
+GR_TEST_doc_4.txt	2894	3252	Economic
+GR_TEST_doc_4.txt	4069	4231	Economic
+GR_TEST_doc_4.txt	4233	4382	Economic
+GR_TEST_doc_4.txt	4384	4634	Economic
+GR_TEST_doc_4.txt	5374	5512	Economic
+GR_TEST_doc_6.txt	720	1176	Political
+GR_TEST_doc_6.txt	1180	1644	Political
+GR_TEST_doc_7.txt	0	86	Crime_and_punishment
+GR_TEST_doc_7.txt	88	269	Crime_and_punishment
+GR_TEST_doc_7.txt	271	486	Crime_and_punishment
+GR_TEST_doc_7.txt	488	532	Crime_and_punishment
+GR_TEST_doc_7.txt	534	862	Crime_and_punishment
+GR_TEST_doc_7.txt	864	1021	Crime_and_punishment
+GR_TEST_doc_7.txt	1023	1042	Crime_and_punishment
+GR_TEST_doc_7.txt	1044	1252	Crime_and_punishment
+GR_TEST_doc_7.txt	1254	1554	Crime_and_punishment
+GR_TEST_doc_9.txt	0	191	Capacity_and_resources
+GR_TEST_doc_9.txt	193	524	Capacity_and_resources	Public_opinion
+GR_TEST_doc_9.txt	526	685	Political
+GR_TEST_doc_9.txt	808	1037	Public_opinion
+GR_TEST_doc_9.txt	1361	1647	Economic
+GR_TEST_doc_9.txt	1698	1985	Economic	Political
+GR_TEST_doc_9.txt	1987	2311	Capacity_and_resources
+GR_TEST_doc_9.txt	2313	2764	Economic	External_regulation_and_reputation
+GR_TEST_doc_9.txt	2766	2799	Public_opinion
+GR_TEST_doc_9.txt	3245	3265	Economic
+GR_TEST_doc_9.txt	3267	3610	Economic
+GR_TEST_doc_9.txt	3858	4122	Economic	Capacity_and_resources
+GR_TEST_doc_9.txt	4180	4385	Capacity_and_resources
+GR_TEST_doc_9.txt	5352	5656	Capacity_and_resources
+GR_TEST_doc_10.txt	30	596	Legality_Constitutionality_and_jurisprudence	Political
+GR_TEST_doc_10.txt	598	1116	Political
+GR_TEST_doc_10.txt	1129	1492	Fairness_and_equality
+GR_TEST_doc_10.txt	1920	2441	Capacity_and_resources
+GR_TEST_doc_10.txt	2443	2863	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_10.txt	3644	3903	Political
+GR_TEST_doc_11.txt	9	269	Cultural_identity
+GR_TEST_doc_11.txt	271	736	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_11.txt	1281	1605	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_11.txt	1607	1948	Political
+GR_TEST_doc_11.txt	1950	2691	Political
+GR_TEST_doc_12.txt	41	351	Security_and_defense
+GR_TEST_doc_12.txt	653	832	Political
+GR_TEST_doc_12.txt	834	1166	Security_and_defense
+GR_TEST_doc_12.txt	1745	1934	Capacity_and_resources	Security_and_defense
+GR_TEST_doc_12.txt	2472	3068	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+GR_TEST_doc_13.txt	94	427	Security_and_defense
+GR_TEST_doc_13.txt	615	952	Security_and_defense
+GR_TEST_doc_13.txt	954	1028	Security_and_defense
+GR_TEST_doc_13.txt	1030	1146	Security_and_defense
+GR_TEST_doc_13.txt	1297	1482	Economic
+GR_TEST_doc_13.txt	1484	1627	Security_and_defense
+GR_TEST_doc_13.txt	1629	1804	Security_and_defense
+GR_TEST_doc_13.txt	1806	1928	Security_and_defense
+GR_TEST_doc_13.txt	1930	1995	Security_and_defense
+GR_TEST_doc_13.txt	1997	2166	Security_and_defense
+GR_TEST_doc_13.txt	2168	2325	Security_and_defense
+GR_TEST_doc_13.txt	2327	2541	Security_and_defense
+GR_TEST_doc_13.txt	2782	3138	Political
+GR_TEST_doc_14.txt	0	82	Security_and_defense
+GR_TEST_doc_14.txt	84	257	Security_and_defense
+GR_TEST_doc_14.txt	743	919	Security_and_defense
+GR_TEST_doc_14.txt	921	1033	Security_and_defense
+GR_TEST_doc_15.txt	1	57	Economic
+GR_TEST_doc_15.txt	318	604	Health_and_safety
+GR_TEST_doc_15.txt	608	830	Health_and_safety
+GR_TEST_doc_15.txt	834	986	Policy_prescription_and_evaluation
+GR_TEST_doc_15.txt	2849	3099	Health_and_safety
+GR_TEST_doc_15.txt	3103	3487	Health_and_safety
+GR_TEST_doc_16.txt	0	101	Security_and_defense
+GR_TEST_doc_16.txt	103	493	Security_and_defense
+GR_TEST_doc_16.txt	495	690	Security_and_defense
+GR_TEST_doc_16.txt	692	962	Security_and_defense
+GR_TEST_doc_16.txt	2070	2131	Security_and_defense
+GR_TEST_doc_16.txt	2133	2612	External_regulation_and_reputation	Security_and_defense
+GR_TEST_doc_17.txt	59	190	Morality
+GR_TEST_doc_18.txt	1720	2110	Capacity_and_resources
+GR_TEST_doc_18.txt	2116	2484	Economic
+GR_TEST_doc_19.txt	799	1232	Political
+GR_TEST_doc_19.txt	1236	1558	Economic
+GR_TEST_doc_19.txt	1562	2008	Economic
+GR_TEST_doc_19.txt	2012	2384	Quality_of_life
+GR_TEST_doc_19.txt	2388	2736	Security_and_defense
+GR_TEST_doc_19.txt	2740	3094	Public_opinion
+GR_TEST_doc_20.txt	617	1329	Political
+GR_TEST_doc_20.txt	1333	2210	External_regulation_and_reputation
+GR_TEST_doc_20.txt	2214	2505	Political
+GR_TEST_doc_20.txt	3487	4371	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_20.txt	8987	9353	Security_and_defense
+GR_TEST_doc_21.txt	103	310	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_21.txt	312	494	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_21.txt	496	935	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_21.txt	2260	2672	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_21.txt	2674	3115	Political
+GR_TEST_doc_21.txt	3774	4089	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_21.txt	4091	4355	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_23.txt	24	738	Cultural_identity	Political	Security_and_defense
+GR_TEST_doc_23.txt	962	1514	Political	Public_opinion
+GR_TEST_doc_23.txt	1516	1921	Policy_prescription_and_evaluation
+GR_TEST_doc_23.txt	2106	2232	Political
+GR_TEST_doc_23.txt	2487	2767	Political
+GR_TEST_doc_23.txt	3115	3550	Political
+GR_TEST_doc_24.txt	74	326	Economic
+GR_TEST_doc_24.txt	1667	1997	Capacity_and_resources
+GR_TEST_doc_24.txt	2359	2611	Political
+GR_TEST_doc_25.txt	0	42	Political
+GR_TEST_doc_25.txt	44	513	Political
+GR_TEST_doc_25.txt	515	1032	Political
+GR_TEST_doc_25.txt	1034	1450	Political
+GR_TEST_doc_25.txt	1452	2068	Political
+GR_TEST_doc_25.txt	2070	2797	Political
+GR_TEST_doc_26.txt	0	126	Political
+GR_TEST_doc_26.txt	128	295	Political
+GR_TEST_doc_26.txt	703	764	Public_opinion
+GR_TEST_doc_26.txt	766	794	Public_opinion
+GR_TEST_doc_26.txt	796	872	Public_opinion
+GR_TEST_doc_26.txt	874	935	Public_opinion
+GR_TEST_doc_26.txt	937	974	Public_opinion
+GR_TEST_doc_26.txt	976	996	Public_opinion
+GR_TEST_doc_27.txt	75	179	Political
+GR_TEST_doc_27.txt	562	1726	Political
+GR_TEST_doc_27.txt	2668	2929	Political
+GR_TEST_doc_28.txt	25	800	Security_and_defense
+GR_TEST_doc_28.txt	1814	2375	Morality
+GR_TEST_doc_29.txt	41	366	Economic	Health_and_safety
+GR_TEST_doc_29.txt	1194	2364	Cultural_identity	Crime_and_punishment
+GR_TEST_doc_29.txt	2366	2729	Cultural_identity	Capacity_and_resources
+GR_TEST_doc_29.txt	2731	3232	Cultural_identity
+GR_TEST_doc_29.txt	3234	3479	Cultural_identity	Security_and_defense
+GR_TEST_doc_29.txt	3481	4579	Cultural_identity	Security_and_defense
+GR_TEST_doc_29.txt	4581	4705	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_30.txt	67	308	Political
+GR_TEST_doc_30.txt	310	663	Political
+GR_TEST_doc_30.txt	665	1004	Political
+GR_TEST_doc_30.txt	1006	1261	Political
+GR_TEST_doc_30.txt	1263	1945	Security_and_defense
+GR_TEST_doc_30.txt	2879	3196	Security_and_defense
+GR_TEST_doc_31.txt	0	140	Political
+GR_TEST_doc_31.txt	142	586	Policy_prescription_and_evaluation	Public_opinion
+GR_TEST_doc_31.txt	588	1199	Political
+GR_TEST_doc_32.txt	176	479	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_32.txt	481	804	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_32.txt	806	1443	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_32.txt	1445	2086	Policy_prescription_and_evaluation
+GR_TEST_doc_32.txt	2088	2719	Political
+GR_TEST_doc_32.txt	2721	2960	Political
+GR_TEST_doc_33.txt	456	711	Capacity_and_resources
+GR_TEST_doc_33.txt	980	1686	Political
+GR_TEST_doc_33.txt	1688	1910	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_34.txt	68	1033	Political	Crime_and_punishment
+GR_TEST_doc_34.txt	1739	3447	Legality_Constitutionality_and_jurisprudence	Morality
+GR_TEST_doc_34.txt	7471	10203	Morality
+GR_TEST_doc_34.txt	10268	10762	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_34.txt	10764	12106	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_34.txt	12671	14551	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_34.txt	20455	22569	Morality
+GR_TEST_doc_36.txt	1073	1275	Economic	Security_and_defense
+GR_TEST_doc_36.txt	1277	1705	Health_and_safety	Political
+GR_TEST_doc_36.txt	1809	1994	Political
+GR_TEST_doc_36.txt	1996	2191	Political
+GR_TEST_doc_37.txt	409	813	Political
+GR_TEST_doc_37.txt	815	1084	Cultural_identity
+GR_TEST_doc_38.txt	0	196	Fairness_and_equality
+GR_TEST_doc_38.txt	449	787	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_38.txt	791	1244	Fairness_and_equality
+GR_TEST_doc_38.txt	1248	1416	Fairness_and_equality
+GR_TEST_doc_38.txt	1420	2004	Fairness_and_equality
+GR_TEST_doc_38.txt	2008	2233	Fairness_and_equality
+GR_TEST_doc_38.txt	2237	2667	Fairness_and_equality
+GR_TEST_doc_38.txt	2671	3219	Fairness_and_equality
+GR_TEST_doc_38.txt	3223	3424	Fairness_and_equality
+GR_TEST_doc_38.txt	3428	3845	Morality
+GR_TEST_doc_38.txt	3849	4145	Morality
+GR_TEST_doc_38.txt	4149	4601	Morality
+GR_TEST_doc_38.txt	4605	4752	Morality
+GR_TEST_doc_39.txt	652	846	Security_and_defense
+GR_TEST_doc_39.txt	848	1131	Security_and_defense
+GR_TEST_doc_39.txt	1133	1418	Security_and_defense
+GR_TEST_doc_39.txt	1420	2272	Policy_prescription_and_evaluation
+GR_TEST_doc_39.txt	2583	2995	Security_and_defense
+GR_TEST_doc_39.txt	2997	3250	Security_and_defense
+GR_TEST_doc_39.txt	3252	3526	Security_and_defense
+GR_TEST_doc_39.txt	3528	3773	Security_and_defense
+GR_TEST_doc_39.txt	3775	4299	Security_and_defense
+GR_TEST_doc_40.txt	18	692	Public_opinion
+GR_TEST_doc_40.txt	694	1421	Political	Fairness_and_equality
+GR_TEST_doc_40.txt	1423	1841	Political
+GR_TEST_doc_40.txt	1843	3003	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+GR_TEST_doc_40.txt	3005	3516	Fairness_and_equality
+GR_TEST_doc_40.txt	3518	4362	Fairness_and_equality
+GR_TEST_doc_41.txt	325	837	Political
+GR_TEST_doc_41.txt	890	1130	Security_and_defense
+GR_TEST_doc_41.txt	1132	1413	Political
+GR_TEST_doc_41.txt	2021	2271	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+GR_TEST_doc_41.txt	2273	2467	Security_and_defense
+GR_TEST_doc_41.txt	2469	2696	Political
+GR_TEST_doc_42.txt	121	721	Political
+GR_TEST_doc_42.txt	725	1342	Political
+GR_TEST_doc_42.txt	1346	2043	Political
+GR_TEST_doc_42.txt	2047	2494	Political
+GR_TEST_doc_42.txt	3902	4535	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_42.txt	4539	5061	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_43.txt	563	978	Crime_and_punishment
+GR_TEST_doc_43.txt	980	1301	Crime_and_punishment
+GR_TEST_doc_43.txt	1303	1713	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_43.txt	1715	2167	Crime_and_punishment
+GR_TEST_doc_43.txt	2169	2503	Political
+GR_TEST_doc_43.txt	2505	2960	Political
+GR_TEST_doc_44.txt	95	701	External_regulation_and_reputation	Political
+GR_TEST_doc_44.txt	703	1156	Economic	Quality_of_life
+GR_TEST_doc_44.txt	1209	1553	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_44.txt	1555	2198	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+GR_TEST_doc_44.txt	2232	2866	Legality_Constitutionality_and_jurisprudence	Political
+GR_TEST_doc_44.txt	2868	3552	Legality_Constitutionality_and_jurisprudence	Political
+GR_TEST_doc_44.txt	3554	3787	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_44.txt	3789	4770	Political
+GR_TEST_doc_45.txt	580	1042	Economic
+GR_TEST_doc_45.txt	1109	1245	Fairness_and_equality
+GR_TEST_doc_45.txt	1247	1378	Quality_of_life
+GR_TEST_doc_46.txt	269	484	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_46.txt	1092	1330	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_46.txt	1332	1547	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_46.txt	1549	1619	Political
+GR_TEST_doc_47.txt	89	342	Policy_prescription_and_evaluation
+GR_TEST_doc_47.txt	344	615	Policy_prescription_and_evaluation	Political
+GR_TEST_doc_47.txt	617	904	Cultural_identity
+GR_TEST_doc_47.txt	1890	2117	Public_opinion
+GR_TEST_doc_47.txt	2119	2562	Political
+GR_TEST_doc_47.txt	2564	2991	Political
+GR_TEST_doc_48.txt	52	305	Security_and_defense
+GR_TEST_doc_48.txt	889	1623	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+GR_TEST_doc_48.txt	1625	2209	Political
+GR_TEST_doc_49.txt	34	465	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+GR_TEST_doc_49.txt	764	1234	Legality_Constitutionality_and_jurisprudence	Political
+GR_TEST_doc_49.txt	1236	1679	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_49.txt	1681	1936	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+GR_TEST_doc_50.txt	330	608	Political
+GR_TEST_doc_50.txt	736	1211	Public_opinion
+GR_TEST_doc_50.txt	1598	1946	Quality_of_life
+GR_TEST_doc_50.txt	1948	2179	Health_and_safety
+GR_TEST_doc_50.txt	2181	2422	Crime_and_punishment
+GR_TEST_doc_51.txt	42	442	Economic
+GR_TEST_doc_51.txt	598	1011	Economic	Quality_of_life
+GR_TEST_doc_52.txt	86	233	Economic
+GR_TEST_doc_52.txt	235	469	Economic
+GR_TEST_doc_52.txt	471	649	Economic
+GR_TEST_doc_52.txt	1075	1422	Policy_prescription_and_evaluation
+GR_TEST_doc_52.txt	1424	1616	Policy_prescription_and_evaluation
+GR_TEST_doc_52.txt	2366	2451	Economic
+GR_TEST_doc_52.txt	2453	2788	Economic
+GR_TEST_doc_52.txt	2790	2983	Economic
+GR_TEST_doc_52.txt	2985	3177	Economic
+GR_TEST_doc_52.txt	3179	3250	Economic
+GR_TEST_doc_53.txt	0	106	Capacity_and_resources
+GR_TEST_doc_53.txt	624	770	Political
+GR_TEST_doc_53.txt	772	1061	Capacity_and_resources
+GR_TEST_doc_53.txt	1063	1278	Capacity_and_resources
+GR_TEST_doc_53.txt	1424	1736	Quality_of_life
+GR_TEST_doc_53.txt	1738	2211	Policy_prescription_and_evaluation	Health_and_safety
+GR_TEST_doc_53.txt	2213	2445	Capacity_and_resources
+GR_TEST_doc_53.txt	2633	2933	Economic
+GR_TEST_doc_53.txt	2935	3137	Capacity_and_resources
+GR_TEST_doc_53.txt	3328	3520	Economic
+GR_TEST_doc_53.txt	3522	3806	Economic
+GR_TEST_doc_53.txt	3808	3965	Economic
+GR_TEST_doc_53.txt	3967	4134	Economic
+GR_TEST_doc_53.txt	4136	4454	Economic
+GR_TEST_doc_53.txt	4628	5263	Political	Public_opinion
+GR_TEST_doc_53.txt	5322	5431	Capacity_and_resources
+GR_TEST_doc_53.txt	5756	6171	Economic
+GR_TEST_doc_53.txt	8334	8534	Capacity_and_resources
+GR_TEST_doc_54.txt	199	688	Cultural_identity
+GR_TEST_doc_54.txt	690	994	Cultural_identity
+GR_TEST_doc_55.txt	33	145	Security_and_defense
+GR_TEST_doc_55.txt	440	732	Capacity_and_resources
+GR_TEST_doc_55.txt	736	1072	Policy_prescription_and_evaluation	Political
+GR_TEST_doc_55.txt	1492	1831	Capacity_and_resources
+GR_TEST_doc_55.txt	1835	2297	Security_and_defense
+GR_TEST_doc_55.txt	2301	2753	Policy_prescription_and_evaluation	Crime_and_punishment
+GR_TEST_doc_55.txt	2757	2997	Policy_prescription_and_evaluation
+GR_TEST_doc_55.txt	3001	3516	Policy_prescription_and_evaluation	Economic	Crime_and_punishment
+GR_TEST_doc_55.txt	3520	3659	Public_opinion
+GR_TEST_doc_56.txt	567	843	Political
+GR_TEST_doc_56.txt	1154	1550	Health_and_safety
+GR_TEST_doc_56.txt	1614	1911	Health_and_safety
+GR_TEST_doc_56.txt	2840	3386	Health_and_safety	Political
+GR_TEST_doc_57.txt	56	276	Morality
+GR_TEST_doc_57.txt	355	721	Cultural_identity
+GR_TEST_doc_57.txt	723	770	Cultural_identity
+GR_TEST_doc_57.txt	772	1076	Cultural_identity
+GR_TEST_doc_57.txt	1078	1556	Cultural_identity
+GR_TEST_doc_57.txt	1558	2019	Cultural_identity
+GR_TEST_doc_58.txt	3205	3542	Policy_prescription_and_evaluation
+GR_TEST_doc_58.txt	5092	5694	Policy_prescription_and_evaluation
+GR_TEST_doc_58.txt	5698	6289	Policy_prescription_and_evaluation	Capacity_and_resources
+GR_TEST_doc_58.txt	6293	6544	Capacity_and_resources
+GR_TEST_doc_59.txt	206	545	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_59.txt	562	820	Security_and_defense
+GR_TEST_doc_59.txt	822	947	Security_and_defense
+GR_TEST_doc_59.txt	949	1323	Fairness_and_equality	Crime_and_punishment
+GR_TEST_doc_59.txt	1348	1747	Crime_and_punishment
+GR_TEST_doc_60.txt	103	301	Political
+GR_TEST_doc_61.txt	59	101	External_regulation_and_reputation
+GR_TEST_doc_61.txt	1257	1283	Political
+GR_TEST_doc_61.txt	1285	1357	Political
+GR_TEST_doc_61.txt	1359	1423	Political
+GR_TEST_doc_61.txt	1425	1494	Political
+GR_TEST_doc_61.txt	2795	2866	Policy_prescription_and_evaluation
+GR_TEST_doc_61.txt	2918	3063	Security_and_defense	Crime_and_punishment
+GR_TEST_doc_61.txt	3065	3092	Crime_and_punishment
+GR_TEST_doc_61.txt	3094	3163	Crime_and_punishment
+GR_TEST_doc_62.txt	349	571	Political
+GR_TEST_doc_62.txt	874	1079	Political
+GR_TEST_doc_62.txt	1081	1419	Political
+GR_TEST_doc_63.txt	78	143	Health_and_safety
+GR_TEST_doc_65.txt	877	1289	Political
+GR_TEST_doc_65.txt	1293	1945	Political
+GR_TEST_doc_66.txt	218	329	Legality_Constitutionality_and_jurisprudence	Political
+GR_TEST_doc_66.txt	331	774	Legality_Constitutionality_and_jurisprudence	Political
+GR_TEST_doc_66.txt	1006	1410	Political
+GR_TEST_doc_66.txt	2002	2528	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_66.txt	2746	3120	Political
+GR_TEST_doc_66.txt	3122	3497	Political
+GR_TEST_doc_66.txt	3499	3892	Political
+GR_TEST_doc_66.txt	3894	4490	Legality_Constitutionality_and_jurisprudence	Political
+GR_TEST_doc_67.txt	59	327	Political
+GR_TEST_doc_67.txt	329	550	Political
+GR_TEST_doc_68.txt	0	114	Cultural_identity
+GR_TEST_doc_68.txt	116	336	Cultural_identity
+GR_TEST_doc_68.txt	338	477	Cultural_identity
+GR_TEST_doc_68.txt	479	667	Cultural_identity
+GR_TEST_doc_69.txt	64	464	Crime_and_punishment
+GR_TEST_doc_69.txt	1982	2232	Fairness_and_equality
+GR_TEST_doc_69.txt	2234	3003	Political
+GR_TEST_doc_69.txt	3283	3914	Political
+GR_TEST_doc_70.txt	0	193	Fairness_and_equality
+GR_TEST_doc_70.txt	197	531	Fairness_and_equality
+GR_TEST_doc_70.txt	535	873	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+GR_TEST_doc_70.txt	881	1213	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_70.txt	1217	1938	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_70.txt	3770	4241	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_70.txt	4245	4666	Health_and_safety
+GR_TEST_doc_71.txt	0	90	Legality_Constitutionality_and_jurisprudence
+GR_TEST_doc_71.txt	614	1106	Legality_Constitutionality_and_jurisprudence

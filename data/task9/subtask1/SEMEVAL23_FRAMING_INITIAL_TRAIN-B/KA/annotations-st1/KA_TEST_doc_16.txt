@@ -1,0 +1,4 @@
+87	395	Political
+399	683	Security_and_defense
+687	951	Political
+2108	2682	External_regulation_and_reputation

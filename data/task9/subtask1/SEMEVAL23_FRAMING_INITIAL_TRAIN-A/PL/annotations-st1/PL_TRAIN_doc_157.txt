@@ -1,0 +1,4 @@
+65	535	Security_and_defense
+539	1593	Economic	Capacity_and_resources
+1597	2365	Political
+2369	3270	Legality_Constitutionality_and_jurisprudence

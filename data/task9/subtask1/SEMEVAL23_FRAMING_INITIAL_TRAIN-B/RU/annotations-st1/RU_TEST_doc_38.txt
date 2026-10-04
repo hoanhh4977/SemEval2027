@@ -1,0 +1,4 @@
+85	250	Legality_Constitutionality_and_jurisprudence
+2550	3128	Cultural_identity	Quality_of_life
+4311	4605	Health_and_safety
+7088	7364	Legality_Constitutionality_and_jurisprudence

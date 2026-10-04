@@ -1,0 +1,4 @@
+0	102	External_regulation_and_reputation	Political
+370	737	Economic
+741	1099	Capacity_and_resources	Political
+1573	1986	Morality

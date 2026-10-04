@@ -1,0 +1,4 @@
+54	341	Capacity_and_resources
+343	543	Economic	Quality_of_life
+923	1203	Political
+1205	1425	Security_and_defense

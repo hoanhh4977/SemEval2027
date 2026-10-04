@@ -1,0 +1,5 @@
+0	44	Security_and_defense
+48	93	Security_and_defense
+611	873	Public_opinion
+1137	1222	Security_and_defense
+1593	1945	Security_and_defense

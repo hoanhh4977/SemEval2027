@@ -1,0 +1,7 @@
+0	68	Health_and_safety
+456	659	Policy_prescription_and_evaluation
+663	890	Crime_and_punishment
+894	1417	Public_opinion
+1476	1783	Political
+2325	2740	Legality_Constitutionality_and_jurisprudence
+3484	3842	Morality

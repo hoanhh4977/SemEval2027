@@ -1,0 +1,4 @@
+0	81	Capacity_and_resources
+191	611	Capacity_and_resources
+1004	2020	Economic	External_regulation_and_reputation	Capacity_and_resources	Health_and_safety
+2024	2558	External_regulation_and_reputation

@@ -1,0 +1,6 @@
+110	534	Health_and_safety
+1620	2045	Public_opinion
+2132	2451	Public_opinion
+3720	3927	Economic
+3931	4815	Economic
+4819	5413	Health_and_safety	Quality_of_life

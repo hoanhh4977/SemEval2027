@@ -1,0 +1,9 @@
+0	87	External_regulation_and_reputation
+89	419	External_regulation_and_reputation	Security_and_defense
+1423	1764	Economic
+1766	2333	Capacity_and_resources
+2335	2831	Economic
+2833	3080	Political
+3299	3679	Political
+5368	5746	Political
+5748	6108	Economic	Public_opinion

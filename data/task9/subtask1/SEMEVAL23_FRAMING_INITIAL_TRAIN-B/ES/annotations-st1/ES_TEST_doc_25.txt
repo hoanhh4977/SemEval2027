@@ -1,0 +1,2 @@
+38	302	Morality	Public_opinion
+913	1350	Political

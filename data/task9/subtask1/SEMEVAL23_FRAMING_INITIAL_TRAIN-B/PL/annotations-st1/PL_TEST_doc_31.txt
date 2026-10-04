@@ -1,0 +1,3 @@
+0	82	Security_and_defense
+795	823	Quality_of_life
+1084	1474	Health_and_safety

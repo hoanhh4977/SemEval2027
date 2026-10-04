@@ -1,0 +1,5 @@
+42	682	Political
+984	1383	Policy_prescription_and_evaluation
+1387	1898	Morality
+1902	2379	Economic	Capacity_and_resources	Quality_of_life	Fairness_and_equality
+2596	2819	Public_opinion

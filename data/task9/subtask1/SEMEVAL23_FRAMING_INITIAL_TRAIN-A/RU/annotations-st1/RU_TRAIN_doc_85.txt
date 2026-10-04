@@ -1,0 +1,2 @@
+0	67	Cultural_identity
+71	494	Cultural_identity	Security_and_defense

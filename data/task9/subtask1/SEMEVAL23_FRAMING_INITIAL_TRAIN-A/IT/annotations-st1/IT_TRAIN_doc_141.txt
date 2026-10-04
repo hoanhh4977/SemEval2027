@@ -1,0 +1,4 @@
+212	402	Crime_and_punishment
+404	1178	Capacity_and_resources	Security_and_defense
+1180	1869	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+1871	3133	Economic	Morality	External_regulation_and_reputation	Quality_of_life

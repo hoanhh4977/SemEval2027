@@ -1,0 +1,5 @@
+71	277	Public_opinion
+445	680	Health_and_safety
+972	1294	Legality_Constitutionality_and_jurisprudence
+1298	1511	Political
+2389	2648	Health_and_safety

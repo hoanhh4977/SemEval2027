@@ -1,0 +1,4 @@
+0	88	Policy_prescription_and_evaluation	Political
+504	811	Economic
+815	1282	External_regulation_and_reputation	Capacity_and_resources
+4787	5226	Economic

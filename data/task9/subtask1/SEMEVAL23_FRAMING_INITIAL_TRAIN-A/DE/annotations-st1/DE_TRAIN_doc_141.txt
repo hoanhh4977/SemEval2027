@@ -1,0 +1,7 @@
+117	345	External_regulation_and_reputation
+349	803	Political
+807	954	Health_and_safety
+958	1216	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources
+1220	1470	Legality_Constitutionality_and_jurisprudence	Quality_of_life
+1808	2149	Economic	Health_and_safety
+4365	4588	Political

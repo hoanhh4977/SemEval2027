@@ -1,0 +1,8 @@
+0	208	Morality	Political
+212	567	Health_and_safety
+571	828	Capacity_and_resources
+832	1385	Public_opinion
+1853	2135	Quality_of_life
+2139	2587	Economic
+3478	3925	Economic
+4509	4677	Capacity_and_resources

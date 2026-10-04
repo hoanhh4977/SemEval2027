@@ -1,0 +1,5 @@
+118	804	Legality_Constitutionality_and_jurisprudence	Economic	Quality_of_life
+891	1461	Quality_of_life	Fairness_and_equality
+1559	2254	Policy_prescription_and_evaluation
+2258	2850	Quality_of_life	Crime_and_punishment
+2854	3424	Political	Fairness_and_equality

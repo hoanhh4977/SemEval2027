@@ -1,0 +1,3 @@
+477	697	Political	Security_and_defense
+1135	1417	Health_and_safety
+3936	4451	Health_and_safety

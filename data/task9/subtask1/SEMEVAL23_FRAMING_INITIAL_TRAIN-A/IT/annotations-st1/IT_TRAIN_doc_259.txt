@@ -1,0 +1,4 @@
+118	564	External_regulation_and_reputation
+568	1591	Capacity_and_resources	Security_and_defense
+1595	2509	Legality_Constitutionality_and_jurisprudence	Quality_of_life
+2513	3343	Policy_prescription_and_evaluation	Economic	Crime_and_punishment

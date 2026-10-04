@@ -1,0 +1,4 @@
+0	55	Health_and_safety
+1190	1590	Morality
+1592	1678	Health_and_safety
+2444	2848	Security_and_defense

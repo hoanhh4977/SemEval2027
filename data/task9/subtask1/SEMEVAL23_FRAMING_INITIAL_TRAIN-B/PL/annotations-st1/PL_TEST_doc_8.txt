@@ -1,0 +1,2 @@
+0	76	Economic	Health_and_safety
+1502	1923	Quality_of_life

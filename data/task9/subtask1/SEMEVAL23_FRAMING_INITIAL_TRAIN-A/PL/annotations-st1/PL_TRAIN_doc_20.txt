@@ -1,0 +1,8 @@
+91	347	External_regulation_and_reputation
+351	624	External_regulation_and_reputation	Health_and_safety
+628	1389	Security_and_defense
+1490	2157	Economic	External_regulation_and_reputation
+4249	4640	External_regulation_and_reputation
+5048	5550	Policy_prescription_and_evaluation
+5846	5891	Security_and_defense
+6398	6636	Health_and_safety	Security_and_defense

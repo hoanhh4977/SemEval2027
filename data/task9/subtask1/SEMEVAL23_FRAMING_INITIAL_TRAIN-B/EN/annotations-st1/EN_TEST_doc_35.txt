@@ -1,0 +1,5 @@
+43	685	Economic	Capacity_and_resources	Quality_of_life
+687	1240	Policy_prescription_and_evaluation	Public_opinion
+1547	2197	Crime_and_punishment
+4674	5187	Legality_Constitutionality_and_jurisprudence
+5189	5394	Political

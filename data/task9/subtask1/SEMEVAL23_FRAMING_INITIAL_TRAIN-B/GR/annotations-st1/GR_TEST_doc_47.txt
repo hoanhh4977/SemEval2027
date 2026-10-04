@@ -1,0 +1,6 @@
+89	342	Policy_prescription_and_evaluation
+344	615	Policy_prescription_and_evaluation	Political
+617	904	Cultural_identity
+1890	2117	Public_opinion
+2119	2562	Political
+2564	2991	Political

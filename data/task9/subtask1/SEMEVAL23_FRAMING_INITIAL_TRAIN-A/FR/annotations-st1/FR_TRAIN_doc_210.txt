@@ -1,0 +1,5 @@
+121	525	Health_and_safety	Fairness_and_equality
+1256	1465	Political
+1977	2789	Capacity_and_resources
+2793	3224	Economic
+4263	4664	Economic

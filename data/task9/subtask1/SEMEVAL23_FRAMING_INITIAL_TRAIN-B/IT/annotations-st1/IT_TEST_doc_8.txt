@@ -1,0 +1,5 @@
+46	379	Security_and_defense
+1128	1613	Capacity_and_resources
+2649	3370	Health_and_safety
+4044	4548	Economic
+4550	4709	External_regulation_and_reputation

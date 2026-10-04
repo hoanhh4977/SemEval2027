@@ -1,0 +1,7 @@
+88	374	Economic	Capacity_and_resources	Security_and_defense
+376	725	Capacity_and_resources
+727	913	Economic	Health_and_safety
+1208	1803	Quality_of_life
+2643	3461	Security_and_defense
+3917	4531	Public_opinion
+4533	4901	Cultural_identity

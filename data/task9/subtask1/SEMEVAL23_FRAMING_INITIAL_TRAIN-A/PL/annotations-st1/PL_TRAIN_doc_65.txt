@@ -1,0 +1,4 @@
+78	817	Health_and_safety
+821	1458	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+1483	2033	Quality_of_life
+2845	3263	Policy_prescription_and_evaluation	Crime_and_punishment

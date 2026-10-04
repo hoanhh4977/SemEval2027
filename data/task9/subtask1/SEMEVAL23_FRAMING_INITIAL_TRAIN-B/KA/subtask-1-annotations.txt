@@ -1,0 +1,72 @@
+KA_TEST_doc_1.txt	118	304	Security_and_defense
+KA_TEST_doc_1.txt	650	783	Security_and_defense
+KA_TEST_doc_2.txt	0	49	Security_and_defense
+KA_TEST_doc_2.txt	232	401	Security_and_defense
+KA_TEST_doc_3.txt	424	861	External_regulation_and_reputation
+KA_TEST_doc_4.txt	0	206	Security_and_defense
+KA_TEST_doc_5.txt	0	107	Health_and_safety
+KA_TEST_doc_5.txt	366	635	Health_and_safety
+KA_TEST_doc_5.txt	639	795	Health_and_safety
+KA_TEST_doc_6.txt	134	481	Political
+KA_TEST_doc_6.txt	485	569	Political
+KA_TEST_doc_7.txt	0	290	Economic	External_regulation_and_reputation
+KA_TEST_doc_7.txt	294	389	Economic
+KA_TEST_doc_7.txt	393	522	Economic
+KA_TEST_doc_7.txt	526	694	Economic
+KA_TEST_doc_8.txt	79	698	External_regulation_and_reputation	Political	Public_opinion
+KA_TEST_doc_8.txt	702	1272	Public_opinion
+KA_TEST_doc_8.txt	1276	1725	Public_opinion
+KA_TEST_doc_8.txt	1729	3043	External_regulation_and_reputation	Public_opinion
+KA_TEST_doc_8.txt	3047	4054	Morality	External_regulation_and_reputation	Political
+KA_TEST_doc_8.txt	4058	4525	External_regulation_and_reputation
+KA_TEST_doc_9.txt	105	604	Political
+KA_TEST_doc_9.txt	1102	1362	Public_opinion
+KA_TEST_doc_9.txt	1366	1882	Political
+KA_TEST_doc_10.txt	0	84	Health_and_safety
+KA_TEST_doc_10.txt	88	250	Health_and_safety
+KA_TEST_doc_10.txt	254	420	Health_and_safety
+KA_TEST_doc_10.txt	720	901	Health_and_safety
+KA_TEST_doc_10.txt	905	1117	Health_and_safety
+KA_TEST_doc_10.txt	1278	1402	Health_and_safety
+KA_TEST_doc_11.txt	64	661	Political
+KA_TEST_doc_11.txt	771	1742	External_regulation_and_reputation	Political
+KA_TEST_doc_12.txt	465	979	Crime_and_punishment
+KA_TEST_doc_13.txt	0	202	External_regulation_and_reputation
+KA_TEST_doc_13.txt	206	573	Capacity_and_resources
+KA_TEST_doc_13.txt	637	910	Capacity_and_resources	Security_and_defense
+KA_TEST_doc_14.txt	0	75	Health_and_safety
+KA_TEST_doc_14.txt	257	594	Crime_and_punishment
+KA_TEST_doc_14.txt	598	1044	Crime_and_punishment
+KA_TEST_doc_15.txt	0	102	Policy_prescription_and_evaluation
+KA_TEST_doc_15.txt	106	401	Policy_prescription_and_evaluation
+KA_TEST_doc_16.txt	87	395	Political
+KA_TEST_doc_16.txt	399	683	Security_and_defense
+KA_TEST_doc_16.txt	687	951	Political
+KA_TEST_doc_16.txt	2108	2682	External_regulation_and_reputation
+KA_TEST_doc_17.txt	68	662	Security_and_defense
+KA_TEST_doc_17.txt	666	1533	Security_and_defense
+KA_TEST_doc_17.txt	1537	2437	External_regulation_and_reputation	Security_and_defense
+KA_TEST_doc_18.txt	288	471	Political
+KA_TEST_doc_19.txt	600	759	Security_and_defense
+KA_TEST_doc_19.txt	763	974	Crime_and_punishment
+KA_TEST_doc_20.txt	139	581	Political
+KA_TEST_doc_20.txt	732	1355	Political
+KA_TEST_doc_20.txt	1933	2927	Political	Public_opinion
+KA_TEST_doc_21.txt	258	445	External_regulation_and_reputation
+KA_TEST_doc_21.txt	570	836	External_regulation_and_reputation
+KA_TEST_doc_21.txt	1125	1348	Political
+KA_TEST_doc_22.txt	327	632	Security_and_defense
+KA_TEST_doc_23.txt	0	157	Morality
+KA_TEST_doc_24.txt	127	290	Economic
+KA_TEST_doc_24.txt	294	483	Economic
+KA_TEST_doc_24.txt	487	834	Political
+KA_TEST_doc_25.txt	851	1568	Public_opinion
+KA_TEST_doc_26.txt	0	119	External_regulation_and_reputation
+KA_TEST_doc_26.txt	286	492	External_regulation_and_reputation
+KA_TEST_doc_26.txt	496	882	Cultural_identity	External_regulation_and_reputation	Political
+KA_TEST_doc_27.txt	490	585	Security_and_defense
+KA_TEST_doc_28.txt	0	59	Policy_prescription_and_evaluation	Health_and_safety
+KA_TEST_doc_28.txt	244	477	Health_and_safety
+KA_TEST_doc_28.txt	481	846	Policy_prescription_and_evaluation	Health_and_safety
+KA_TEST_doc_29.txt	0	82	Security_and_defense
+KA_TEST_doc_29.txt	378	808	Security_and_defense

@@ -1,0 +1,6 @@
+0	121	External_regulation_and_reputation
+125	484	Morality
+906	1305	Security_and_defense
+1309	1853	Political
+2177	2358	Capacity_and_resources
+3707	4195	Quality_of_life

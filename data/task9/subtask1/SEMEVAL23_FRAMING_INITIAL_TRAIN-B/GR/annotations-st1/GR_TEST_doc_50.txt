@@ -1,0 +1,5 @@
+330	608	Political
+736	1211	Public_opinion
+1598	1946	Quality_of_life
+1948	2179	Health_and_safety
+2181	2422	Crime_and_punishment

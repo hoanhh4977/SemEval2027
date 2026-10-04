@@ -1,0 +1,5 @@
+41	351	Security_and_defense
+653	832	Political
+834	1166	Security_and_defense
+1745	1934	Capacity_and_resources	Security_and_defense
+2472	3068	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality

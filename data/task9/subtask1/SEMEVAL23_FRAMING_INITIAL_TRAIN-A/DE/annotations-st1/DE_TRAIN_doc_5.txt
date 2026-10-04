@@ -1,0 +1,7 @@
+77	349	Health_and_safety	Public_opinion
+1097	1469	Health_and_safety
+2128	2169	Health_and_safety
+2173	2681	Capacity_and_resources
+2689	3040	Health_and_safety
+4603	4836	Health_and_safety
+4840	5177	Policy_prescription_and_evaluation

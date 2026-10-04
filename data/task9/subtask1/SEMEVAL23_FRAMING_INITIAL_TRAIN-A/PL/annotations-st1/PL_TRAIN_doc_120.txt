@@ -1,0 +1,5 @@
+0	112	External_regulation_and_reputation
+1632	1875	Cultural_identity
+2400	2926	Crime_and_punishment
+3106	3237	Security_and_defense
+3687	3988	External_regulation_and_reputation

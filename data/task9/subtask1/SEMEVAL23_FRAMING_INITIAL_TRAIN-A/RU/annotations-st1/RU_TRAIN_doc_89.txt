@@ -1,0 +1,2 @@
+399	880	Economic
+884	1202	Economic	Political

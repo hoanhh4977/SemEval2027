@@ -1,0 +1,3 @@
+0	127	Political	Public_opinion
+668	767	Economic
+771	936	Capacity_and_resources

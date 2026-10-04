@@ -1,0 +1,11 @@
+113	663	External_regulation_and_reputation
+665	1156	Political
+1158	1619	Cultural_identity
+1621	2256	Morality
+3878	4659	Security_and_defense
+5113	5509	Capacity_and_resources	Crime_and_punishment
+6535	7125	Policy_prescription_and_evaluation
+7127	7647	Economic
+9693	10175	Fairness_and_equality
+10177	10784	Economic
+10786	11321	Political

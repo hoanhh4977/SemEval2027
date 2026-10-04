@@ -1,0 +1,3 @@
+46	207	Economic
+1127	1215	Quality_of_life
+1217	1671	Economic

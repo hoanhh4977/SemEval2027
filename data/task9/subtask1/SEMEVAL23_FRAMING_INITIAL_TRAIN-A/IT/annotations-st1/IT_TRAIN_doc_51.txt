@@ -1,0 +1,4 @@
+0	75	Legality_Constitutionality_and_jurisprudence
+79	1317	Morality	Cultural_identity	Quality_of_life	Fairness_and_equality
+1321	1947	Political
+2344	3007	Legality_Constitutionality_and_jurisprudence

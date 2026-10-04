@@ -1,0 +1,3 @@
+79	1015	Capacity_and_resources
+1017	1675	Security_and_defense
+2657	3574	Capacity_and_resources

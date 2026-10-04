@@ -1,0 +1,3 @@
+74	544	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+546	1132	Political
+1134	1818	Cultural_identity	Fairness_and_equality

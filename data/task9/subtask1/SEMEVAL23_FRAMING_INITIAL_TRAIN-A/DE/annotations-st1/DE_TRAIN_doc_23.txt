@@ -1,0 +1,7 @@
+100	447	External_regulation_and_reputation	Security_and_defense
+451	943	Economic	Security_and_defense
+1751	2252	Quality_of_life
+2605	3031	Policy_prescription_and_evaluation	Economic	Security_and_defense
+3437	3888	Security_and_defense
+3892	4155	Health_and_safety
+4523	4901	Morality

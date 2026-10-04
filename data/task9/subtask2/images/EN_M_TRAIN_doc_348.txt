@@ -1,0 +1,41 @@
+Building A Strong Data Foundation For Generative AI Success
+
+Rex Ahlstrom is the CTO and EVP of Growth & Innovation at Syniti, a leader in enterprise data management.
+
+Generative AI is the current wunderkind of the tech world. The 2023 Gartner Hype Cycle™ for Artificial Intelligence (AI) predicts that generative AI will fuel many innovations, including AI engineering, cloud AI services and computer vision. A recent report by McKinsey found that in 16 different business functions, there are at least 63 potential use cases where generative AI "can address specific business challenges in ways that produce one or more measurable outcomes." If completely implemented, these use cases could mean an estimated annual $200–$340 impact on banking of $200–$340 billion and a $400–$660 billion impact on retail and consumer packaged goods.
+
+Companies across sectors are looking into how they can use this technology to get ahead or, in many cases, simply ensure they can keep up with the Joneses. But using generative AI just because your competitors are doing it isn’t a good enough reason. And trying to speed up the necessary learning process isn’t going to get you ahead, either.
+
+Using generative AI requires a thoughtful, concerted approach rooted in data. To truly reap the advantages of AI investments, organizations must ensure they’ve built the right data foundation for success.
+
+The Connections Between Data Strategy And Generative AI
+
+It’s important to first look at what organizations are doing with generative AI. If you’re trying to use it to solve specific business problems, it’s essential to look at how you’re going to train those models and examine the underlying foundation of data that you’re supplying in order to get the result you expect.
+
+Data is a critical factor in properly training generative AI models. To get the results that are more aligned to the business outcomes you’re hoping to gain, choosing the right data, and the quality of that data, are the key components. That’s why a strong data strategy is essential.
+
+Bringing Together Data Quality With Data In Context
+
+Data quality is critical; the adage “garbage in, garbage out” applies here. If you have the right data sets that you want to use to train a model or gain insights, but the quality is poor, then you’re still going to end up with a bad result. Poor-quality data can lead to problems like inaccurate recommendations, result bias and irrelevant guidance.
+
+As part of their data quality projects, businesses must begin gathering and documenting data, metadata, processes and business rules. Lacking these fundamental components, AI models are unable to deliver precise and insightful outputs. Businesses can create a strong framework for the use of AI by funding projects to improve data quality.
+
+Data context is also key. How can you ensure you’re curating the proper data sets and the proper inputs? If you have quality data, but it’s the wrong data, your result will be worthless. It’s a matter of bringing together the proper curation of data and high data quality to ensure you can leverage the power of generative AI.
+
+Steps For Success
+
+As mentioned earlier, it’s vital to begin with an understanding of the goal of your generative AI project. Are you hoping to be able to supplement human employees? Do you need GenAI to help with the heavy lifting? For instance, if you’re trying to generate data quality rules for SAP or to learn more about the data in your SAP or another system, that’s typically going to involve a lot of work on the backend. Could you train a model to do this? More often than not, what you’re looking to do is automate a process.
+
+You need to clearly define what success criteria look like, and then you can work backward to figure out what needs to happen. What does your organization need to do to ensure that you’re not creating bad influences or providing bad information and, therefore, ending up with a bad result? Ultimately, that comes back to the data you're submitting to get a response as well as the quality of that data at input.
+
+In terms of how to train your generative AI, there are two primary elements.
+
+Training the AI engine: It’s important to use generative AI to simplify the creation of rules and improve data quality. Leveraging your organization’s expert knowledge and curated content, the goal is to train the AI engine to understand and generate these rules more effectively.
+
+Crowdsourced refinement: The second part involves refining the AI's results. After generating a result based on certain inputs, bring in experts who can review and validate the output. If the AI's output is correct, the expert approves it. If not, the expert can provide additional input to guide the AI in the right direction. This iterative process, when applied at a larger scale across multiple organizations or anonymized data, speeds up the AI's learning and improves the speed and accuracy of its results.
+
+Quality Data Is A Must
+
+In a tech landscape abuzz with the potential of generative AI, understanding its power and pitfalls is paramount. Generative AI holds immense promise, as indicated by Gartner's predictions and McKinsey's findings, potentially revolutionizing numerous industries. However, rushing into generative AI without a robust data strategy can lead to costly mistakes and delays. Data quality and context are the linchpins of success. Building strong data foundations and refining AI models iteratively are essential. A thoughtful approach rooted in data will ensure that organizations harness the full potential of generative AI, driving meaningful business outcomes.
+
+Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?

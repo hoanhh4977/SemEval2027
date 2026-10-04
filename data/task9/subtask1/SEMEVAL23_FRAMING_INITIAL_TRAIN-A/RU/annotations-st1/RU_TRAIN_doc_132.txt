@@ -1,0 +1,5 @@
+67	1616	Morality	Capacity_and_resources	Political
+1620	2113	Economic
+2117	3351	Public_opinion
+3355	5779	Morality	Economic	Capacity_and_resources
+5783	7815	Economic

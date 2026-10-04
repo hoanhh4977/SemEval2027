@@ -1,0 +1,6 @@
+0	38	Crime_and_punishment
+42	293	Economic
+297	540	External_regulation_and_reputation	Capacity_and_resources
+744	1212	Health_and_safety
+1610	1919	Economic	Capacity_and_resources	Security_and_defense
+1923	2241	Quality_of_life

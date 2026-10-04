@@ -1,0 +1,2 @@
+49	419	Morality	Health_and_safety	Quality_of_life
+907	1064	Economic

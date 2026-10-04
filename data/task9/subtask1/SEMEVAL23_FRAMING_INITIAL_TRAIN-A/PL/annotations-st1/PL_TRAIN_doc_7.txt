@@ -1,0 +1,2 @@
+21	464	Political
+466	1229	Public_opinion

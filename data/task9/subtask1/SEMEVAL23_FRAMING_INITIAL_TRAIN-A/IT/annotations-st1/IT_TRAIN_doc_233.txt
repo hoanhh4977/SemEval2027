@@ -1,0 +1,2 @@
+0	71	Political	Security_and_defense
+73	1116	External_regulation_and_reputation

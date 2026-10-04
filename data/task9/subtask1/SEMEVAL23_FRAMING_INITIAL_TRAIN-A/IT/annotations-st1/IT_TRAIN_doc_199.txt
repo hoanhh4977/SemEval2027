@@ -1,0 +1,6 @@
+0	60	Political
+302	767	Economic
+1555	2096	Security_and_defense
+2456	3052	Economic
+4985	5469	Economic
+6991	7400	Economic

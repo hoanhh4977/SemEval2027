@@ -1,0 +1,3 @@
+199	427	Public_opinion
+431	936	Legality_Constitutionality_and_jurisprudence	Economic
+1270	1446	External_regulation_and_reputation

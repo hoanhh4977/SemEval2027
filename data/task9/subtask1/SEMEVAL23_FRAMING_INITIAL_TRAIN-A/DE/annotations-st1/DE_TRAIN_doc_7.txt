@@ -1,0 +1,11 @@
+0	86	Security_and_defense
+90	536	Cultural_identity	Security_and_defense
+597	1120	Morality	External_regulation_and_reputation	Security_and_defense
+1152	2386	External_regulation_and_reputation	Security_and_defense
+2438	3445	Political
+3449	4109	Morality	Security_and_defense
+4138	4595	Policy_prescription_and_evaluation
+4603	4958	External_regulation_and_reputation
+5934	5984	Security_and_defense
+5988	6458	Security_and_defense
+6734	6855	Security_and_defense

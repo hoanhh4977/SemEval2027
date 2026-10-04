@@ -1,0 +1,4 @@
+67	472	Economic	Capacity_and_resources
+476	780	Health_and_safety	Security_and_defense
+2010	2241	External_regulation_and_reputation
+3017	3570	Economic

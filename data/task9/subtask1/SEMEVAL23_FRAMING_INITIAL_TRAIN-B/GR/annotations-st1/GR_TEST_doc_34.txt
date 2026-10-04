@@ -1,0 +1,7 @@
+68	1033	Political	Crime_and_punishment
+1739	3447	Legality_Constitutionality_and_jurisprudence	Morality
+7471	10203	Morality
+10268	10762	Legality_Constitutionality_and_jurisprudence
+10764	12106	Legality_Constitutionality_and_jurisprudence
+12671	14551	Legality_Constitutionality_and_jurisprudence
+20455	22569	Morality

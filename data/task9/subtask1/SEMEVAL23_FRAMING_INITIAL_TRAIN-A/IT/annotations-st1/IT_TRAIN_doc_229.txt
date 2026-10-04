@@ -1,0 +1,3 @@
+0	78	Security_and_defense
+474	1148	Capacity_and_resources
+1187	2044	Capacity_and_resources

@@ -1,0 +1,6 @@
+50	276	Quality_of_life
+768	1399	Fairness_and_equality
+2786	2989	Legality_Constitutionality_and_jurisprudence
+4723	5064	Morality
+5068	5531	Economic
+7429	7918	Policy_prescription_and_evaluation

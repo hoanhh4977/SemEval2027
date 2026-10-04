@@ -1,0 +1,6 @@
+0	62	Political
+64	539	Policy_prescription_and_evaluation	Cultural_identity	Crime_and_punishment
+541	932	Security_and_defense
+977	1482	Security_and_defense
+1753	1832	Public_opinion
+2182	2535	Crime_and_punishment

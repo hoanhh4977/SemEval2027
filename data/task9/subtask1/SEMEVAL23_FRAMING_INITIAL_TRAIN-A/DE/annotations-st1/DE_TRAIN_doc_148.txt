@@ -1,0 +1,9 @@
+0	49	Economic
+51	224	Economic
+226	468	Security_and_defense
+470	766	External_regulation_and_reputation
+768	1287	Economic	Capacity_and_resources
+2486	2799	External_regulation_and_reputation
+3227	3799	Quality_of_life
+5171	5595	Morality
+6367	6637	Quality_of_life

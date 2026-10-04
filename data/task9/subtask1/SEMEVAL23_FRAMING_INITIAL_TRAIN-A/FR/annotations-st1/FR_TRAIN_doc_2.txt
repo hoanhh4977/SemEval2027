@@ -1,0 +1,5 @@
+79	453	Economic
+509	881	Capacity_and_resources
+883	1458	Capacity_and_resources
+6316	6488	Political
+8036	8607	Morality	Capacity_and_resources	Security_and_defense

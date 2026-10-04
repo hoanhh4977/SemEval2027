@@ -1,0 +1,2 @@
+81	596	Security_and_defense	Political
+600	1945	Capacity_and_resources	Security_and_defense

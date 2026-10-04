@@ -1,0 +1,6 @@
+95	554	External_regulation_and_reputation	Political
+558	932	Security_and_defense
+936	1226	Economic
+1234	1540	Quality_of_life
+1544	1899	Political
+2664	2907	Economic

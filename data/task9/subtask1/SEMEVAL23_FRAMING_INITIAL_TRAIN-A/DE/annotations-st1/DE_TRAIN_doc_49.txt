@@ -1,0 +1,4 @@
+18	475	Health_and_safety
+2972	3590	External_regulation_and_reputation	Political
+3594	4018	Economic
+4022	4308	Capacity_and_resources

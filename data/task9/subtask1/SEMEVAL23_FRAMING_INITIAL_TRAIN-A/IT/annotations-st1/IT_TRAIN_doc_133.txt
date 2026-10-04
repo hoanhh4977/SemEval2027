@@ -1,0 +1,5 @@
+0	63	Capacity_and_resources
+67	231	Capacity_and_resources
+235	488	Capacity_and_resources
+2793	3045	Policy_prescription_and_evaluation
+3049	3380	Health_and_safety

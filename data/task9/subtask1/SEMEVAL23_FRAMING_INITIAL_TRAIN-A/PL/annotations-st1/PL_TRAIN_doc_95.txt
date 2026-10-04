@@ -1,0 +1,3 @@
+0	47	Security_and_defense
+96	859	Quality_of_life	Political
+861	2015	Economic	Cultural_identity

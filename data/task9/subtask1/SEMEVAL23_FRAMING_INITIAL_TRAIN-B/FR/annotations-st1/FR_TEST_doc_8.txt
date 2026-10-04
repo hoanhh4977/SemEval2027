@@ -1,0 +1,3 @@
+0	248	Quality_of_life
+320	475	Security_and_defense
+477	772	Crime_and_punishment

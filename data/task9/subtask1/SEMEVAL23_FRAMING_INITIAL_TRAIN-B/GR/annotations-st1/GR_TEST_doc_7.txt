@@ -1,0 +1,9 @@
+0	86	Crime_and_punishment
+88	269	Crime_and_punishment
+271	486	Crime_and_punishment
+488	532	Crime_and_punishment
+534	862	Crime_and_punishment
+864	1021	Crime_and_punishment
+1023	1042	Crime_and_punishment
+1044	1252	Crime_and_punishment
+1254	1554	Crime_and_punishment

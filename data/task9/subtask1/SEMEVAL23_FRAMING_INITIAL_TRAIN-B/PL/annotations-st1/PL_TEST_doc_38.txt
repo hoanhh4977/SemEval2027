@@ -1,0 +1,10 @@
+0	24	Political
+1143	1704	Public_opinion
+2943	3981	External_regulation_and_reputation
+4553	5223	Crime_and_punishment
+5959	6832	Economic	External_regulation_and_reputation	Health_and_safety
+7928	9097	Security_and_defense
+9122	9867	Health_and_safety
+10659	11386	Capacity_and_resources
+12605	13342	Quality_of_life
+15208	15942	Policy_prescription_and_evaluation

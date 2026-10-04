@@ -1,0 +1,9 @@
+0	98	External_regulation_and_reputation
+100	589	Economic
+591	1524	Economic	Public_opinion
+3533	4046	Quality_of_life
+5323	5727	Health_and_safety
+7916	8602	Fairness_and_equality
+11027	11724	Health_and_safety	Quality_of_life
+11726	12471	Security_and_defense
+14845	15467	Security_and_defense

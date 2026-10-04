@@ -1,0 +1,5 @@
+1200	1740	Security_and_defense
+1742	2599	Security_and_defense
+4719	5032	Security_and_defense
+6102	6800	Security_and_defense
+10097	10586	Economic	Capacity_and_resources

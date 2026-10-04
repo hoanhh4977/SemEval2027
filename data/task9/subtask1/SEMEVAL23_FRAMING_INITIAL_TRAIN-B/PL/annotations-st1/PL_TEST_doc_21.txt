@@ -1,0 +1,8 @@
+0	122	Political	Public_opinion
+126	403	Quality_of_life
+2589	3056	Economic	Fairness_and_equality
+4537	4622	Political
+6865	8060	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+8105	8505	Public_opinion
+13752	14968	Morality
+15401	15977	Public_opinion

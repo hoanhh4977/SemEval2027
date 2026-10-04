@@ -1,0 +1,2 @@
+75	527	External_regulation_and_reputation
+784	1588	External_regulation_and_reputation	Political	Public_opinion

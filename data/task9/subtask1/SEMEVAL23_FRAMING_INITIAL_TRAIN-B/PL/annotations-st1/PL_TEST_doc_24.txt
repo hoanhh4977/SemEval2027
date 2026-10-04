@@ -1,0 +1,3 @@
+0	25	Political
+318	1211	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+1215	1847	Economic	Capacity_and_resources

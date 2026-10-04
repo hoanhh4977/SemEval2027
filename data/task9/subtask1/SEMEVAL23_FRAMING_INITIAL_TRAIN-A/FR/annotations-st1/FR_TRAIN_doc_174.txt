@@ -1,0 +1,4 @@
+0	38	Political
+298	961	Political
+1035	1416	Morality	Capacity_and_resources
+2036	2725	Public_opinion

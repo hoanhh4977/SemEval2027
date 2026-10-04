@@ -1,0 +1,3 @@
+0	61	Cultural_identity
+65	818	Cultural_identity
+5228	5544	Morality

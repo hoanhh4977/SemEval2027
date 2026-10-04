@@ -1,0 +1,11 @@
+15	500	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Health_and_safety
+556	1260	Legality_Constitutionality_and_jurisprudence
+2561	2758	Political
+3399	4161	Quality_of_life	Health_and_safety
+4163	4723	Health_and_safety
+4725	5400	Policy_prescription_and_evaluation
+6800	7129	Economic	Health_and_safety
+7131	7203	Health_and_safety
+7205	7756	Health_and_safety
+7758	8634	Health_and_safety
+8636	8759	Legality_Constitutionality_and_jurisprudence	Quality_of_life

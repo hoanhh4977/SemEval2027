@@ -1,0 +1,7 @@
+80	1311	Capacity_and_resources
+1315	2278	Fairness_and_equality
+2282	2835	Morality	Quality_of_life
+3573	4064	Policy_prescription_and_evaluation	Economic	Quality_of_life
+4068	4916	Health_and_safety
+5515	5844	Quality_of_life
+6611	7560	Economic	Health_and_safety

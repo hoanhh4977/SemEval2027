@@ -1,0 +1,6 @@
+74	185	Economic	Cultural_identity
+333	499	Capacity_and_resources
+1904	2263	Legality_Constitutionality_and_jurisprudence
+2638	2776	Economic
+2778	3120	Economic
+3122	3600	Quality_of_life

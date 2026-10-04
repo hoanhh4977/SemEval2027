@@ -1,0 +1,5 @@
+222	532	Political
+1397	1818	Legality_Constitutionality_and_jurisprudence
+1915	2455	Health_and_safety
+3747	3999	Policy_prescription_and_evaluation
+4102	4227	Political

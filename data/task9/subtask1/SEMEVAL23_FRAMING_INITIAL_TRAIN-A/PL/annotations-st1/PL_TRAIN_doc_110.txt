@@ -1,0 +1,4 @@
+106	483	Public_opinion
+648	1274	Health_and_safety
+1699	2381	External_regulation_and_reputation	Security_and_defense
+3044	3107	Public_opinion

@@ -1,0 +1,7 @@
+0	88	Policy_prescription_and_evaluation
+235	583	External_regulation_and_reputation	Security_and_defense
+587	1037	Security_and_defense
+1231	1623	Economic
+1627	2220	Economic	Public_opinion
+3717	4257	Security_and_defense
+4502	4784	External_regulation_and_reputation

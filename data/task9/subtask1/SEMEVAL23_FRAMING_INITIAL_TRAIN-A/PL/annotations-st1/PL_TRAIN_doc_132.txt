@@ -1,0 +1,4 @@
+0	68	External_regulation_and_reputation	Security_and_defense
+1458	1696	External_regulation_and_reputation
+2256	2590	Public_opinion
+3180	3580	Economic

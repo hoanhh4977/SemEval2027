@@ -1,0 +1,4 @@
+73	831	Fairness_and_equality
+833	1258	Security_and_defense	Public_opinion
+1582	3490	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	External_regulation_and_reputation
+3492	3989	Political

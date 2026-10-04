@@ -1,0 +1,4 @@
+253	412	Policy_prescription_and_evaluation
+1367	1657	Morality
+3295	3485	External_regulation_and_reputation
+3489	3622	Economic

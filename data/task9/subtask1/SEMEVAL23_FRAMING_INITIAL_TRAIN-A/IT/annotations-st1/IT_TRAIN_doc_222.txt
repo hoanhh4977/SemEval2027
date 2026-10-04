@@ -1,0 +1,4 @@
+0	110	Legality_Constitutionality_and_jurisprudence
+114	706	Policy_prescription_and_evaluation	Crime_and_punishment
+710	1327	Crime_and_punishment
+1806	2276	Morality	Crime_and_punishment

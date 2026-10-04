@@ -1,0 +1,4 @@
+477	832	Political
+1587	2350	Security_and_defense
+3029	3210	Economic
+3463	3693	Health_and_safety

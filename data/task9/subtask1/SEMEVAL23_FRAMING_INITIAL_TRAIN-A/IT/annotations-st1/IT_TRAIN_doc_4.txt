@@ -1,0 +1,2 @@
+88	522	Political
+1382	1962	Cultural_identity	Quality_of_life

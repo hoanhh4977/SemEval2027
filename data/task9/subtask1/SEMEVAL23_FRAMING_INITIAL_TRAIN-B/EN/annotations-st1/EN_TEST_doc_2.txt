@@ -1,0 +1,7 @@
+0	72	Security_and_defense
+544	819	External_regulation_and_reputation
+823	1218	Political
+2103	2431	Economic	Quality_of_life
+2698	2998	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+6214	6495	Legality_Constitutionality_and_jurisprudence
+6893	7181	Fairness_and_equality

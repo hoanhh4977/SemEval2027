@@ -1,0 +1,7 @@
+70	275	Economic
+326	711	Policy_prescription_and_evaluation	Quality_of_life	Political
+735	778	Health_and_safety
+780	1375	Policy_prescription_and_evaluation	Economic	Health_and_safety	Capacity_and_resources	Security_and_defense
+1620	2044	Economic
+2853	3398	Capacity_and_resources
+4027	4350	Quality_of_life

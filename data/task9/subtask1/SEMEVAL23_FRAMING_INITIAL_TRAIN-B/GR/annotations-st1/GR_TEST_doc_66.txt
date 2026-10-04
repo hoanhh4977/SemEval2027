@@ -1,0 +1,8 @@
+218	329	Legality_Constitutionality_and_jurisprudence	Political
+331	774	Legality_Constitutionality_and_jurisprudence	Political
+1006	1410	Political
+2002	2528	Legality_Constitutionality_and_jurisprudence
+2746	3120	Political
+3122	3497	Political
+3499	3892	Political
+3894	4490	Legality_Constitutionality_and_jurisprudence	Political

@@ -1,0 +1,5 @@
+401	804	Security_and_defense
+1070	1628	Economic	External_regulation_and_reputation	Political
+2489	2826	Economic	Quality_of_life
+4048	4403	Economic	Public_opinion
+5413	5803	Legality_Constitutionality_and_jurisprudence	Political

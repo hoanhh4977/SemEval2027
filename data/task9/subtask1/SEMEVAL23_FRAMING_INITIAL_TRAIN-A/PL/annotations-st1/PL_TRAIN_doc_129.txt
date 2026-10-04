@@ -1,0 +1,9 @@
+2	101	Health_and_safety
+383	820	Legality_Constitutionality_and_jurisprudence
+856	1019	Political
+1023	1389	Morality
+2452	2924	Crime_and_punishment
+2928	3355	Health_and_safety	Security_and_defense
+3359	3629	Economic
+6970	7415	Political
+8928	9203	Policy_prescription_and_evaluation

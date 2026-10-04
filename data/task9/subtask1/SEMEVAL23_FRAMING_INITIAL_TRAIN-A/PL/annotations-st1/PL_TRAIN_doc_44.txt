@@ -1,0 +1,7 @@
+2	63	Health_and_safety
+67	249	Policy_prescription_and_evaluation
+1007	1034	Health_and_safety
+1800	2706	Health_and_safety
+3055	3665	Political
+3669	3714	Crime_and_punishment
+4142	4789	Economic	Crime_and_punishment

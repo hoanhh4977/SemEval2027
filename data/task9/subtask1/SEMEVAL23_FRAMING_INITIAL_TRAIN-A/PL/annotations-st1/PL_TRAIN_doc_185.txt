@@ -1,0 +1,5 @@
+0	75	Political
+1112	1293	Security_and_defense	Public_opinion
+1295	1693	Public_opinion
+3837	4371	Quality_of_life
+5722	6402	Economic

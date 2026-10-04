@@ -1,0 +1,2 @@
+0	86	Economic
+380	679	External_regulation_and_reputation

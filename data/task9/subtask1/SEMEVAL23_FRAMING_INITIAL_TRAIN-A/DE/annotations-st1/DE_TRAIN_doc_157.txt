@@ -1,0 +1,3 @@
+90	359	Political
+1302	1543	Health_and_safety	Capacity_and_resources
+2113	2629	Security_and_defense

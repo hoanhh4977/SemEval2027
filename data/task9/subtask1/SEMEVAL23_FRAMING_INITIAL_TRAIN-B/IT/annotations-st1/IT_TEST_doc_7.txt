@@ -1,0 +1,3 @@
+52	428	Crime_and_punishment
+1223	1398	Political
+1400	1728	External_regulation_and_reputation	Security_and_defense

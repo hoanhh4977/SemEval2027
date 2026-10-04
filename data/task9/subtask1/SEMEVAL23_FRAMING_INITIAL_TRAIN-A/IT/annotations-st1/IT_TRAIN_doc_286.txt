@@ -1,0 +1,5 @@
+34	508	External_regulation_and_reputation	Security_and_defense
+512	983	Capacity_and_resources
+987	1952	Morality	Fairness_and_equality
+3983	4666	Economic
+4670	5263	External_regulation_and_reputation

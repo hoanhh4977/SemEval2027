@@ -1,0 +1,6 @@
+75	368	Political
+370	900	Cultural_identity
+902	1884	Economic	Quality_of_life	Fairness_and_equality
+1886	3187	Quality_of_life
+3189	4668	Quality_of_life
+5254	6117	Cultural_identity

@@ -1,0 +1,11 @@
+0	65	Capacity_and_resources
+67	459	Morality
+1066	1386	Economic	Health_and_safety
+1388	1585	Capacity_and_resources
+3951	4290	Morality
+4708	5295	Morality
+5955	6171	Fairness_and_equality
+6765	7330	Policy_prescription_and_evaluation	Health_and_safety	Political
+9096	10007	Fairness_and_equality
+14192	14338	Economic
+14424	14557	Capacity_and_resources

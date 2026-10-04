@@ -1,0 +1,3 @@
+0	86	Health_and_safety
+994	1335	Legality_Constitutionality_and_jurisprudence
+1337	1507	Crime_and_punishment

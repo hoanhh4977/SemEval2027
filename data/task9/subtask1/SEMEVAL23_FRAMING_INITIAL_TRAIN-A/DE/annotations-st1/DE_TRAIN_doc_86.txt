@@ -1,0 +1,5 @@
+0	65	Security_and_defense
+292	890	Economic	Health_and_safety
+2264	2605	Economic	Security_and_defense
+3036	3369	Policy_prescription_and_evaluation	Capacity_and_resources
+3373	3812	Cultural_identity

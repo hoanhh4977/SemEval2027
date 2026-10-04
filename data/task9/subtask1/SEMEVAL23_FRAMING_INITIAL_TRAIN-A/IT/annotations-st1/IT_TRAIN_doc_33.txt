@@ -1,0 +1,8 @@
+0	77	Political
+441	727	Economic
+729	1013	Economic
+1358	1623	Economic	Health_and_safety
+1625	1919	Economic
+3176	3564	Political
+4422	4678	Security_and_defense
+4680	5109	Economic

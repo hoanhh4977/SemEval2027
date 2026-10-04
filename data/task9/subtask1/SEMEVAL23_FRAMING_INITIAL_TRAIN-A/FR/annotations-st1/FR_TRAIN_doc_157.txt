@@ -1,0 +1,5 @@
+0	52	Health_and_safety
+1241	1381	Health_and_safety	Crime_and_punishment
+3228	3591	Economic
+3668	4050	Economic
+6510	6743	Political

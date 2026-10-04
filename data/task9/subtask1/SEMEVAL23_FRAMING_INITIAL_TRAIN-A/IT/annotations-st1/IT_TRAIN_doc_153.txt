@@ -1,0 +1,6 @@
+69	335	Security_and_defense
+339	805	Public_opinion
+1135	1475	Capacity_and_resources
+1479	1942	External_regulation_and_reputation
+3218	3612	Political
+4509	4920	Policy_prescription_and_evaluation

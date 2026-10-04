@@ -1,0 +1,7 @@
+70	343	Quality_of_life
+463	1215	Economic
+1605	1637	Economic
+1639	2036	Economic	Capacity_and_resources
+2093	2579	Policy_prescription_and_evaluation	Quality_of_life
+3288	4813	Economic
+4833	5320	Economic

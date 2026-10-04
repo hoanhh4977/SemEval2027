@@ -1,0 +1,6 @@
+292	1676	Cultural_identity	Health_and_safety	Political
+1680	2521	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+2525	3424	Policy_prescription_and_evaluation	Health_and_safety
+3544	4407	Economic
+4411	5688	Policy_prescription_and_evaluation
+7495	8159	Morality

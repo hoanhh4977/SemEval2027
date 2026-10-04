@@ -1,0 +1,5 @@
+0	81	Policy_prescription_and_evaluation
+85	323	Health_and_safety
+327	1266	Political
+1270	2119	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+2123	2581	Morality

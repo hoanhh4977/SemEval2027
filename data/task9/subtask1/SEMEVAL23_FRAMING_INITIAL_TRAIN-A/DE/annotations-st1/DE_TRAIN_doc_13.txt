@@ -1,0 +1,6 @@
+0	53	Political
+107	488	External_regulation_and_reputation
+808	1176	Economic
+3211	4037	Economic
+4039	4525	Quality_of_life	Capacity_and_resources
+5245	6025	Economic	External_regulation_and_reputation

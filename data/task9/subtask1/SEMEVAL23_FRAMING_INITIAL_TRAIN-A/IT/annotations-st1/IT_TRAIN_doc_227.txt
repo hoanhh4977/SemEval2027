@@ -1,0 +1,3 @@
+0	59	Quality_of_life
+347	1346	Policy_prescription_and_evaluation
+1533	1825	Policy_prescription_and_evaluation

@@ -1,0 +1,5 @@
+0	117	Economic	Capacity_and_resources
+119	637	Policy_prescription_and_evaluation	External_regulation_and_reputation	Capacity_and_resources
+639	1159	Legality_Constitutionality_and_jurisprudence	Economic	Security_and_defense
+1161	1585	External_regulation_and_reputation
+1587	1780	Legality_Constitutionality_and_jurisprudence	Economic	Capacity_and_resources

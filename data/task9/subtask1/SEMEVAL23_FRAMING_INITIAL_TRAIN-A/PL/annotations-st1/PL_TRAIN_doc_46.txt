@@ -1,0 +1,7 @@
+136	426	Morality
+580	1016	Quality_of_life
+1208	1754	Security_and_defense
+1757	2404	Health_and_safety
+2956	3543	Economic	Political
+3987	4236	Crime_and_punishment
+4273	4597	Health_and_safety

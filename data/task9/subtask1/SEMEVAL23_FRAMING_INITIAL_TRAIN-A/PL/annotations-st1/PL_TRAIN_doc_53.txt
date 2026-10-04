@@ -1,0 +1,5 @@
+82	347	Health_and_safety	Political
+1359	1831	External_regulation_and_reputation
+3530	3772	Public_opinion
+4353	4571	Health_and_safety
+6838	7037	External_regulation_and_reputation

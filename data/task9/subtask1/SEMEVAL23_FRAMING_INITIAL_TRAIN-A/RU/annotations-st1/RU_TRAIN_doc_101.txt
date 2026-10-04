@@ -1,0 +1,4 @@
+380	692	Policy_prescription_and_evaluation	Political
+694	1049	Public_opinion
+1051	1376	Security_and_defense
+1902	2125	Security_and_defense	Crime_and_punishment

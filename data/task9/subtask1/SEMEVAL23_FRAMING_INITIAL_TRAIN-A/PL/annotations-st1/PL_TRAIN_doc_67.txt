@@ -1,0 +1,7 @@
+0	72	Health_and_safety
+76	583	Policy_prescription_and_evaluation
+606	787	Legality_Constitutionality_and_jurisprudence
+791	1434	Legality_Constitutionality_and_jurisprudence
+1701	1971	Health_and_safety	Security_and_defense
+2044	2452	Health_and_safety
+2680	3247	Economic	Quality_of_life

@@ -1,0 +1,4 @@
+0	49	Health_and_safety
+1052	1837	Legality_Constitutionality_and_jurisprudence	Cultural_identity	External_regulation_and_reputation	Health_and_safety
+1867	2267	Crime_and_punishment
+2662	3018	Cultural_identity

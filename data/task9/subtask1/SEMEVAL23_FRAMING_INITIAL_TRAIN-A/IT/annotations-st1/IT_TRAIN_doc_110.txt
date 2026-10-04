@@ -1,0 +1,4 @@
+74	941	Health_and_safety	Quality_of_life
+943	1516	Health_and_safety
+1518	2083	Health_and_safety
+2085	2427	Health_and_safety

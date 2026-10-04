@@ -1,0 +1,4 @@
+34	465	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+764	1234	Legality_Constitutionality_and_jurisprudence	Political
+1236	1679	Legality_Constitutionality_and_jurisprudence
+1681	1936	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation

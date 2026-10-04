@@ -1,0 +1,10 @@
+513	977	Policy_prescription_and_evaluation
+979	1380	Political
+1382	1544	Economic
+2283	2969	Capacity_and_resources
+3628	4138	Morality
+4140	4506	Policy_prescription_and_evaluation
+6965	7429	Security_and_defense	Crime_and_punishment
+7431	8111	Policy_prescription_and_evaluation	Health_and_safety
+8113	8770	Cultural_identity
+8988	9289	Economic	Quality_of_life

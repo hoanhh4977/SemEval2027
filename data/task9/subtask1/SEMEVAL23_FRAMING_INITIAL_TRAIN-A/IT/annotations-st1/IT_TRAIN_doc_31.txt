@@ -1,0 +1,12 @@
+48	533	External_regulation_and_reputation
+537	765	Economic
+769	1108	Security_and_defense
+1112	1877	Security_and_defense
+1881	2442	Security_and_defense
+2946	3395	Economic
+3399	3771	Capacity_and_resources
+3775	4455	Security_and_defense
+5272	5620	Public_opinion
+5624	6235	Economic
+6671	6955	Economic
+7253	8079	Legality_Constitutionality_and_jurisprudence

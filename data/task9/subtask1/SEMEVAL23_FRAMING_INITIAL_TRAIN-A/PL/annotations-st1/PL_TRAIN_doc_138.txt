@@ -1,0 +1,6 @@
+0	66	Policy_prescription_and_evaluation
+311	502	Political
+951	1036	Economic
+2639	3021	Security_and_defense
+3715	3774	Economic	Quality_of_life
+3778	4273	Economic	Security_and_defense	Political

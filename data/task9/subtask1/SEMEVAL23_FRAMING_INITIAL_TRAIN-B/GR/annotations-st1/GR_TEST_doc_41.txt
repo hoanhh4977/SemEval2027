@@ -1,0 +1,6 @@
+325	837	Political
+890	1130	Security_and_defense
+1132	1413	Political
+2021	2271	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+2273	2467	Security_and_defense
+2469	2696	Political

@@ -1,0 +1,2 @@
+0	63	Policy_prescription_and_evaluation	Political
+1647	1969	Security_and_defense

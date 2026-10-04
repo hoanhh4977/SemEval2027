@@ -1,0 +1,5 @@
+0	78	Economic
+447	678	Health_and_safety
+682	925	Crime_and_punishment
+1708	2166	Health_and_safety
+2893	3441	Political

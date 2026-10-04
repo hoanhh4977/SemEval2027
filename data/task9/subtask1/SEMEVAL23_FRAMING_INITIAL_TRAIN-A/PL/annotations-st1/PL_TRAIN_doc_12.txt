@@ -1,0 +1,11 @@
+0	63	Political
+65	321	Policy_prescription_and_evaluation	Economic
+323	751	Legality_Constitutionality_and_jurisprudence	Economic	Health_and_safety	Public_opinion
+753	1153	Economic	Quality_of_life
+1155	1615	Security_and_defense
+1845	2236	Legality_Constitutionality_and_jurisprudence
+2238	2561	Economic
+2563	2838	Cultural_identity
+3059	3287	Political
+3289	3748	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation	Health_and_safety
+3750	4008	Public_opinion

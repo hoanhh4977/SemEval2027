@@ -1,0 +1,4 @@
+0	84	Public_opinion
+86	758	Crime_and_punishment
+760	1503	Crime_and_punishment
+1505	2460	Quality_of_life

@@ -1,0 +1,11 @@
+0	132	Health_and_safety
+134	383	Health_and_safety
+385	860	Health_and_safety
+1336	1630	Capacity_and_resources
+2061	2114	Quality_of_life
+2116	2336	Quality_of_life
+2338	2584	Quality_of_life
+3075	3590	Policy_prescription_and_evaluation	Capacity_and_resources
+3868	4175	Capacity_and_resources
+4593	4907	Economic
+5654	6114	Quality_of_life

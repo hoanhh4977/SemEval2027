@@ -1,0 +1,13 @@
+35	211	Health_and_safety
+215	506	Health_and_safety
+1033	1271	Health_and_safety
+1386	1593	Health_and_safety
+1597	1991	Health_and_safety
+1995	2128	Health_and_safety
+2258	2504	Health_and_safety
+3484	3753	Health_and_safety
+3757	4008	Health_and_safety
+4726	4944	Health_and_safety
+5371	5653	Crime_and_punishment
+5657	6311	Health_and_safety
+6315	6433	Public_opinion

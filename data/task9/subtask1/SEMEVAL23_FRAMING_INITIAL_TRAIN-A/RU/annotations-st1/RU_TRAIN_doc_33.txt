@@ -1,0 +1,2 @@
+0	28	Security_and_defense
+32	848	Economic	Capacity_and_resources

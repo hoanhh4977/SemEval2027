@@ -1,0 +1,4 @@
+483	553	Morality
+1913	2673	Political
+4329	4636	Security_and_defense
+8417	8877	Security_and_defense

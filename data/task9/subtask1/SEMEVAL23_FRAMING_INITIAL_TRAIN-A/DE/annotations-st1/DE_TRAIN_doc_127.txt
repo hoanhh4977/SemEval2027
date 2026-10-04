@@ -1,0 +1,4 @@
+0	60	Political
+64	354	Economic	Quality_of_life	Political
+1548	1936	Security_and_defense
+2715	3222	Economic	Capacity_and_resources	Security_and_defense

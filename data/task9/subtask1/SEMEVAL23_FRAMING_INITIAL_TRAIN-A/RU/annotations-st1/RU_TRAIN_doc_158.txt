@@ -1,0 +1,3 @@
+17	187	Security_and_defense
+189	414	Security_and_defense
+416	866	Quality_of_life

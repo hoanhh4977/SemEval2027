@@ -1,0 +1,3 @@
+38	669	Health_and_safety	Public_opinion
+673	1913	Capacity_and_resources
+3326	4067	Health_and_safety

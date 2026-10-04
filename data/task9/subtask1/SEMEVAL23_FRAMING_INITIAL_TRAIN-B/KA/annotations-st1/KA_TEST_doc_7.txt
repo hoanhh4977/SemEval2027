@@ -1,0 +1,4 @@
+0	290	Economic	External_regulation_and_reputation
+294	389	Economic
+393	522	Economic
+526	694	Economic

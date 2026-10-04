@@ -1,0 +1,5 @@
+111	442	Policy_prescription_and_evaluation
+446	721	Health_and_safety
+1147	1797	Political
+2751	2926	Public_opinion
+2930	3329	Economic	Health_and_safety

@@ -1,0 +1,5 @@
+85	345	Political
+349	792	Cultural_identity
+969	1290	Economic
+1294	1624	Legality_Constitutionality_and_jurisprudence	Economic
+1659	1954	Security_and_defense

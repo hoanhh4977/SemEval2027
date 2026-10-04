@@ -1,0 +1,8 @@
+58	262	Economic
+303	921	Economic
+962	2011	Policy_prescription_and_evaluation
+2075	3211	Economic	Health_and_safety	Political
+3298	4921	Quality_of_life
+4926	6064	Capacity_and_resources
+6770	7339	Policy_prescription_and_evaluation
+7360	7844	Health_and_safety

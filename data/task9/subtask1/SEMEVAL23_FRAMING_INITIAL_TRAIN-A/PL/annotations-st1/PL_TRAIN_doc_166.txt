@@ -1,0 +1,3 @@
+167	474	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+476	798	Economic
+800	1105	Political	Crime_and_punishment

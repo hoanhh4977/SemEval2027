@@ -1,0 +1,6 @@
+0	75	Security_and_defense
+79	602	Cultural_identity
+606	1191	Fairness_and_equality
+1199	1779	Fairness_and_equality
+2125	2422	Morality
+2426	2730	Security_and_defense

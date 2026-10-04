@@ -1,0 +1,8 @@
+0	71	Security_and_defense
+75	836	External_regulation_and_reputation	Capacity_and_resources
+840	1292	Economic	Political
+1296	1907	Economic	Security_and_defense
+1911	3739	Security_and_defense
+5363	6097	Economic
+7121	8312	Security_and_defense
+8916	9893	Economic

@@ -1,0 +1,3 @@
+0	89	Political
+545	906	Public_opinion
+908	1260	Health_and_safety

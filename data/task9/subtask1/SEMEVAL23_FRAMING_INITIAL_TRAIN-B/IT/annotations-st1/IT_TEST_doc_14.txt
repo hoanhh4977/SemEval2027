@@ -1,0 +1,4 @@
+21	1394	Public_opinion
+3097	3537	Quality_of_life
+3539	3981	Economic	Cultural_identity	Quality_of_life
+5358	6962	Political

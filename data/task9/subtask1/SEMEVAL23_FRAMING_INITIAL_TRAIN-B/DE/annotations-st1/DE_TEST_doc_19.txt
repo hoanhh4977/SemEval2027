@@ -1,0 +1,3 @@
+74	285	Security_and_defense
+287	602	Morality	Quality_of_life
+1023	1206	External_regulation_and_reputation

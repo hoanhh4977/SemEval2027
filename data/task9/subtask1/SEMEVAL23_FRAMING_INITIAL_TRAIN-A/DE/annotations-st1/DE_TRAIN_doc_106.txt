@@ -1,0 +1,5 @@
+0	73	Political
+75	275	Political
+1164	1514	Economic	External_regulation_and_reputation
+3163	3785	Security_and_defense	Crime_and_punishment
+4424	4767	Political

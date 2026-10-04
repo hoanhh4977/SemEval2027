@@ -1,0 +1,5 @@
+49	470	External_regulation_and_reputation	Security_and_defense
+2459	2848	Economic	Capacity_and_resources
+2850	3192	Political
+3465	3779	Security_and_defense
+3781	4200	Economic

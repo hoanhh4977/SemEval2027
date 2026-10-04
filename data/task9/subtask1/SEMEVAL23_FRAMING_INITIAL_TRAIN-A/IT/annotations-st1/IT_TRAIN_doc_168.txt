@@ -1,0 +1,4 @@
+266	310	Morality
+312	883	Political
+885	2190	Political	Crime_and_punishment
+2246	3563	Morality

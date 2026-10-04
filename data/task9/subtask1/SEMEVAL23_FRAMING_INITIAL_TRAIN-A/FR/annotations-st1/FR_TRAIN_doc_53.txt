@@ -1,0 +1,2 @@
+103	398	Capacity_and_resources
+402	3240	Capacity_and_resources	Quality_of_life	Public_opinion

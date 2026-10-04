@@ -1,0 +1,3 @@
+31	782	Security_and_defense	Political	Crime_and_punishment
+2216	2860	Political
+2862	3523	External_regulation_and_reputation

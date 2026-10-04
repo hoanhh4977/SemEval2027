@@ -1,0 +1,6 @@
+68	359	Quality_of_life
+361	881	Crime_and_punishment
+1629	2091	Economic
+2382	3179	Political
+3633	4128	Legality_Constitutionality_and_jurisprudence	Quality_of_life
+4130	4191	Cultural_identity

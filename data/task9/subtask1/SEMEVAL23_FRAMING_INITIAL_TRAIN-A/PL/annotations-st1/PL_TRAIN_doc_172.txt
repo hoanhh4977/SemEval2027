@@ -1,0 +1,8 @@
+0	81	Political
+271	542	Morality
+1186	1461	Public_opinion
+1725	1973	External_regulation_and_reputation
+3246	3446	Health_and_safety
+4690	5089	Security_and_defense
+5091	5355	External_regulation_and_reputation
+6835	7110	Public_opinion

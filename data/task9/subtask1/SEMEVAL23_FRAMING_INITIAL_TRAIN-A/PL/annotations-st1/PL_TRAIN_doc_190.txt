@@ -1,0 +1,3 @@
+44	514	Morality	Security_and_defense
+518	2391	Economic	External_regulation_and_reputation	Quality_of_life	Security_and_defense
+2395	3194	Morality	Cultural_identity

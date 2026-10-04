@@ -1,0 +1,7 @@
+30	271	Political
+1121	1750	Economic
+1754	2364	Health_and_safety
+2391	3455	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources
+5528	6536	Cultural_identity
+6560	7273	Security_and_defense
+7277	8058	Quality_of_life

@@ -1,0 +1,4 @@
+0	96	Economic
+98	787	Policy_prescription_and_evaluation	Health_and_safety	Capacity_and_resources
+789	1513	Quality_of_life
+2601	2978	Policy_prescription_and_evaluation

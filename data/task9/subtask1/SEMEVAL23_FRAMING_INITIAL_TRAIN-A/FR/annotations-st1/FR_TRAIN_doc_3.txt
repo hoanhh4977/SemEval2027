@@ -1,0 +1,5 @@
+279	656	Economic
+660	1071	Political	Security_and_defense
+1075	1752	Legality_Constitutionality_and_jurisprudence
+1756	2125	External_regulation_and_reputation
+2722	3216	Security_and_defense

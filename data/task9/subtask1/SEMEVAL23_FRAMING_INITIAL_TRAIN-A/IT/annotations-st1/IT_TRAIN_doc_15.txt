@@ -1,0 +1,5 @@
+363	696	Economic
+867	1445	Capacity_and_resources
+1447	2305	External_regulation_and_reputation	Security_and_defense
+2366	3364	Economic	Quality_of_life	Capacity_and_resources
+3366	5330	Policy_prescription_and_evaluation

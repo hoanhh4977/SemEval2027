@@ -1,0 +1,5 @@
+26	677	External_regulation_and_reputation	Health_and_safety	Political
+1074	1977	Capacity_and_resources	Health_and_safety
+1979	2461	Economic	Public_opinion
+2463	2659	Policy_prescription_and_evaluation
+2661	3398	External_regulation_and_reputation

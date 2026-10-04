@@ -1,0 +1,8 @@
+0	80	Legality_Constitutionality_and_jurisprudence
+84	324	Health_and_safety
+856	1133	Political
+1942	2242	Capacity_and_resources
+3565	4045	Health_and_safety	Crime_and_punishment
+4049	4304	Security_and_defense
+5419	5727	Policy_prescription_and_evaluation	Public_opinion
+6156	6700	Economic	Fairness_and_equality

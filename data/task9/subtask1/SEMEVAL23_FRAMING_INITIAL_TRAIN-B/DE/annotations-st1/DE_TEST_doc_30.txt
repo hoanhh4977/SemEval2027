@@ -1,0 +1,9 @@
+47	250	External_regulation_and_reputation
+252	976	Political
+978	1961	Economic
+3077	3415	Morality
+3417	3483	Political
+3485	4249	Economic
+4251	4845	Legality_Constitutionality_and_jurisprudence
+5548	6505	External_regulation_and_reputation	Security_and_defense
+6990	7793	Public_opinion

@@ -1,0 +1,4 @@
+0	115	Security_and_defense
+837	1076	Security_and_defense
+1080	1365	Security_and_defense
+1369	1626	External_regulation_and_reputation

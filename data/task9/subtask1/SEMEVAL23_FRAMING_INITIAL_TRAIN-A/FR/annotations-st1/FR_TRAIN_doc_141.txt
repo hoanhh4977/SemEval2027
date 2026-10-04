@@ -1,0 +1,3 @@
+300	766	Security_and_defense
+770	1431	Political
+2308	2784	External_regulation_and_reputation	Crime_and_punishment

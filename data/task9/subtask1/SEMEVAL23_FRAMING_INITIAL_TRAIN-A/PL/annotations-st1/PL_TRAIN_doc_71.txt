@@ -1,0 +1,4 @@
+0	97	Security_and_defense	Political
+99	406	Cultural_identity
+698	1057	Policy_prescription_and_evaluation
+2310	2511	External_regulation_and_reputation

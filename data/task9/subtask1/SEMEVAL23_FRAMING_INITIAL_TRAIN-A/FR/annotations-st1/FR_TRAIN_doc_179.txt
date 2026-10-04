@@ -1,0 +1,5 @@
+0	57	Capacity_and_resources
+332	717	External_regulation_and_reputation
+1550	2020	External_regulation_and_reputation
+2024	2155	Political
+2546	2924	Capacity_and_resources

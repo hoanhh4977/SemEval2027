@@ -1,0 +1,4 @@
+0	58	Political
+449	1259	Legality_Constitutionality_and_jurisprudence	Quality_of_life
+1263	1795	Cultural_identity
+2547	3246	Public_opinion

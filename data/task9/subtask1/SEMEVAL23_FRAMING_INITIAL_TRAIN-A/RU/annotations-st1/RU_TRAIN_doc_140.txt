@@ -1,0 +1,5 @@
+0	49	Security_and_defense
+53	420	Security_and_defense	Crime_and_punishment
+3542	3963	Economic	External_regulation_and_reputation	Capacity_and_resources
+4590	4757	Economic
+5569	5932	Public_opinion

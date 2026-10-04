@@ -1,0 +1,3 @@
+0	58	Policy_prescription_and_evaluation	Capacity_and_resources
+62	174	Cultural_identity	Quality_of_life
+598	922	Capacity_and_resources

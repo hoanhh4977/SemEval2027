@@ -1,0 +1,3 @@
+0	67	Political
+370	613	Security_and_defense
+615	1072	Crime_and_punishment

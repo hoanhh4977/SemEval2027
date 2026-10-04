@@ -1,0 +1,4 @@
+2728	2794	Security_and_defense
+3475	3870	Legality_Constitutionality_and_jurisprudence
+3874	4326	External_regulation_and_reputation
+4330	4689	Security_and_defense

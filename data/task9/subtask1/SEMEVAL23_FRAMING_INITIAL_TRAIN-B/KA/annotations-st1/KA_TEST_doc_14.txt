@@ -1,0 +1,3 @@
+0	75	Health_and_safety
+257	594	Crime_and_punishment
+598	1044	Crime_and_punishment

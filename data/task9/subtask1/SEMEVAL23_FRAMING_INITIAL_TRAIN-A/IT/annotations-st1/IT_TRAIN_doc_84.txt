@@ -1,0 +1,4 @@
+0	49	Security_and_defense
+662	1087	Security_and_defense
+1089	1237	Security_and_defense
+5358	5919	Capacity_and_resources

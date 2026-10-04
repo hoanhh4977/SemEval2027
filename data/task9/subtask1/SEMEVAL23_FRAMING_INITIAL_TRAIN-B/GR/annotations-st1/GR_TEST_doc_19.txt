@@ -1,0 +1,6 @@
+799	1232	Political
+1236	1558	Economic
+1562	2008	Economic
+2012	2384	Quality_of_life
+2388	2736	Security_and_defense
+2740	3094	Public_opinion

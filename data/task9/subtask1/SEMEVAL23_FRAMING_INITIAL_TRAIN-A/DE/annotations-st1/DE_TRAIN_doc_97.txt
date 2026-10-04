@@ -1,0 +1,7 @@
+183	929	Crime_and_punishment
+1825	2085	Health_and_safety
+2089	2658	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+2662	3087	Morality	Public_opinion
+3091	3338	Public_opinion
+4751	5046	Security_and_defense
+6373	6470	Political

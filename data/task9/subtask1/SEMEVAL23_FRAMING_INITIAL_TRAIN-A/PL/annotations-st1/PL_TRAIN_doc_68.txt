@@ -1,0 +1,3 @@
+396	518	Political
+520	1011	Security_and_defense
+2693	2939	Public_opinion

@@ -1,0 +1,11 @@
+0	115	Political
+332	717	Security_and_defense
+719	963	Public_opinion
+965	1173	External_regulation_and_reputation
+1175	1385	Policy_prescription_and_evaluation
+2997	3286	Quality_of_life
+3288	3436	Economic
+3982	4331	External_regulation_and_reputation
+4660	4885	Capacity_and_resources
+5191	5477	External_regulation_and_reputation
+5479	5699	Public_opinion

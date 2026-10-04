@@ -1,0 +1,8 @@
+130	218	Morality
+220	445	External_regulation_and_reputation
+641	999	Political	Fairness_and_equality
+1065	1476	Policy_prescription_and_evaluation	Economic	Political
+1478	1739	Security_and_defense
+1741	2119	Policy_prescription_and_evaluation
+2121	2483	Security_and_defense
+2485	2689	Crime_and_punishment

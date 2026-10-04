@@ -1,0 +1,5 @@
+17	281	Political
+285	908	Economic	External_regulation_and_reputation	Security_and_defense	Political
+912	1307	Legality_Constitutionality_and_jurisprudence	Morality	Cultural_identity
+1756	1968	Political
+2731	3037	Security_and_defense

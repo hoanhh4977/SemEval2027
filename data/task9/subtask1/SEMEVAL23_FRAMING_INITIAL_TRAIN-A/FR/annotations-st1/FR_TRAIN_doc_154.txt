@@ -1,0 +1,2 @@
+0	67	Security_and_defense
+69	205	Morality	External_regulation_and_reputation

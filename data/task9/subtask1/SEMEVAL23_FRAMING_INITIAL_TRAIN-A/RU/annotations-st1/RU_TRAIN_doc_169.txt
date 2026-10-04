@@ -1,0 +1,4 @@
+187	289	Economic
+291	678	Security_and_defense
+680	1098	Political
+1100	1460	Quality_of_life

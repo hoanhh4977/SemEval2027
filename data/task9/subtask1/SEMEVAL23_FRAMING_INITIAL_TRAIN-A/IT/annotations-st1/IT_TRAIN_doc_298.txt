@@ -1,0 +1,7 @@
+114	1238	Health_and_safety
+2531	2986	Health_and_safety
+2988	3182	Health_and_safety
+3920	4416	Health_and_safety
+4418	4780	Morality
+4782	5427	Morality
+5429	6401	Morality	Health_and_safety

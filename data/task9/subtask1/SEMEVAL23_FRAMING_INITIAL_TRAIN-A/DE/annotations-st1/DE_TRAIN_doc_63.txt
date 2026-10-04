@@ -1,0 +1,3 @@
+1324	1758	Public_opinion
+3737	3990	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+3994	4279	Security_and_defense	Crime_and_punishment

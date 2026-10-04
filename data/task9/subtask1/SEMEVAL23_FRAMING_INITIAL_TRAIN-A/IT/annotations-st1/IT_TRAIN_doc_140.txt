@@ -1,0 +1,6 @@
+0	79	Capacity_and_resources
+83	292	Capacity_and_resources
+656	1378	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation
+1639	2536	Economic	External_regulation_and_reputation
+2540	2739	Capacity_and_resources
+2743	3098	Economic

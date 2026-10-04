@@ -1,0 +1,3 @@
+66	257	Morality
+261	875	Political
+909	1417	Economic	Security_and_defense

@@ -1,0 +1,4 @@
+0	213	Political
+217	593	Cultural_identity
+597	866	Cultural_identity	External_regulation_and_reputation	Security_and_defense	Fairness_and_equality
+870	1208	Political

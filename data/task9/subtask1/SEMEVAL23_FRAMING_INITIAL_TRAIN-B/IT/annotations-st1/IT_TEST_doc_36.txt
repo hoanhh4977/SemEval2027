@@ -1,0 +1,2 @@
+48	838	External_regulation_and_reputation	Political	Public_opinion
+840	1264	Quality_of_life	Security_and_defense

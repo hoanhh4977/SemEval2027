@@ -1,0 +1,10 @@
+0	85	Economic
+89	388	Economic
+392	957	Health_and_safety	Political
+1565	2527	Economic	Crime_and_punishment
+2531	3241	Policy_prescription_and_evaluation	Capacity_and_resources
+3245	3261	Security_and_defense
+3265	4083	External_regulation_and_reputation	Security_and_defense
+4087	5113	External_regulation_and_reputation	Health_and_safety
+5133	6519	Economic	Political	Fairness_and_equality
+6523	7584	Legality_Constitutionality_and_jurisprudence	Morality

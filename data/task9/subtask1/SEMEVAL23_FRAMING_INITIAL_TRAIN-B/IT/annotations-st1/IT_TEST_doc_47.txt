@@ -1,0 +1,3 @@
+68	847	External_regulation_and_reputation	Political
+1664	2311	Economic
+2313	3221	External_regulation_and_reputation	Capacity_and_resources

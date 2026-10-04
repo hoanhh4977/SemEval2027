@@ -1,0 +1,2 @@
+0	49	Morality
+3516	3855	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment

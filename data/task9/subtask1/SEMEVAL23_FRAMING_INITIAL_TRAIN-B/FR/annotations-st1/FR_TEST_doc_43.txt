@@ -1,0 +1,2 @@
+0	83	Capacity_and_resources
+304	802	External_regulation_and_reputation

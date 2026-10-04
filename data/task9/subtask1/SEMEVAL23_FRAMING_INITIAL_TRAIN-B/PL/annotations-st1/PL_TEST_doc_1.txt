@@ -1,0 +1,8 @@
+22	231	Health_and_safety
+257	1668	External_regulation_and_reputation	Political
+3666	3991	Cultural_identity
+4921	5522	Legality_Constitutionality_and_jurisprudence
+5987	6225	Capacity_and_resources
+8319	8409	Crime_and_punishment
+13275	13752	Public_opinion
+15862	16303	Economic

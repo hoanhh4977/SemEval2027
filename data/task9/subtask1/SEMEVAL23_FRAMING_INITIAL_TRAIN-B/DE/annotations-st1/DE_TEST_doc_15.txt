@@ -1,0 +1,12 @@
+24	424	Security_and_defense	Political
+479	925	Economic	Security_and_defense
+1655	1704	Security_and_defense
+1706	2116	Policy_prescription_and_evaluation	Public_opinion
+2651	3151	Cultural_identity
+3153	3802	Economic	Capacity_and_resources	Security_and_defense
+3878	4416	Health_and_safety	Political
+4418	4989	Capacity_and_resources
+8825	9343	Morality
+11975	12666	Morality	Cultural_identity
+12736	13659	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+13661	14546	Legality_Constitutionality_and_jurisprudence	Cultural_identity

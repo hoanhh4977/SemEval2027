@@ -1,0 +1,3 @@
+68	335	Political
+339	816	Public_opinion
+820	1345	Crime_and_punishment

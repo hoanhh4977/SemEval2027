@@ -1,0 +1,4 @@
+0	116	Policy_prescription_and_evaluation
+118	739	Quality_of_life
+1923	2656	Capacity_and_resources
+6249	6696	Economic

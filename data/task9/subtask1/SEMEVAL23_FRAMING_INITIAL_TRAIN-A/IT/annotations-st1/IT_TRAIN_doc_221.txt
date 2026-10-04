@@ -1,0 +1,4 @@
+106	319	Quality_of_life
+323	532	Quality_of_life
+1173	1779	Legality_Constitutionality_and_jurisprudence
+1843	2431	Political

@@ -1,0 +1,3 @@
+25	590	Economic	External_regulation_and_reputation	Capacity_and_resources
+2357	2650	Quality_of_life	Health_and_safety
+3404	4067	Capacity_and_resources

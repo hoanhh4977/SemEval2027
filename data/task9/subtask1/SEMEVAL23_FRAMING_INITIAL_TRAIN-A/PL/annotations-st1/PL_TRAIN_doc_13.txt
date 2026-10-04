@@ -1,0 +1,4 @@
+65	503	Morality	Security_and_defense
+1546	1774	Economic	Cultural_identity
+1778	2064	Policy_prescription_and_evaluation	Cultural_identity
+2068	2456	External_regulation_and_reputation

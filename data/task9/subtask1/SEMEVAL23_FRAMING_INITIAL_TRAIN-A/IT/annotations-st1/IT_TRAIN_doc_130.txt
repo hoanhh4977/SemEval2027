@@ -1,0 +1,3 @@
+0	179	Quality_of_life
+372	1264	Economic	Public_opinion
+1915	2167	Security_and_defense

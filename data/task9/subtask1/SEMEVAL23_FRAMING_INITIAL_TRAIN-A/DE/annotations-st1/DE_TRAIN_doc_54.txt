@@ -1,0 +1,9 @@
+71	927	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+1094	2164	Security_and_defense	Political
+2219	3763	Quality_of_life
+7896	8377	Health_and_safety
+9237	10053	Legality_Constitutionality_and_jurisprudence
+10901	12122	Health_and_safety	Capacity_and_resources
+12146	13947	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+13949	15088	Political
+20098	20426	Policy_prescription_and_evaluation	Economic

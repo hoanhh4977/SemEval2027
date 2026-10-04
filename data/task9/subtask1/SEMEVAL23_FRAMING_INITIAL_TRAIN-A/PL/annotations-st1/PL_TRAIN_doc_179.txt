@@ -1,0 +1,13 @@
+0	97	Morality
+936	1968	Policy_prescription_and_evaluation	Health_and_safety
+2010	2420	Morality
+4208	6272	Health_and_safety
+6276	6558	Morality
+7664	8360	Public_opinion
+11834	11945	Legality_Constitutionality_and_jurisprudence
+13391	14422	External_regulation_and_reputation
+17706	18092	Public_opinion
+18096	18522	Economic	Public_opinion
+21225	22159	Quality_of_life
+24101	25002	Quality_of_life
+28649	30217	Morality

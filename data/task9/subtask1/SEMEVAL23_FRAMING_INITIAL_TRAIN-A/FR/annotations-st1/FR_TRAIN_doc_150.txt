@@ -1,0 +1,4 @@
+66	572	Quality_of_life
+1196	1571	Health_and_safety	Security_and_defense
+2450	2714	Policy_prescription_and_evaluation	Capacity_and_resources
+2716	3079	Economic

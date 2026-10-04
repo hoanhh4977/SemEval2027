@@ -1,0 +1,4 @@
+315	2071	Policy_prescription_and_evaluation	External_regulation_and_reputation	Political	Security_and_defense
+4142	4673	Security_and_defense
+4677	4902	Morality
+5236	5833	Economic

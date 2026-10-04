@@ -1,0 +1,13 @@
+94	427	Security_and_defense
+615	952	Security_and_defense
+954	1028	Security_and_defense
+1030	1146	Security_and_defense
+1297	1482	Economic
+1484	1627	Security_and_defense
+1629	1804	Security_and_defense
+1806	1928	Security_and_defense
+1930	1995	Security_and_defense
+1997	2166	Security_and_defense
+2168	2325	Security_and_defense
+2327	2541	Security_and_defense
+2782	3138	Political

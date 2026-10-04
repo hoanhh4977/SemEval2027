@@ -1,0 +1,8 @@
+89	299	Health_and_safety
+303	578	Capacity_and_resources
+710	966	Capacity_and_resources	Quality_of_life
+970	1480	Policy_prescription_and_evaluation
+1484	2059	Cultural_identity
+2063	2350	Fairness_and_equality
+2354	2811	Public_opinion
+5107	5651	Economic

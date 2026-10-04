@@ -1,0 +1,3 @@
+0	65	Security_and_defense
+69	2093	Public_opinion
+2097	4797	Economic	External_regulation_and_reputation	Political	Public_opinion

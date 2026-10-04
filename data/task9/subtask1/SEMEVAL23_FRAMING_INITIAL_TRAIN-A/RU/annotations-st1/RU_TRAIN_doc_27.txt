@@ -1,0 +1,5 @@
+0	64	Security_and_defense
+68	271	Security_and_defense
+997	1210	Crime_and_punishment
+1214	1408	Crime_and_punishment
+3691	4187	Security_and_defense	Crime_and_punishment

@@ -1,0 +1,2 @@
+344	864	Political	Public_opinion
+868	1182	Policy_prescription_and_evaluation

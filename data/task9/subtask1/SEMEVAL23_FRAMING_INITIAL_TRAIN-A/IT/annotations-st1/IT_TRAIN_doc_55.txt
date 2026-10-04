@@ -1,0 +1,4 @@
+910	1080	Capacity_and_resources
+1082	1358	Health_and_safety
+1360	1702	External_regulation_and_reputation
+1704	2075	Policy_prescription_and_evaluation	Economic

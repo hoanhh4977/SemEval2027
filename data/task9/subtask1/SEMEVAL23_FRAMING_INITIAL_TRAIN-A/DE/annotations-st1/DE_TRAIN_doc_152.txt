@@ -1,0 +1,5 @@
+25	921	Health_and_safety
+925	1932	Capacity_and_resources
+1936	2878	Quality_of_life	Health_and_safety	Political
+2882	4383	Policy_prescription_and_evaluation	Health_and_safety
+4760	5901	Quality_of_life

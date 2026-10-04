@@ -1,0 +1,6 @@
+98	373	Crime_and_punishment
+375	755	Morality
+757	1319	External_regulation_and_reputation	Health_and_safety	Public_opinion
+1321	1995	Economic	Quality_of_life	Fairness_and_equality
+2366	2614	Capacity_and_resources
+2616	2883	Legality_Constitutionality_and_jurisprudence	Morality

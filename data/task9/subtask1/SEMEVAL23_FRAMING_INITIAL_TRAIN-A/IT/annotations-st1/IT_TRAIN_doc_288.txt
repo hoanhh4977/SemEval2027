@@ -1,0 +1,2 @@
+0	96	Public_opinion
+98	386	Health_and_safety

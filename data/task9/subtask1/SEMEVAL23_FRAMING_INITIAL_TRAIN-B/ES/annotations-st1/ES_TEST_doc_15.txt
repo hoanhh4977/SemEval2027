@@ -1,0 +1,3 @@
+0	87	Policy_prescription_and_evaluation
+472	817	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources
+1180	1990	Economic	Political

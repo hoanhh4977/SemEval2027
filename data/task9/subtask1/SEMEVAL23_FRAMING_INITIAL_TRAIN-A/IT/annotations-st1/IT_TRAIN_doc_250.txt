@@ -1,0 +1,4 @@
+72	688	Political
+690	976	Security_and_defense
+1628	2090	External_regulation_and_reputation	Capacity_and_resources
+2092	3271	Economic	Capacity_and_resources

@@ -1,0 +1,6 @@
+0	121	Quality_of_life
+125	471	Economic	Crime_and_punishment
+475	972	Legality_Constitutionality_and_jurisprudence	Economic	Fairness_and_equality
+976	1164	Security_and_defense
+1168	2004	Cultural_identity	Political
+2008	2948	Morality

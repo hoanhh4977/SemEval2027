@@ -1,0 +1,8 @@
+0	61	Capacity_and_resources
+1038	1238	Quality_of_life
+1812	2046	Policy_prescription_and_evaluation	Health_and_safety
+2380	2756	Legality_Constitutionality_and_jurisprudence	Morality	Quality_of_life
+2760	2991	Capacity_and_resources
+2995	3193	Legality_Constitutionality_and_jurisprudence
+3643	3846	Economic
+3850	4085	Morality

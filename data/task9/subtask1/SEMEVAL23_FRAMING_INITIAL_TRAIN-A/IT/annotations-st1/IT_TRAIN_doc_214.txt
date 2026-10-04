@@ -1,0 +1,7 @@
+0	70	Political
+74	876	Political
+880	1223	Morality
+1227	2342	Capacity_and_resources	Quality_of_life	Security_and_defense	Fairness_and_equality
+2346	3310	Economic	External_regulation_and_reputation
+3314	3774	Political
+3778	4298	External_regulation_and_reputation

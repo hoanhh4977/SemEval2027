@@ -1,0 +1,3 @@
+0	1595	Morality	Political
+1597	2645	Capacity_and_resources
+2647	3966	Health_and_safety

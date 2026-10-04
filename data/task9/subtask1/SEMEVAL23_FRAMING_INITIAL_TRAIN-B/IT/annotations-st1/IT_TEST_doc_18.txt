@@ -1,0 +1,3 @@
+38	281	Political
+867	1341	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+1343	1767	Political

@@ -1,0 +1,5 @@
+58	319	Economic	Public_opinion
+321	934	Economic	Quality_of_life	Health_and_safety
+936	2187	Economic
+2189	3121	Economic
+3123	4380	Economic	Security_and_defense

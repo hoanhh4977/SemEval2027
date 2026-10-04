@@ -1,0 +1,3 @@
+0	79	Security_and_defense
+83	452	Capacity_and_resources
+1510	2219	Capacity_and_resources

@@ -1,0 +1,4 @@
+0	83	Health_and_safety	Public_opinion
+85	281	Public_opinion
+335	654	Public_opinion
+1323	1696	Health_and_safety

@@ -1,0 +1,5 @@
+105	292	External_regulation_and_reputation
+296	759	External_regulation_and_reputation
+763	1437	Political
+1441	2412	Economic	Political
+2916	3570	Security_and_defense

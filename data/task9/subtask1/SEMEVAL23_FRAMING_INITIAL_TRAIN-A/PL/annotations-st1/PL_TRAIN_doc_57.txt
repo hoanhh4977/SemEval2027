@@ -1,0 +1,3 @@
+0	80	Capacity_and_resources	Security_and_defense
+84	481	Capacity_and_resources
+485	958	Economic

@@ -1,0 +1,4 @@
+0	80	Health_and_safety
+1151	1869	Policy_prescription_and_evaluation	Health_and_safety
+1873	2487	Health_and_safety
+2491	3138	Fairness_and_equality

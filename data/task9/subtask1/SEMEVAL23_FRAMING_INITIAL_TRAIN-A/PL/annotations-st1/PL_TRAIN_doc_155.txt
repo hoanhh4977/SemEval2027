@@ -1,0 +1,3 @@
+1960	2417	Economic
+2419	3057	Capacity_and_resources	Political
+3059	3278	Quality_of_life

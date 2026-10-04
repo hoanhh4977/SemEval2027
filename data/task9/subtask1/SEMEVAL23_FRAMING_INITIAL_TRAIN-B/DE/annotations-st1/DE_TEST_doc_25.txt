@@ -1,0 +1,9 @@
+0	103	Political
+105	512	Legality_Constitutionality_and_jurisprudence	Cultural_identity
+514	945	Security_and_defense
+1602	2192	Quality_of_life	Security_and_defense	Political
+2194	2512	External_regulation_and_reputation
+4379	5465	Security_and_defense
+5467	6311	Policy_prescription_and_evaluation
+6339	6889	Crime_and_punishment
+7292	7411	Security_and_defense

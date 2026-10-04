@@ -1,0 +1,5 @@
+103	479	Health_and_safety
+484	811	Capacity_and_resources
+815	1171	Economic
+1175	1644	Economic
+1648	2036	Morality

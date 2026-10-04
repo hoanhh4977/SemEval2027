@@ -1,0 +1,4 @@
+54	496	Security_and_defense
+498	1210	Capacity_and_resources	Political	Public_opinion
+1212	1667	External_regulation_and_reputation
+2256	2867	Cultural_identity

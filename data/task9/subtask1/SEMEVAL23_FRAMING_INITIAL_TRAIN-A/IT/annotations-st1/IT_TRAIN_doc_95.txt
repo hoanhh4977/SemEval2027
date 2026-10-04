@@ -1,0 +1,6 @@
+83	531	Quality_of_life
+569	1143	Political
+1147	1747	Policy_prescription_and_evaluation
+2832	3337	Health_and_safety
+3341	3919	Legality_Constitutionality_and_jurisprudence	Quality_of_life	Crime_and_punishment
+4704	5156	Security_and_defense

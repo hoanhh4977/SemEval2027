@@ -1,0 +1,4 @@
+152	626	External_regulation_and_reputation	Capacity_and_resources
+628	1239	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation
+1241	1725	Economic	Capacity_and_resources	Fairness_and_equality
+2470	3247	Cultural_identity	Security_and_defense

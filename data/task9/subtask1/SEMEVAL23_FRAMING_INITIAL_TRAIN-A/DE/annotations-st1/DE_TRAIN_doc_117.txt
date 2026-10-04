@@ -1,0 +1,4 @@
+72	432	Policy_prescription_and_evaluation	Economic	Capacity_and_resources
+436	721	Fairness_and_equality
+725	1220	Political
+1224	1639	Health_and_safety

@@ -1,0 +1,4 @@
+34	204	Security_and_defense
+208	615	External_regulation_and_reputation	Security_and_defense
+1741	2146	External_regulation_and_reputation
+4186	4760	Crime_and_punishment

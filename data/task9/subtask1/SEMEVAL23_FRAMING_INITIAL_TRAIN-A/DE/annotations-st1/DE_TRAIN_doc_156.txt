@@ -1,0 +1,7 @@
+46	296	Security_and_defense
+548	767	Capacity_and_resources
+873	1155	Policy_prescription_and_evaluation
+1535	1762	Security_and_defense
+2970	3559	External_regulation_and_reputation
+5960	6779	Economic	Security_and_defense
+6783	7789	Cultural_identity

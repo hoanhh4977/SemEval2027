@@ -1,0 +1,6 @@
+219	463	External_regulation_and_reputation	Political
+847	1253	Economic
+2341	2933	Capacity_and_resources
+2935	3329	Capacity_and_resources
+3572	3830	External_regulation_and_reputation	Security_and_defense
+3984	4624	Morality

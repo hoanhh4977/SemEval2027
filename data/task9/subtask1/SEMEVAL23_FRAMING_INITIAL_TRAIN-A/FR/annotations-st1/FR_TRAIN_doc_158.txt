@@ -1,0 +1,3 @@
+520	882	Economic	Capacity_and_resources	Quality_of_life	Political
+886	1277	Economic
+2470	2686	External_regulation_and_reputation

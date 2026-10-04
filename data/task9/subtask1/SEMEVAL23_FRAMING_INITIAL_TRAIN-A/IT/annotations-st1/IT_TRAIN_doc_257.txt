@@ -1,0 +1,4 @@
+998	1872	Policy_prescription_and_evaluation	Political
+1874	3148	Economic	Political
+3150	3654	Morality
+4612	4897	Capacity_and_resources

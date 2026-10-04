@@ -1,0 +1,9 @@
+90	581	Security_and_defense
+585	1533	Economic	Cultural_identity
+1537	2368	External_regulation_and_reputation
+2372	3283	Political
+3287	4156	Cultural_identity
+4160	5010	Cultural_identity
+5909	6783	Security_and_defense
+6787	7702	Economic	Political
+7706	8569	Security_and_defense

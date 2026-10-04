@@ -1,0 +1,4 @@
+0	99	Crime_and_punishment
+284	1158	Security_and_defense
+1980	2447	Security_and_defense	Crime_and_punishment
+4074	4285	Legality_Constitutionality_and_jurisprudence

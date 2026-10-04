@@ -1,0 +1,6 @@
+504	720	Economic	Capacity_and_resources
+921	1068	Economic
+1070	1349	External_regulation_and_reputation	Capacity_and_resources
+1979	2287	Policy_prescription_and_evaluation	External_regulation_and_reputation
+2289	2518	Quality_of_life
+3376	3687	Political

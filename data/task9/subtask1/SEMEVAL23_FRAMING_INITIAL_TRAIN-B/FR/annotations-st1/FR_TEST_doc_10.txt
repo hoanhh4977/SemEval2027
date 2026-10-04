@@ -1,0 +1,5 @@
+0	60	Public_opinion
+62	155	Cultural_identity
+157	829	Cultural_identity
+831	1635	Cultural_identity
+1637	2250	Cultural_identity

@@ -1,0 +1,15 @@
+86	459	Health_and_safety
+463	1004	Economic
+1509	1930	External_regulation_and_reputation
+7794	8322	Political
+8367	8729	Policy_prescription_and_evaluation	Political
+8733	9045	Morality
+9344	9876	Fairness_and_equality	Public_opinion
+10146	10457	Health_and_safety
+11981	12241	External_regulation_and_reputation
+12663	13193	Economic	Health_and_safety
+15795	16505	Public_opinion
+18057	18271	Quality_of_life
+18574	18971	Economic
+18975	19400	Morality
+20778	21583	Health_and_safety

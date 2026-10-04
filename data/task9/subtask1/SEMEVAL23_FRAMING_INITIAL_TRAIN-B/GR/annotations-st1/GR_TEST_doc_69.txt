@@ -1,0 +1,4 @@
+64	464	Crime_and_punishment
+1982	2232	Fairness_and_equality
+2234	3003	Political
+3283	3914	Political

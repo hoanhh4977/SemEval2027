@@ -1,0 +1,4 @@
+0	69	Health_and_safety
+258	1230	Health_and_safety
+2298	2741	Economic
+3241	3584	Economic

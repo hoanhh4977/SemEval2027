@@ -1,0 +1,4 @@
+54	610	Political
+614	1462	Policy_prescription_and_evaluation	Quality_of_life
+1466	2117	Quality_of_life
+2121	2871	Economic	Quality_of_life

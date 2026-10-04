@@ -1,0 +1,15 @@
+0	84	External_regulation_and_reputation
+88	247	Political
+494	867	Morality
+871	1228	Security_and_defense
+2395	2745	Security_and_defense
+2749	3058	Cultural_identity	Crime_and_punishment
+3959	4299	Legality_Constitutionality_and_jurisprudence
+4303	4831	Fairness_and_equality
+5456	5741	Morality
+6111	6271	Economic	Quality_of_life
+6275	6614	Quality_of_life
+6618	7104	Economic
+8538	9004	Health_and_safety
+9008	9441	Public_opinion
+10356	10743	Capacity_and_resources

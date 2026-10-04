@@ -1,0 +1,3 @@
+0	110	Morality	Health_and_safety
+2981	3190	Morality
+3484	3856	Cultural_identity

@@ -1,0 +1,3 @@
+49	107	Security_and_defense
+109	252	Morality
+1075	1428	Security_and_defense

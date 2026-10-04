@@ -1,0 +1,6 @@
+58	765	Policy_prescription_and_evaluation	Economic
+769	1227	Cultural_identity	External_regulation_and_reputation	Public_opinion
+1231	1613	Policy_prescription_and_evaluation	Capacity_and_resources
+1617	2109	External_regulation_and_reputation
+2113	2557	External_regulation_and_reputation	Public_opinion
+3692	3996	Public_opinion

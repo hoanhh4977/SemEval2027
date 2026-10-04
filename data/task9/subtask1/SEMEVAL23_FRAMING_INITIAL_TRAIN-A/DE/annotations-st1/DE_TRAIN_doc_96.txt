@@ -1,0 +1,14 @@
+551	807	Economic
+809	1931	Policy_prescription_and_evaluation	Health_and_safety
+2165	2203	Health_and_safety
+4279	4454	Legality_Constitutionality_and_jurisprudence
+7813	8195	Health_and_safety
+8737	9766	Health_and_safety
+10493	11692	Legality_Constitutionality_and_jurisprudence	Morality
+12836	13998	Morality
+14073	14360	Quality_of_life	Security_and_defense
+14362	14626	Legality_Constitutionality_and_jurisprudence
+14628	15757	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation	Health_and_safety	Security_and_defense	Political
+15759	16400	Economic	Health_and_safety	Security_and_defense
+19320	20132	Cultural_identity
+22449	23175	Capacity_and_resources

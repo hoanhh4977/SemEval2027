@@ -1,0 +1,8 @@
+1028	1478	Crime_and_punishment
+1480	1958	Crime_and_punishment
+2242	2661	Crime_and_punishment
+2663	2961	Crime_and_punishment
+4629	4920	Crime_and_punishment
+6614	6898	Economic	Quality_of_life
+8086	8366	Economic
+8368	8750	Crime_and_punishment

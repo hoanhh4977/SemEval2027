@@ -1,0 +1,6 @@
+44	1217	Economic	Cultural_identity	External_regulation_and_reputation	Security_and_defense
+1221	1698	External_regulation_and_reputation	Political
+2454	3040	Cultural_identity	Capacity_and_resources	Security_and_defense
+3708	4484	Economic	Public_opinion
+6041	6767	Legality_Constitutionality_and_jurisprudence
+6771	7473	Economic	Capacity_and_resources	Security_and_defense

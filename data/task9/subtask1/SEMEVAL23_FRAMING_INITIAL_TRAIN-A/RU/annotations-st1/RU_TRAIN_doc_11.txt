@@ -1,0 +1,2 @@
+0	69	Political
+73	227	Legality_Constitutionality_and_jurisprudence

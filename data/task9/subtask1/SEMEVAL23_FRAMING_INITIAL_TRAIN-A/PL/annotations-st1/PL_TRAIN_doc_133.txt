@@ -1,0 +1,4 @@
+88	266	External_regulation_and_reputation
+658	1034	Economic
+1038	1247	Capacity_and_resources
+1684	1981	Policy_prescription_and_evaluation

@@ -1,0 +1,5 @@
+66	482	Morality
+486	1010	Economic	Quality_of_life
+1250	1540	Capacity_and_resources
+2038	2603	Policy_prescription_and_evaluation	Economic
+2607	2834	External_regulation_and_reputation

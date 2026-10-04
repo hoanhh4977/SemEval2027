@@ -1,0 +1,5 @@
+0	83	Capacity_and_resources
+85	242	Economic	Security_and_defense
+1084	1221	Public_opinion
+1223	1385	Political
+2187	2362	Economic

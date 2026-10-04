@@ -1,0 +1,3 @@
+88	758	Economic	Security_and_defense
+781	1431	Morality	Economic	Health_and_safety	Security_and_defense
+2487	3317	Economic	Morality	Crime_and_punishment

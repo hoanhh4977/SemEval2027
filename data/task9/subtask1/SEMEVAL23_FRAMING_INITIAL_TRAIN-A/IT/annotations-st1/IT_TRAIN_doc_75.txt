@@ -1,0 +1,4 @@
+64	393	Security_and_defense
+618	1023	Security_and_defense
+1581	1795	Cultural_identity
+2770	3192	Morality	Political

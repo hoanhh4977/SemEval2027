@@ -1,0 +1,6 @@
+0	53	External_regulation_and_reputation
+57	250	Policy_prescription_and_evaluation
+254	616	Capacity_and_resources	Security_and_defense
+1511	1747	External_regulation_and_reputation
+2232	2646	Security_and_defense
+2991	3306	Political

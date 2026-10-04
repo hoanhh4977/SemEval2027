@@ -1,0 +1,3 @@
+31	191	Health_and_safety
+215	517	Public_opinion
+720	998	Political

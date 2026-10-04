@@ -1,0 +1,9 @@
+111	366	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+370	878	Morality
+882	1618	Economic	Fairness_and_equality
+2334	2559	External_regulation_and_reputation
+3707	3922	Political
+4725	5083	Fairness_and_equality
+5087	5357	Policy_prescription_and_evaluation
+5400	6053	Policy_prescription_and_evaluation
+7109	7419	Morality

@@ -1,0 +1,4 @@
+62	403	Policy_prescription_and_evaluation	Public_opinion
+1185	1586	Legality_Constitutionality_and_jurisprudence
+1588	2107	Cultural_identity	Fairness_and_equality
+2109	2490	Political

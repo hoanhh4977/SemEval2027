@@ -1,0 +1,4 @@
+101	335	Cultural_identity
+339	1054	Economic
+1386	1970	Morality
+1974	2359	Morality

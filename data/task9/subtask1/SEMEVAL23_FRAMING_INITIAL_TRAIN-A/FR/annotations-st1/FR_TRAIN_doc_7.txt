@@ -1,0 +1,3 @@
+65	143	Health_and_safety
+1015	1480	Economic	Morality
+2749	3267	Quality_of_life

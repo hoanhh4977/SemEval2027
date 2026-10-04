@@ -1,0 +1,4 @@
+0	202	Health_and_safety	Crime_and_punishment
+206	529	External_regulation_and_reputation
+2097	2526	Economic
+2530	2904	Public_opinion	Crime_and_punishment

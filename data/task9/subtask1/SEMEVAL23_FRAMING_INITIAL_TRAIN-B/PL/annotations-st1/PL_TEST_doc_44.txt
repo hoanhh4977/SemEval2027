@@ -1,0 +1,4 @@
+0	67	Health_and_safety
+71	347	Economic	External_regulation_and_reputation
+946	1317	Political
+1321	1490	Fairness_and_equality

@@ -1,0 +1,4 @@
+55	354	Health_and_safety
+358	1033	Morality	Cultural_identity	Capacity_and_resources	Fairness_and_equality
+1950	2701	External_regulation_and_reputation	Fairness_and_equality
+3841	4651	Political

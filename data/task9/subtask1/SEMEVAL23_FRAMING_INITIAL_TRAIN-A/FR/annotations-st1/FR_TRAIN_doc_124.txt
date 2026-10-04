@@ -1,0 +1,8 @@
+0	82	Political
+1199	1513	Morality
+1517	1724	Morality
+4731	5106	Economic
+5675	6132	Security_and_defense
+6955	7046	Political
+7910	8191	Fairness_and_equality
+8195	8531	Economic

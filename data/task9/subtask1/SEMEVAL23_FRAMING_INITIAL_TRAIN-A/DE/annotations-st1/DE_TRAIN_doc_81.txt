@@ -1,0 +1,5 @@
+0	60	Political
+64	331	Economic	Capacity_and_resources
+2179	2648	Economic
+3123	3692	Capacity_and_resources
+4118	4576	Security_and_defense

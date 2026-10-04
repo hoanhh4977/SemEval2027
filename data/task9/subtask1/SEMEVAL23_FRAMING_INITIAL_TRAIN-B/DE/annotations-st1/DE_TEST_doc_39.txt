@@ -1,0 +1,6 @@
+48	381	Health_and_safety
+1463	1632	Morality
+1704	2115	Security_and_defense
+3732	4179	Economic
+6213	6365	Morality
+8225	8479	Political

@@ -1,0 +1,6 @@
+45	633	Morality
+635	1421	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+1423	1973	Quality_of_life
+1975	2585	Cultural_identity
+2587	3276	Fairness_and_equality
+3278	3828	Legality_Constitutionality_and_jurisprudence

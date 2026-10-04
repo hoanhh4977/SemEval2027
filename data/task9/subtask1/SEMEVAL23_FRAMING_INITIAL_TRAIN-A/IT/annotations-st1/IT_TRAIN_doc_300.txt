@@ -1,0 +1,4 @@
+422	865	Policy_prescription_and_evaluation	Security_and_defense
+869	1153	Policy_prescription_and_evaluation
+1499	1945	External_regulation_and_reputation
+1949	2214	Political

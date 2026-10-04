@@ -1,0 +1,5 @@
+0	108	Security_and_defense
+112	312	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+316	837	Policy_prescription_and_evaluation
+1097	1534	Political	Security_and_defense
+1538	1734	Political

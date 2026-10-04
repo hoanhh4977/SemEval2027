@@ -1,0 +1,5 @@
+0	48	Policy_prescription_and_evaluation
+52	320	Security_and_defense
+328	994	Morality	Health_and_safety	Security_and_defense
+1002	1853	Economic	Quality_of_life
+1861	2816	Policy_prescription_and_evaluation	Fairness_and_equality

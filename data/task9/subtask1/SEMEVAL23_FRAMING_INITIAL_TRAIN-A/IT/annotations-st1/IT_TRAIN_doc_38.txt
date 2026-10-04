@@ -1,0 +1,8 @@
+79	657	Political
+659	1051	Crime_and_punishment
+1298	1653	Capacity_and_resources
+1655	2271	Health_and_safety
+2273	2843	Legality_Constitutionality_and_jurisprudence
+4006	5059	Fairness_and_equality
+5061	5704	Policy_prescription_and_evaluation
+5748	6265	Quality_of_life

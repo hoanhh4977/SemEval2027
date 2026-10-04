@@ -1,0 +1,6 @@
+0	52	Health_and_safety
+995	1413	Security_and_defense
+2136	2528	Health_and_safety
+2532	3011	Policy_prescription_and_evaluation
+3847	4253	Health_and_safety
+4257	4474	Health_and_safety

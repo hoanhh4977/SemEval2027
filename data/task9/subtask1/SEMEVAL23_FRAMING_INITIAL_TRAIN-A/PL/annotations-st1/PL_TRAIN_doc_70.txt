@@ -1,0 +1,4 @@
+0	73	Health_and_safety
+436	770	Public_opinion
+1834	2834	Economic
+2838	3364	Economic

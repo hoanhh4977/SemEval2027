@@ -1,0 +1,3 @@
+40	500	Political
+502	862	Health_and_safety
+3234	3862	Quality_of_life

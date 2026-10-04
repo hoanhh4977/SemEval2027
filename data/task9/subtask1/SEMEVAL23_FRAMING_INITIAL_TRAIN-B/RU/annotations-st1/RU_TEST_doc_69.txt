@@ -1,0 +1,2 @@
+830	1030	Economic
+1364	1520	Quality_of_life

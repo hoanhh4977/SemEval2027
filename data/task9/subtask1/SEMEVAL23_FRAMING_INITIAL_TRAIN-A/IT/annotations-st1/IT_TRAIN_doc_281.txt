@@ -1,0 +1,7 @@
+98	367	Capacity_and_resources
+369	520	External_regulation_and_reputation	Crime_and_punishment
+522	693	Capacity_and_resources
+695	988	Economic
+1140	1312	Political
+2096	2352	Security_and_defense
+2354	2464	External_regulation_and_reputation

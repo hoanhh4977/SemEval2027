@@ -1,0 +1,4 @@
+0	146	Political	Security_and_defense
+459	686	Capacity_and_resources
+2060	2358	Security_and_defense
+4084	4410	External_regulation_and_reputation

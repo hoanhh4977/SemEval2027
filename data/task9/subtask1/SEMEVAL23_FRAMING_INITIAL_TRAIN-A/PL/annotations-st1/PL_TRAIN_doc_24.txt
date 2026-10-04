@@ -1,0 +1,4 @@
+31	126	Security_and_defense
+444	571	Morality
+1280	1786	Capacity_and_resources
+1790	2397	Economic

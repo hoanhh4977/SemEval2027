@@ -1,0 +1,47 @@
+Determining Project Success Or Failure
+
+CEO and founder of SolveIt—a mobile development company. Entrepreneur and product owner of HBT.
+
+While the app development industry boasted a staggering market value of $167 billion in 2023, the harsh reality is that businesses vying for a piece of this lucrative pie face daunting odds. Statistics reveal that a mere 0.5% of apps manage to achieve true success.
+
+While it's crucial to avoid dwelling on existential discussions concerning the shortcomings of mobile development projects, it's crucial to acknowledge that the trajectory of these projects rarely unfolds in isolation. Stakeholders actively engage in such initiatives, playing a significant role in their progression.
+
+So, I invite you to see what lies ahead along this path.
+
+Who are defined as stakeholders?
+
+This question lies at the heart of project success, as effective stakeholder engagement serves as cement in building strong collaboration with a contractor. Throughout my position, I've, unfortunately, witnessed several cases where the foundation of the startup was almost damaged due to the insufficient strength of this connection.
+
+The idea of a stakeholder was first introduced by the Tavistock Institute in London during the early 1970s. It refers to an individual or a group of people who have a personal interest in a project or organization.
+
+If I am the voice of the development vendor, who is on the other end of the line then? I'm addressing founders, product owners and everyone involved in shaping the vision and concept of the future product at the C-level, including investors, consultants and partners. So, I'll define them all as internal stakeholders.
+
+Overcoming Obstacles To Drive Stakeholder Engagement
+
+It's worth considering that simply handing off your project to a remote team or outsourcing it doesn't guarantee its successful completion 100% of the time. The point is that the vendor, for its part, cannot commit to maintaining engagement but can expect alignment.
+
+So, let's clarify which consequences of low proactivity from stakeholders are hidden:
+
+1. Delayed Decision-Making
+
+A startup is a constantly changing system with a huge number of variables, and each of them requires attention: decision fatigue in the age of urgency is a serious problem. Of course, a reliable development partner can offer options regarding the tech, design and management zones, having a certain set of expertise within the team.
+
+However, while you contemplate who will decide on obtaining approvals and resolving critical issues, the project is stuck. And time is money.
+
+What can be done? Share responsibility. Likely, the same people may not have the same influence over technical requirements or marketing strategy. You can use tools like mapping, matrices or registers to categorize and prioritize your stakeholders based on their area or level of influence and interest.
+
+2. Lack Of Support And Advocacy
+
+When we embark on a client project, I witness the initial excitement and innovative ideas. We begin by developing an MVP with the intention of expanding it further. However, it is disheartening when you realize that somewhere along the journey, the project's ethos and overall vision got lost.
+
+That leads to disability securing additional funding, attracting customers or gaining market traction—you know, the project's lifeblood.
+
+What can be done? Before overcoming stakeholder resistance, it is essential to gain a comprehensive understanding of its underlying causes. Is that about insufficient information, fear of potential losses, conflicting interests or a sense of mistrust? Listening is key.
+
+3. Scope Creep
+
+Scope creep refers to the uncontrolled expansion of project scope beyond its original boundaries throughout the whole development lifecycle. It often occurs when stakeholders have low engagement and fail to provide clear requirements or keep up with project progress.
+
+Here, everything is simple. Changing the app's direction at any stage means extra resources spent. Rarely does it pass without a trace and usually results in a project failure.
+
+What can be done? Foster a collective approach. Even if some of your partners are not directly involved in scope creation, they should still provide verbal or written acknowledgment to ensure their understanding and alignment with the project goals. Try to formalize the path to change the scope!

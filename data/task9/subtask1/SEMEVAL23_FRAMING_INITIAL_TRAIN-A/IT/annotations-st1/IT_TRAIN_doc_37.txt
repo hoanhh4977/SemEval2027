@@ -1,0 +1,7 @@
+0	69	Political
+71	1099	Political
+6016	6866	Security_and_defense
+6868	7685	Security_and_defense
+7687	8564	Economic
+8566	9308	Economic
+10897	12323	Economic

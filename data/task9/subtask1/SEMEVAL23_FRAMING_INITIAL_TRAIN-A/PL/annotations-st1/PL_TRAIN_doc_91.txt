@@ -1,0 +1,4 @@
+68	772	Policy_prescription_and_evaluation
+774	1277	Economic
+3432	4117	Health_and_safety
+6575	7010	Quality_of_life

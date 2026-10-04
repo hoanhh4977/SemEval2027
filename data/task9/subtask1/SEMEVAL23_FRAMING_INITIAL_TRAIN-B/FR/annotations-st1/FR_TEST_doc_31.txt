@@ -1,0 +1,4 @@
+88	833	Political
+2578	3515	Public_opinion
+4065	4365	External_regulation_and_reputation
+4367	5424	Morality	Cultural_identity

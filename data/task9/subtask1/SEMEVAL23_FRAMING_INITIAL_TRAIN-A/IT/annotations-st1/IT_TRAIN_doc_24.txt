@@ -1,0 +1,4 @@
+96	986	Policy_prescription_and_evaluation	Cultural_identity
+1047	1796	Legality_Constitutionality_and_jurisprudence	Morality	Public_opinion
+1821	2265	Crime_and_punishment
+2269	3100	Fairness_and_equality

@@ -1,0 +1,10 @@
+0	93	Morality
+95	381	Health_and_safety
+383	880	Health_and_safety
+936	1006	Health_and_safety
+1008	1075	Capacity_and_resources
+1077	1144	Capacity_and_resources
+1146	1208	Health_and_safety
+1210	1479	Health_and_safety
+2017	2223	Health_and_safety	Security_and_defense
+2258	2571	Health_and_safety

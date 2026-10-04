@@ -1,0 +1,4 @@
+0	45	Morality	Security_and_defense
+47	301	Capacity_and_resources	Security_and_defense
+2747	3353	Political
+3355	3787	Policy_prescription_and_evaluation	Economic	Capacity_and_resources

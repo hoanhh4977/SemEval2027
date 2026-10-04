@@ -1,0 +1,10 @@
+0	64	Cultural_identity
+68	210	Political
+430	749	Economic	Security_and_defense
+1066	1481	Policy_prescription_and_evaluation	Health_and_safety
+1485	1954	Cultural_identity	Security_and_defense
+1958	2636	External_regulation_and_reputation	Public_opinion
+2640	3219	Policy_prescription_and_evaluation	Economic	Capacity_and_resources
+3455	3923	Health_and_safety	Fairness_and_equality	Crime_and_punishment
+4197	4740	Capacity_and_resources	Political
+5001	5478	Cultural_identity

@@ -1,0 +1,6 @@
+2	62	Political
+66	268	Health_and_safety	Political
+978	1390	Economic
+1426	2252	Economic
+2867	3195	Health_and_safety
+4401	5060	Cultural_identity

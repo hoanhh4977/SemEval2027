@@ -1,0 +1,8 @@
+120	189	External_regulation_and_reputation
+232	673	External_regulation_and_reputation
+675	1243	Policy_prescription_and_evaluation	Economic
+1245	1483	Crime_and_punishment
+1485	1993	Policy_prescription_and_evaluation	Security_and_defense	Political
+2269	2834	Political
+3315	3683	Capacity_and_resources
+4725	5000	Cultural_identity

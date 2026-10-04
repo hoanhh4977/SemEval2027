@@ -1,0 +1,3 @@
+75	179	Political
+562	1726	Political
+2668	2929	Political

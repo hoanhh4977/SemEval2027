@@ -1,0 +1,2 @@
+0	91	Political
+95	332	Economic

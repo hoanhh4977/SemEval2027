@@ -1,0 +1,7 @@
+30	233	Health_and_safety
+237	427	Political
+904	1405	External_regulation_and_reputation
+1409	1732	Legality_Constitutionality_and_jurisprudence
+1736	2145	Quality_of_life
+2345	2585	Economic
+3756	4222	Public_opinion

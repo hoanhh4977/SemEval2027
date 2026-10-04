@@ -1,0 +1,8 @@
+671	904	Public_opinion
+1117	1406	Economic	Health_and_safety	Quality_of_life
+1410	1648	Capacity_and_resources	Fairness_and_equality
+1652	1839	Health_and_safety
+2123	2432	Crime_and_punishment
+2436	2641	Economic
+3744	4023	Crime_and_punishment
+4027	4294	Morality

@@ -1,0 +1,2 @@
+1569	3586	Political	Public_opinion	Crime_and_punishment
+3597	4540	External_regulation_and_reputation

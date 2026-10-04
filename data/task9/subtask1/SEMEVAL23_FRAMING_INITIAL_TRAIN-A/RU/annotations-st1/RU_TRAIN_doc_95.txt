@@ -1,0 +1,5 @@
+53	236	External_regulation_and_reputation
+411	737	Political	Security_and_defense
+741	995	Political
+999	1487	Security_and_defense	Political
+2012	2324	Economic	Political

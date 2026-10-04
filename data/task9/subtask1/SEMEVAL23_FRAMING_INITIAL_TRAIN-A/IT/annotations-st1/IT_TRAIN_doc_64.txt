@@ -1,0 +1,8 @@
+440	542	Political
+1128	1502	Economic
+1504	1775	Policy_prescription_and_evaluation	External_regulation_and_reputation
+1777	1949	Policy_prescription_and_evaluation
+2277	3191	Cultural_identity	Crime_and_punishment
+3193	3494	Capacity_and_resources
+3496	3812	Political	Public_opinion
+3990	4271	Security_and_defense

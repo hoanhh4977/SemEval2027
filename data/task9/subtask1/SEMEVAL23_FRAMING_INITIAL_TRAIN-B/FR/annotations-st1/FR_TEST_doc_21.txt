@@ -1,0 +1,2 @@
+0	186	Capacity_and_resources
+1009	1356	Economic	External_regulation_and_reputation

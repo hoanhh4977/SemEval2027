@@ -1,0 +1,4 @@
+0	57	Security_and_defense
+61	269	Political	Security_and_defense
+509	757	External_regulation_and_reputation
+2108	2342	Legality_Constitutionality_and_jurisprudence

@@ -1,0 +1,6 @@
+0	72	Political	Public_opinion
+345	636	Security_and_defense
+640	1346	Legality_Constitutionality_and_jurisprudence	Public_opinion
+1350	1829	Economic
+2615	2960	Public_opinion
+3324	3925	Policy_prescription_and_evaluation

@@ -1,0 +1,3 @@
+571	768	Capacity_and_resources
+1080	1340	Morality
+1345	1661	Security_and_defense

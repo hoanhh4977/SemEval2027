@@ -1,0 +1,5 @@
+0	55	External_regulation_and_reputation
+59	402	Political
+406	1050	Policy_prescription_and_evaluation
+1054	1486	Capacity_and_resources
+1847	2611	Economic	Capacity_and_resources

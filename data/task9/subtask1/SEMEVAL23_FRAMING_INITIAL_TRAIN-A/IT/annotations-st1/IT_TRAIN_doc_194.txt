@@ -1,0 +1,2 @@
+90	580	Economic	Quality_of_life	Capacity_and_resources
+1355	1953	Capacity_and_resources

@@ -1,0 +1,5 @@
+69	280	Capacity_and_resources
+740	1079	Economic
+1560	2403	Economic
+2407	2831	Cultural_identity	Quality_of_life
+2835	4214	External_regulation_and_reputation	Capacity_and_resources

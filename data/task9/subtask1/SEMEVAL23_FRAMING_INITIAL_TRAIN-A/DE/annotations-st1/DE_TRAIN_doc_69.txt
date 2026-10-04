@@ -1,0 +1,6 @@
+0	199	Legality_Constitutionality_and_jurisprudence
+203	958	Morality	Fairness_and_equality
+1330	1907	Health_and_safety
+2859	4184	Legality_Constitutionality_and_jurisprudence	Political
+4188	4849	Cultural_identity	Fairness_and_equality
+4853	5401	Policy_prescription_and_evaluation

@@ -1,0 +1,4 @@
+112	1011	Policy_prescription_and_evaluation	Political
+1013	1588	Economic	Capacity_and_resources
+1590	2114	Security_and_defense	Public_opinion
+2177	2451	Capacity_and_resources

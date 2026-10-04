@@ -1,0 +1,6 @@
+458	636	Policy_prescription_and_evaluation
+640	923	External_regulation_and_reputation
+1081	1214	Security_and_defense
+1969	2111	Legality_Constitutionality_and_jurisprudence
+2495	2649	Quality_of_life	Capacity_and_resources
+2878	3157	Economic

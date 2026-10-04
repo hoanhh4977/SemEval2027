@@ -1,0 +1,4 @@
+0	98	Political	Crime_and_punishment
+102	627	Policy_prescription_and_evaluation	Capacity_and_resources
+1093	2163	Legality_Constitutionality_and_jurisprudence
+3053	3792	Security_and_defense

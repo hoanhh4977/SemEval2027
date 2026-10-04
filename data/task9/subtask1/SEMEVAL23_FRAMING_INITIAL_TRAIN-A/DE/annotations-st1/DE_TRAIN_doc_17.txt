@@ -1,0 +1,6 @@
+0	57	Legality_Constitutionality_and_jurisprudence
+61	517	Policy_prescription_and_evaluation	Political
+572	942	Capacity_and_resources
+990	1536	Policy_prescription_and_evaluation
+1580	2060	Cultural_identity	Capacity_and_resources
+2111	2786	Legality_Constitutionality_and_jurisprudence

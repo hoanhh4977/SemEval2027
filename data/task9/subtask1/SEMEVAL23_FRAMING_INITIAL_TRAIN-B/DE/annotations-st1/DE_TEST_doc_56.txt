@@ -1,0 +1,5 @@
+67	503	Policy_prescription_and_evaluation	Health_and_safety
+507	932	Crime_and_punishment
+936	1432	Political
+2503	2958	Economic
+3361	3925	Policy_prescription_and_evaluation	Economic	Health_and_safety	Political	Public_opinion

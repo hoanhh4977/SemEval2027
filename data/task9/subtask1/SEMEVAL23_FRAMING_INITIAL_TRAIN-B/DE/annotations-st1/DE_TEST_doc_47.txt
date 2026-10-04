@@ -1,0 +1,5 @@
+54	353	Political
+643	1149	Cultural_identity	Political	Public_opinion
+1564	1893	Legality_Constitutionality_and_jurisprudence
+1953	2324	Fairness_and_equality
+2326	2594	Legality_Constitutionality_and_jurisprudence	Economic

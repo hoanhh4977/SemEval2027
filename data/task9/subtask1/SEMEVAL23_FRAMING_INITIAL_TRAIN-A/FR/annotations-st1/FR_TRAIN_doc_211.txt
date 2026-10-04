@@ -1,0 +1,4 @@
+0	65	Political
+67	343	Political
+1592	1928	Political
+2113	2456	External_regulation_and_reputation

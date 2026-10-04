@@ -1,0 +1,6 @@
+22	362	Cultural_identity
+364	1123	Security_and_defense	Crime_and_punishment
+1125	1749	Morality	Cultural_identity
+1751	2368	Crime_and_punishment
+2370	3144	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+3146	3695	Legality_Constitutionality_and_jurisprudence

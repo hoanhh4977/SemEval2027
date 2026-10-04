@@ -1,0 +1,10 @@
+68	381	Economic
+383	529	Economic
+767	1335	Quality_of_life	Political
+1606	1846	Policy_prescription_and_evaluation
+3002	3429	Economic	Political
+4065	4736	Economic	Quality_of_life
+4738	5409	Health_and_safety
+5411	5703	Policy_prescription_and_evaluation	Economic
+7344	7610	Capacity_and_resources
+8453	8728	Quality_of_life

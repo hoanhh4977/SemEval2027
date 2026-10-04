@@ -1,0 +1,4 @@
+0	99	Political
+103	1050	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation	Political
+1943	1987	Political
+1991	2866	Political

@@ -1,0 +1,5 @@
+0	75	Security_and_defense
+79	351	Security_and_defense
+606	781	Economic	Capacity_and_resources
+785	1009	Economic	Public_opinion
+2082	2182	Economic

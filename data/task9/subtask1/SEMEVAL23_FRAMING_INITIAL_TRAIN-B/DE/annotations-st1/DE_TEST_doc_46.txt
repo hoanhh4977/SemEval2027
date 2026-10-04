@@ -1,0 +1,5 @@
+0	115	Health_and_safety
+385	470	Economic
+602	999	Health_and_safety	Public_opinion
+1792	2071	Health_and_safety
+3145	3583	Public_opinion

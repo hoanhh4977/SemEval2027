@@ -1,0 +1,3 @@
+0	86	Health_and_safety
+90	681	Political
+6426	6908	Political

@@ -1,0 +1,4 @@
+0	83	Political
+260	372	Political
+462	700	Legality_Constitutionality_and_jurisprudence
+2079	2308	Health_and_safety

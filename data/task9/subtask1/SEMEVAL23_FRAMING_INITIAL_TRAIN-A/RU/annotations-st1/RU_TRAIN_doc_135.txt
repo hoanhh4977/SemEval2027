@@ -1,0 +1,3 @@
+260	570	Political
+753	916	Morality
+920	1288	Security_and_defense

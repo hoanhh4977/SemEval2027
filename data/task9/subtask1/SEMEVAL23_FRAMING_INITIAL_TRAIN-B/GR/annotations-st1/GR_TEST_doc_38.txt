@@ -1,0 +1,13 @@
+0	196	Fairness_and_equality
+449	787	Legality_Constitutionality_and_jurisprudence
+791	1244	Fairness_and_equality
+1248	1416	Fairness_and_equality
+1420	2004	Fairness_and_equality
+2008	2233	Fairness_and_equality
+2237	2667	Fairness_and_equality
+2671	3219	Fairness_and_equality
+3223	3424	Fairness_and_equality
+3428	3845	Morality
+3849	4145	Morality
+4149	4601	Morality
+4605	4752	Morality

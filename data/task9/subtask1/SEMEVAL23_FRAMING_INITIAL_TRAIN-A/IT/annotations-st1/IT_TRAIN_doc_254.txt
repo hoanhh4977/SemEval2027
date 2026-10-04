@@ -1,0 +1,8 @@
+52	444	Policy_prescription_and_evaluation
+1073	1447	Policy_prescription_and_evaluation
+2026	2234	Health_and_safety
+2271	3104	Quality_of_life
+3706	5028	Health_and_safety	Capacity_and_resources
+5033	5847	Health_and_safety
+5852	6173	Cultural_identity
+6367	7120	Morality	Security_and_defense	Crime_and_punishment

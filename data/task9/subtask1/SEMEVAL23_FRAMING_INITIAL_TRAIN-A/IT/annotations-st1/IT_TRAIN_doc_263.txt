@@ -1,0 +1,5 @@
+91	271	Economic
+574	890	Legality_Constitutionality_and_jurisprudence
+894	1404	Quality_of_life
+1785	2009	Political
+2013	2241	Policy_prescription_and_evaluation

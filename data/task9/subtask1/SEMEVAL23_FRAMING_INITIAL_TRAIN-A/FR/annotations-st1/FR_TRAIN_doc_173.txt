@@ -1,0 +1,2 @@
+0	72	Political
+76	957	Morality	External_regulation_and_reputation	Security_and_defense

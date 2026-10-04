@@ -1,0 +1,3 @@
+0	62	Political
+456	900	Policy_prescription_and_evaluation	Crime_and_punishment
+1156	1442	Security_and_defense

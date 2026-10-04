@@ -1,0 +1,6 @@
+0	63	Capacity_and_resources
+848	1498	Policy_prescription_and_evaluation	Economic	Cultural_identity	Political
+1502	2270	Economic
+2310	3515	Capacity_and_resources	Quality_of_life
+3519	4329	Health_and_safety
+4333	5079	Health_and_safety

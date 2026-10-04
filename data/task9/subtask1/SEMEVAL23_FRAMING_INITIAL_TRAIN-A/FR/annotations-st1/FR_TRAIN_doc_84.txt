@@ -1,0 +1,2 @@
+0	54	Political
+56	277	Public_opinion

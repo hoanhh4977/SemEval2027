@@ -1,0 +1,5 @@
+81	576	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation	Security_and_defense
+1699	2250	Quality_of_life
+2254	3008	Economic
+4435	4866	Economic	Political	Security_and_defense
+4870	5300	External_regulation_and_reputation

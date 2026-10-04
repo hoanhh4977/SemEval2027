@@ -1,0 +1,4 @@
+0	138	Cultural_identity	Public_opinion
+590	724	Morality
+728	970	Political
+974	1147	Cultural_identity

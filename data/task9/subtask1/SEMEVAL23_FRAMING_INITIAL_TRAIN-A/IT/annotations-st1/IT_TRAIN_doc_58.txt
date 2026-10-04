@@ -1,0 +1,6 @@
+54	351	Security_and_defense
+355	962	Crime_and_punishment
+1362	1503	External_regulation_and_reputation
+1536	1837	Political
+2364	3086	Crime_and_punishment
+3916	4230	Policy_prescription_and_evaluation

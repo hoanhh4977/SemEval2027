@@ -1,0 +1,5 @@
+0	62	Security_and_defense
+761	966	Economic
+1987	2354	External_regulation_and_reputation
+2358	2810	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+3916	4275	Political

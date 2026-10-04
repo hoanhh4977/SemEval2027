@@ -1,0 +1,4 @@
+61	1114	Political
+1118	1558	External_regulation_and_reputation	Crime_and_punishment
+1759	2116	Security_and_defense
+2120	2656	Policy_prescription_and_evaluation

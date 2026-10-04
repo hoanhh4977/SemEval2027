@@ -1,0 +1,3 @@
+0	171	Cultural_identity
+175	559	Policy_prescription_and_evaluation	Capacity_and_resources
+563	980	Economic	Political

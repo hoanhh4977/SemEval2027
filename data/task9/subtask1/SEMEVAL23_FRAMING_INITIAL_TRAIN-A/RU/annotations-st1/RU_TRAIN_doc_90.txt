@@ -1,0 +1,7 @@
+0	86	Cultural_identity	Fairness_and_equality
+90	138	Security_and_defense
+142	337	Cultural_identity
+341	622	Economic	Cultural_identity	Political
+1272	1637	Public_opinion
+1641	1995	Security_and_defense
+3459	3680	Security_and_defense

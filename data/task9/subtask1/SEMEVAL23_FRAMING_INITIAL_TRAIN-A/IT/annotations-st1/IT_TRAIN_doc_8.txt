@@ -1,0 +1,3 @@
+90	520	Legality_Constitutionality_and_jurisprudence	Economic	Political
+1297	1520	Quality_of_life
+1558	2016	Quality_of_life

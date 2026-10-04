@@ -1,0 +1,11 @@
+161	311	Political
+727	1251	Political	Security_and_defense
+1593	2227	Economic
+3725	4021	Security_and_defense
+5109	5758	Morality	Security_and_defense
+5904	6770	Security_and_defense
+7274	7838	Capacity_and_resources
+8669	9652	Economic
+9654	10221	Economic
+11075	11803	Security_and_defense
+19453	20411	Economic

@@ -1,0 +1,7 @@
+100	500	Health_and_safety
+541	907	Policy_prescription_and_evaluation
+947	1112	Cultural_identity
+1114	1633	External_regulation_and_reputation
+2078	2532	Morality
+2534	3426	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+3428	3727	Fairness_and_equality

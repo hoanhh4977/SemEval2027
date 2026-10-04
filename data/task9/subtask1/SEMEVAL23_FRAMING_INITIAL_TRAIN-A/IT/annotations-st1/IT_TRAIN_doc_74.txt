@@ -1,0 +1,4 @@
+0	62	Security_and_defense
+66	191	Security_and_defense
+195	349	Political
+353	851	Political

@@ -1,0 +1,4 @@
+27	1472	Legality_Constitutionality_and_jurisprudence	Economic	Quality_of_life	Fairness_and_equality
+1500	2912	Policy_prescription_and_evaluation	Quality_of_life	Capacity_and_resources
+2966	7455	Economic
+7494	10840	Economic

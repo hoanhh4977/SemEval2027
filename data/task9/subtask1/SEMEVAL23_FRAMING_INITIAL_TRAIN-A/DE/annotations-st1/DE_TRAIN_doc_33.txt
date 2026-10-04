@@ -1,0 +1,7 @@
+0	64	Health_and_safety
+66	798	Health_and_safety
+800	1655	Health_and_safety	Quality_of_life
+1683	2599	Policy_prescription_and_evaluation
+7326	8226	Public_opinion
+8228	8841	Political
+9576	10281	Legality_Constitutionality_and_jurisprudence

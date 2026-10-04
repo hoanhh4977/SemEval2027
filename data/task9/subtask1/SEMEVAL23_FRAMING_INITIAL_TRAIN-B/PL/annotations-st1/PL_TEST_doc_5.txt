@@ -1,0 +1,7 @@
+0	39	Capacity_and_resources
+43	404	Policy_prescription_and_evaluation	Political
+408	441	Economic
+445	1026	Quality_of_life	Public_opinion
+1284	2100	Legality_Constitutionality_and_jurisprudence	Morality	Capacity_and_resources
+2127	2473	Economic
+3037	3315	Health_and_safety

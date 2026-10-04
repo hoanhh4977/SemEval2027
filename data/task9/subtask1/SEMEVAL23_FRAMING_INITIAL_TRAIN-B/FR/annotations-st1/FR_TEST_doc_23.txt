@@ -1,0 +1,6 @@
+0	204	Policy_prescription_and_evaluation
+206	751	Legality_Constitutionality_and_jurisprudence
+753	1221	Legality_Constitutionality_and_jurisprudence
+1223	1700	Legality_Constitutionality_and_jurisprudence
+1702	2423	Political
+2425	3345	Legality_Constitutionality_and_jurisprudence	Cultural_identity

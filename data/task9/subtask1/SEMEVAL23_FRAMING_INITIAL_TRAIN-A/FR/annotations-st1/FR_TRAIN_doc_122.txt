@@ -1,0 +1,3 @@
+0	68	External_regulation_and_reputation	Political
+70	436	Political
+1387	1571	Economic

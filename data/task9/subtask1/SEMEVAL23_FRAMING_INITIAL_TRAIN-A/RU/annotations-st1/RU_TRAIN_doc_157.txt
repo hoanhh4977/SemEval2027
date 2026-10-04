@@ -1,0 +1,5 @@
+70	314	Legality_Constitutionality_and_jurisprudence
+318	493	Capacity_and_resources
+497	703	Political
+707	900	External_regulation_and_reputation
+904	971	Capacity_and_resources

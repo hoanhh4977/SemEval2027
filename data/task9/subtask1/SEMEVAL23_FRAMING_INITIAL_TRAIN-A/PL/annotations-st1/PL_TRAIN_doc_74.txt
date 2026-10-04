@@ -1,0 +1,6 @@
+27	320	Security_and_defense	Political
+324	828	Security_and_defense
+832	1615	Crime_and_punishment
+1619	2118	Policy_prescription_and_evaluation	Health_and_safety
+2980	3956	Crime_and_punishment
+4382	4987	Policy_prescription_and_evaluation

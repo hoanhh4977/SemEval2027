@@ -1,0 +1,3 @@
+53	402	Economic	Capacity_and_resources	Quality_of_life	Public_opinion
+404	795	Health_and_safety	Political
+1435	1840	Security_and_defense

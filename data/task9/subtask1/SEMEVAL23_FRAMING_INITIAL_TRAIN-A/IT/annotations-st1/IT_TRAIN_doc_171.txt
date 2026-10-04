@@ -1,0 +1,5 @@
+87	372	Public_opinion
+920	1235	Morality	Fairness_and_equality
+1883	2174	Cultural_identity
+2418	2830	Security_and_defense
+2832	3128	Legality_Constitutionality_and_jurisprudence

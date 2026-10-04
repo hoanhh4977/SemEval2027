@@ -1,0 +1,25 @@
+As AI Rapidly Becomes A Commodity, Time To Consider The Next Step
+
+Democratized artificial intelligence — now seen with OpenAI GPT, Microsoft Big AI, and Google Bard/Gemini — can be a beautiful thing. At the same time, since everyone has access to democratized AI, it means there’s little to no competitive differentiation. Business leaders and entrepreneurs need to think beyond the efficiency and cost-savings promised with AI.
+
+Right before generative AI went public in late 2021, a paper foreshadowed the coming commodization of AI, which is following the path as previous generations of technology. The researchers, affiliated with the Abu Dhabi School of Management, noted how Nicholas G. Carr documented how “IT's potential and ubiquity have increased, but IT's strategic importance has declined with time. AI is poised to meet the same fate as IT. In fact, the commoditization of AI has already begun.”
+
+Achieving competitive differentiation with AI — and staying ahead of commoditization — requires accompanying business transformation, the researchers state. “They have a very strong top-down leadership model They set up clear AI goals, then engage their employees by energizing them to drive through the AI journey.”
+
+The big-picture thinking is “viewing AI not just as a tool for efficiency, but as a catalyst for strategic transformation,” says Thomas Smale, CEO of FE International. “It opens doors to new markets and innovative business models.”
+
+Investments topping $100 billion worldwide in 2023, along with 24% of all corporate VC investments directed into it, “clearly shows that AI is driving the creation of new businesses," says Tommi Vilkano, director of RELEX Labs. "This surge in new business formation partly comes from developing entirely new products and experiences, as seen with companies like Runway that are reshaping the worlds of art, entertainment, and human creativity."
+
+AI is “dramatically reshaping the business formation landscape, transcending traditional analysis methods,” Smale agrees. "It empowers startups with unprecedented insights into market dynamics and consumer behavior, effectively transforming them from nascent ventures to market contenders rapidly."
+
+An important question every business leader or entrepreneur needs to ask is “how can we integrate AI into the core operations of our company, enabling everybody to achieve more with it?” says Vilkano. Second is “how can we make AI a core part of the products and services offered to customers?”
+
+The answers to these questions are not AI itself, Vilkano emphasizes. “The AI tech stack is rapidly becoming a commodity. Intelligence is turning into something like electricity—easily accessible, with the option to switch to a better or cheaper provider effortlessly. Instead, the future source of competitive advantage for most companies lies in the proprietary knowledge that fuels their AI systems.”
+
+Business leaders and entrepreneurs “should recognize AI's vital role in shaping business ideas, with investors favoring AI-integrated ventures for their innovation and scalability,” says Amrit Jassal, chief technology officer and co-founder of Egnyte. “AI's impact spans from development stages like software design to deployment, boosting efficiency and product adoption.”
+
+Consider the risk of relying on vanilla AI-inspired solutions that are used by many other businesses across the board. “Over-reliance on AI can result in a simplistic, one-size-fits-all approach, potentially misapplying AI to unsuitable problems and leading to poor outcomes,” says Jassal. “Successful innovation with AI requires a comprehensive strategy that marries a profound grasp of the specific problem with a thoughtful and balanced technological application.”
+
+The challenge to achieving competitive advantage, then, “is in figuring out how to effectively capture, document, and organize all your domain knowledge in the best way for your proprietary AI system,” Vilkano says. “It involves identifying, capturing, organizing, storing, and providing access to all the explicit and tacit knowledge available for your organization.”
+
+The other critical component of competitive advantage in a commoditized AI world is people in the equation — using AI to build the business. “The AI opportunity for business leaders is to engage their people in experimenting, innovating and managing AI systems,” says Rebecca Finlay, CEO of Partnership on AI. “At the end of the day, AI is only as good as the people who manage it.”

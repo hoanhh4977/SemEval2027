@@ -1,0 +1,5 @@
+128	334	External_regulation_and_reputation
+338	914	Economic
+918	1402	Morality	Cultural_identity
+2603	3023	Security_and_defense
+3027	3238	Cultural_identity

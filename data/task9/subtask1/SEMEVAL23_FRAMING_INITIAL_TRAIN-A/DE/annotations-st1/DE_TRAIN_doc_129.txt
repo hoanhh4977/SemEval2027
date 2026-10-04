@@ -1,0 +1,4 @@
+325	1094	Health_and_safety	Political
+1098	1687	Health_and_safety
+1691	2680	Health_and_safety
+3863	4330	Political

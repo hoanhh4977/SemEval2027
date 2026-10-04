@@ -1,0 +1,6 @@
+0	42	Political
+44	513	Political
+515	1032	Political
+1034	1450	Political
+1452	2068	Political
+2070	2797	Political

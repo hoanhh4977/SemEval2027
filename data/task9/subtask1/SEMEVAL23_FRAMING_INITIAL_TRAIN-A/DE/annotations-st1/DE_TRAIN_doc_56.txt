@@ -1,0 +1,4 @@
+0	47	Health_and_safety
+51	178	Health_and_safety
+3943	4375	Health_and_safety
+4636	4975	Cultural_identity

@@ -1,0 +1,18 @@
+0	106	Capacity_and_resources
+624	770	Political
+772	1061	Capacity_and_resources
+1063	1278	Capacity_and_resources
+1424	1736	Quality_of_life
+1738	2211	Policy_prescription_and_evaluation	Health_and_safety
+2213	2445	Capacity_and_resources
+2633	2933	Economic
+2935	3137	Capacity_and_resources
+3328	3520	Economic
+3522	3806	Economic
+3808	3965	Economic
+3967	4134	Economic
+4136	4454	Economic
+4628	5263	Political	Public_opinion
+5322	5431	Capacity_and_resources
+5756	6171	Economic
+8334	8534	Capacity_and_resources

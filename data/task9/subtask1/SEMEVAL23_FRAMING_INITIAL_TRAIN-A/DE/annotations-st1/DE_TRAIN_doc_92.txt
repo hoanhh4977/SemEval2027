@@ -1,0 +1,4 @@
+0	244	Health_and_safety
+752	948	Health_and_safety
+1499	1745	Health_and_safety
+3540	3848	Public_opinion

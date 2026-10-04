@@ -1,0 +1,7 @@
+0	123	Political
+235	749	Political
+779	2625	Morality
+3367	4945	Cultural_identity	External_regulation_and_reputation
+4949	5177	Security_and_defense
+5181	6095	Economic
+6099	6708	Economic	External_regulation_and_reputation	Security_and_defense

@@ -1,0 +1,4 @@
+31	363	External_regulation_and_reputation
+1833	2683	Capacity_and_resources	Security_and_defense
+2718	3897	Political
+5369	6077	Political

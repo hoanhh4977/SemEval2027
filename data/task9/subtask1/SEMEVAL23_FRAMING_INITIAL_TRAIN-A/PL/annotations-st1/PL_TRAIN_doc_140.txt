@@ -1,0 +1,6 @@
+60	321	Capacity_and_resources
+325	530	External_regulation_and_reputation
+534	721	Economic
+725	1075	Morality
+1079	1271	Public_opinion
+1582	1801	External_regulation_and_reputation

@@ -1,0 +1,6 @@
+0	107	Political
+111	881	External_regulation_and_reputation	Political
+885	1737	Political
+1741	2630	Security_and_defense	Fairness_and_equality
+2634	3509	Public_opinion
+3513	4340	Quality_of_life

@@ -1,0 +1,5 @@
+0	51	Quality_of_life
+53	389	Economic	Political
+772	2462	Policy_prescription_and_evaluation	Economic	Quality_of_life
+2520	3380	Economic	Fairness_and_equality
+5095	6208	Health_and_safety	Political	Public_opinion

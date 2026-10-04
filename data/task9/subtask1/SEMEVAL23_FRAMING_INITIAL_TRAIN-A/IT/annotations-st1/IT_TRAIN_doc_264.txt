@@ -1,0 +1,3 @@
+0	150	Economic
+154	1156	Security_and_defense	Public_opinion
+1160	1613	Economic	Political

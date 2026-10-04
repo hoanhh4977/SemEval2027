@@ -1,0 +1,6 @@
+1153	1753	Economic
+2783	3121	Economic	Political
+3125	3384	Political
+4324	4873	Economic
+6601	6939	Political	Security_and_defense
+7396	7677	Security_and_defense

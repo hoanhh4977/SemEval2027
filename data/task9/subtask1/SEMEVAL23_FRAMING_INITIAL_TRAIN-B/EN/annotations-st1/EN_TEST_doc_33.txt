@@ -1,0 +1,4 @@
+75	304	Quality_of_life	Political
+308	639	Policy_prescription_and_evaluation	Economic
+2018	2282	Economic
+2526	2778	Policy_prescription_and_evaluation

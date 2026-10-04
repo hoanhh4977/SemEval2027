@@ -1,0 +1,13 @@
+0	67	Security_and_defense
+71	807	Economic	Political
+811	1303	External_regulation_and_reputation
+6894	7635	Capacity_and_resources
+8475	9326	Economic	External_regulation_and_reputation
+10253	11104	External_regulation_and_reputation	Political
+13459	14062	Health_and_safety
+16197	16658	Crime_and_punishment
+19996	20753	Capacity_and_resources
+23662	24006	Economic
+24010	24602	Political
+34057	34461	Morality
+35027	35335	Political

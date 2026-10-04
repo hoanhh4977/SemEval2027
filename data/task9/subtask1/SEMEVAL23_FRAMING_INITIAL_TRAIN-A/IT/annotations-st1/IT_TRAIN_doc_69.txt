@@ -1,0 +1,8 @@
+0	72	Political
+251	497	Capacity_and_resources	Security_and_defense
+499	814	Policy_prescription_and_evaluation
+969	1213	Economic	Health_and_safety
+2433	2684	Economic
+2686	2876	Economic
+4827	5141	Policy_prescription_and_evaluation
+6514	6697	Political

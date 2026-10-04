@@ -1,0 +1,3 @@
+40	304	External_regulation_and_reputation	Security_and_defense
+1763	4184	Quality_of_life	Capacity_and_resources
+4231	7861	Policy_prescription_and_evaluation	Economic	Capacity_and_resources	Public_opinion

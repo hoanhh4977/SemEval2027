@@ -1,0 +1,10 @@
+0	54	Security_and_defense
+233	496	Crime_and_punishment
+658	1100	Security_and_defense
+1104	1431	Capacity_and_resources
+2300	2501	Quality_of_life
+2912	3270	Capacity_and_resources
+4190	4431	External_regulation_and_reputation
+8248	8403	Economic
+8407	8647	External_regulation_and_reputation
+9473	9643	Political

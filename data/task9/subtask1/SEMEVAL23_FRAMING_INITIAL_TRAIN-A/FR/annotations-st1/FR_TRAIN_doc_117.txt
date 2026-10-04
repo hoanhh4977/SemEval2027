@@ -1,0 +1,3 @@
+4962	5563	Economic	Capacity_and_resources
+5567	6281	Capacity_and_resources
+7920	8276	Health_and_safety

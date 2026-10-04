@@ -1,0 +1,7 @@
+0	53	External_regulation_and_reputation
+55	680	External_regulation_and_reputation
+682	1056	Capacity_and_resources
+4385	4726	Economic
+10667	11289	Economic	Capacity_and_resources
+11463	11574	External_regulation_and_reputation
+11576	12524	Security_and_defense

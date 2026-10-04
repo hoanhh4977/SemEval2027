@@ -1,0 +1,13 @@
+0	65	Political
+642	826	Economic	Health_and_safety
+1471	1619	Political
+1621	1788	Quality_of_life
+2575	2714	Economic
+2716	2922	Policy_prescription_and_evaluation
+2924	3106	Legality_Constitutionality_and_jurisprudence
+3371	3531	Security_and_defense
+3533	3703	External_regulation_and_reputation
+4319	4465	Capacity_and_resources
+13507	13650	Quality_of_life
+16657	16696	Security_and_defense
+17553	17722	Cultural_identity

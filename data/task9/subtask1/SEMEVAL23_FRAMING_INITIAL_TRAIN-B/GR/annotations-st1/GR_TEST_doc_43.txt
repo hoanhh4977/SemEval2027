@@ -1,0 +1,6 @@
+563	978	Crime_and_punishment
+980	1301	Crime_and_punishment
+1303	1713	Legality_Constitutionality_and_jurisprudence
+1715	2167	Crime_and_punishment
+2169	2503	Political
+2505	2960	Political

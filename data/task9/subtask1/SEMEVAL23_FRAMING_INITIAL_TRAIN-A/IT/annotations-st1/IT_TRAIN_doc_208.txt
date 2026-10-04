@@ -1,0 +1,3 @@
+162	1412	External_regulation_and_reputation	Security_and_defense
+1416	2507	Political
+3463	4304	Security_and_defense

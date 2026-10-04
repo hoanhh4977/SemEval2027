@@ -1,0 +1,6 @@
+443	957	Morality	Cultural_identity
+959	1793	Morality	Quality_of_life	Fairness_and_equality
+3800	4245	Economic	Cultural_identity	External_regulation_and_reputation	Political
+4688	5848	Policy_prescription_and_evaluation	Morality	Cultural_identity
+7947	8402	Political
+8404	9558	External_regulation_and_reputation

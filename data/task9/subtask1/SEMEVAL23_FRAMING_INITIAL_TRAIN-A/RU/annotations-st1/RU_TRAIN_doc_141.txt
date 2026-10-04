@@ -1,0 +1,4 @@
+0	40	Security_and_defense
+403	945	Legality_Constitutionality_and_jurisprudence
+1427	2168	Legality_Constitutionality_and_jurisprudence	Political
+5906	6379	Quality_of_life

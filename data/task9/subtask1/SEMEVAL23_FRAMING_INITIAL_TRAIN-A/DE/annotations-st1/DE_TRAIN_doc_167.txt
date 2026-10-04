@@ -1,0 +1,6 @@
+0	64	Security_and_defense
+68	366	Security_and_defense
+370	707	External_regulation_and_reputation
+711	1169	Economic	Security_and_defense
+3795	4782	Capacity_and_resources
+5103	5892	External_regulation_and_reputation

@@ -1,0 +1,2 @@
+0	61	Political
+4381	5375	Cultural_identity

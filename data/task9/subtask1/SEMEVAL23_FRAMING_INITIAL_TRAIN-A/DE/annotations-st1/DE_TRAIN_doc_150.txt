@@ -1,0 +1,6 @@
+102	335	Economic	Political
+339	655	Capacity_and_resources	Crime_and_punishment
+659	988	Economic	Security_and_defense
+992	1325	Capacity_and_resources
+1329	1978	Policy_prescription_and_evaluation	Economic	Health_and_safety
+1982	2159	Economic

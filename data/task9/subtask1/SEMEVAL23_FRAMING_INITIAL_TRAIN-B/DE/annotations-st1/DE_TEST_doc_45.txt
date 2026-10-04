@@ -1,0 +1,4 @@
+21	389	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	External_regulation_and_reputation
+391	716	Capacity_and_resources
+3294	3814	Health_and_safety	Capacity_and_resources
+3816	4415	Economic

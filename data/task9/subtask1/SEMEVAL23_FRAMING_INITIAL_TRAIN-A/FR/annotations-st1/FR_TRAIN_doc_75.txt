@@ -1,0 +1,3 @@
+2094	2881	External_regulation_and_reputation	Security_and_defense
+3366	3991	Health_and_safety
+5288	6088	Political

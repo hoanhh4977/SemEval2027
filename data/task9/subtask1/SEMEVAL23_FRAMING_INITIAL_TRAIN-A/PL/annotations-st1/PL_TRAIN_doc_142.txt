@@ -1,0 +1,7 @@
+32	406	Public_opinion
+410	695	Cultural_identity
+976	1293	Health_and_safety
+1297	1679	Policy_prescription_and_evaluation	Economic
+1683	2282	Economic
+2286	2565	Cultural_identity
+2569	2968	Political

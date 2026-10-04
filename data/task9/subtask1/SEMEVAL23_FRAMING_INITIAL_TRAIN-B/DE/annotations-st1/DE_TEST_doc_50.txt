@@ -1,0 +1,5 @@
+0	116	Capacity_and_resources
+118	472	Legality_Constitutionality_and_jurisprudence
+474	843	Economic	Political
+845	1337	External_regulation_and_reputation	Security_and_defense
+1339	1558	Security_and_defense

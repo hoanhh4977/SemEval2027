@@ -1,0 +1,4 @@
+104	306	Quality_of_life
+308	543	Crime_and_punishment
+545	658	Fairness_and_equality
+865	1049	Political

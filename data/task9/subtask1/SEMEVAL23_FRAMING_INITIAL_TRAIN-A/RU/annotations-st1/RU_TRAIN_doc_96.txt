@@ -1,0 +1,5 @@
+46	114	Economic
+251	694	Quality_of_life
+1336	1487	Economic
+1491	1981	Quality_of_life	Fairness_and_equality
+2509	2951	Economic

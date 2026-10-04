@@ -1,0 +1,10 @@
+0	83	Health_and_safety
+85	181	Health_and_safety
+530	699	Public_opinion
+1472	1756	Fairness_and_equality
+6401	6753	Policy_prescription_and_evaluation
+7312	7435	Health_and_safety
+7437	7573	Health_and_safety
+8836	9074	Political	Public_opinion
+10353	10886	Health_and_safety
+13698	13856	Policy_prescription_and_evaluation

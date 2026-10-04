@@ -1,0 +1,2 @@
+0	32	Cultural_identity	Capacity_and_resources
+346	874	Economic

@@ -1,0 +1,3 @@
+76	317	Policy_prescription_and_evaluation
+841	1468	Economic	Security_and_defense
+2083	2483	Health_and_safety	Quality_of_life

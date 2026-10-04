@@ -1,0 +1,4 @@
+0	108	Security_and_defense
+112	279	Security_and_defense
+774	1613	Legality_Constitutionality_and_jurisprudence
+2406	2823	Morality

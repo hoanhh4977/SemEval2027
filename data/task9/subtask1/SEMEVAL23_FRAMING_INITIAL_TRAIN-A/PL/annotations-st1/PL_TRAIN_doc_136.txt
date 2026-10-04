@@ -1,0 +1,5 @@
+0	98	Security_and_defense
+405	929	Political
+4159	4444	Crime_and_punishment
+4448	4610	Quality_of_life
+5826	6282	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment

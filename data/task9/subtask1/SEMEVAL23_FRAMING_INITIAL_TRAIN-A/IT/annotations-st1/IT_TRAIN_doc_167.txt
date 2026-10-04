@@ -1,0 +1,4 @@
+0	94	Health_and_safety
+98	492	Morality
+496	1130	Health_and_safety
+2427	2787	Health_and_safety

@@ -1,0 +1,4 @@
+0	31	Health_and_safety
+218	379	Public_opinion
+381	705	Political
+1676	2167	Health_and_safety

@@ -1,0 +1,6 @@
+0	48	Security_and_defense
+368	672	Security_and_defense
+878	1200	Political
+1202	1413	Security_and_defense
+2735	2946	Economic
+3088	3439	External_regulation_and_reputation

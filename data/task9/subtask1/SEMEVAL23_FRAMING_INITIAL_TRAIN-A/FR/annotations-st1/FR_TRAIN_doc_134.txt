@@ -1,0 +1,2 @@
+0	30	Capacity_and_resources	Quality_of_life	Fairness_and_equality
+4236	4410	Capacity_and_resources

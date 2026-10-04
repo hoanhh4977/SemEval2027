@@ -1,0 +1,5 @@
+57	709	Policy_prescription_and_evaluation
+1440	2087	Economic	Capacity_and_resources	Political
+2089	2700	Economic	Capacity_and_resources
+2702	3314	Crime_and_punishment
+3316	3990	Cultural_identity	External_regulation_and_reputation

@@ -1,0 +1,4 @@
+0	64	Cultural_identity
+66	535	Crime_and_punishment
+537	965	Cultural_identity	Security_and_defense
+967	1156	External_regulation_and_reputation	Political

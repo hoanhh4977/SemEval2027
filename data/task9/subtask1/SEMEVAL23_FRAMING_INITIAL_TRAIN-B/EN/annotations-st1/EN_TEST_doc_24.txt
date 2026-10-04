@@ -1,0 +1,5 @@
+0	55	Security_and_defense
+57	651	Crime_and_punishment
+2534	3306	Capacity_and_resources
+3308	3963	Cultural_identity
+4570	5214	Economic

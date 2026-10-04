@@ -1,0 +1,5 @@
+0	48	Political
+52	729	Political	Public_opinion
+733	949	Policy_prescription_and_evaluation	Capacity_and_resources
+953	1258	Health_and_safety
+1262	1889	Cultural_identity	Political

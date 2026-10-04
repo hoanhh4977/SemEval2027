@@ -1,0 +1,7 @@
+0	75	Capacity_and_resources
+77	359	Quality_of_life
+361	888	Public_opinion
+890	1202	Policy_prescription_and_evaluation
+1204	1356	Policy_prescription_and_evaluation
+2037	2699	Capacity_and_resources
+4770	5237	Political

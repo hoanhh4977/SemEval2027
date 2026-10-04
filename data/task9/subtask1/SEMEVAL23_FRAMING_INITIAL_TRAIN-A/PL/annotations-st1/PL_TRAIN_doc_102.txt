@@ -1,0 +1,6 @@
+67	350	Policy_prescription_and_evaluation	Health_and_safety	Fairness_and_equality
+595	1272	Political
+1276	1789	Political
+1793	2409	Cultural_identity
+2452	2748	Health_and_safety
+3159	3749	Morality	Quality_of_life

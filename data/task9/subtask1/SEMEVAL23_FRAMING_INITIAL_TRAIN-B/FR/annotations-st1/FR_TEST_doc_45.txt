@@ -1,0 +1,3 @@
+0	52	Cultural_identity
+4471	4779	Morality
+6192	6932	Public_opinion

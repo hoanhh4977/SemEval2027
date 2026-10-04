@@ -1,0 +1,3 @@
+72	556	Capacity_and_resources	Political
+582	1617	Policy_prescription_and_evaluation	Economic	Quality_of_life
+2448	3121	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Health_and_safety	Crime_and_punishment

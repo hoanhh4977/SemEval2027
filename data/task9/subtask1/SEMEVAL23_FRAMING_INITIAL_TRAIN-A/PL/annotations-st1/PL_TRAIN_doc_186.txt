@@ -1,0 +1,5 @@
+0	54	Policy_prescription_and_evaluation	Economic
+641	1160	Economic	Quality_of_life
+3050	3085	Quality_of_life
+3742	4041	Economic
+4074	4425	Quality_of_life

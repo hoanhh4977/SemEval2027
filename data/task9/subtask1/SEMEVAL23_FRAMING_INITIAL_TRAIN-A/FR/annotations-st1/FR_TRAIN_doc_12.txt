@@ -1,0 +1,2 @@
+579	771	Political
+3165	3320	Public_opinion	Crime_and_punishment

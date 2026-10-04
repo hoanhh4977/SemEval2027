@@ -1,0 +1,7 @@
+56	570	Crime_and_punishment
+574	2007	External_regulation_and_reputation	Crime_and_punishment
+2038	3086	Morality	External_regulation_and_reputation
+3147	4547	Security_and_defense	Political
+5806	6339	Security_and_defense
+6376	7747	Morality
+7763	8144	Security_and_defense

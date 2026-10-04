@@ -1,0 +1,4 @@
+50	224	External_regulation_and_reputation	Security_and_defense
+228	508	Political
+1556	1853	Morality
+2324	2811	Security_and_defense

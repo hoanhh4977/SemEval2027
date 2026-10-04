@@ -1,0 +1,5 @@
+67	374	Economic	Crime_and_punishment
+815	1581	Capacity_and_resources
+1947	2685	Quality_of_life
+2687	3432	External_regulation_and_reputation
+5328	6105	Policy_prescription_and_evaluation	Morality

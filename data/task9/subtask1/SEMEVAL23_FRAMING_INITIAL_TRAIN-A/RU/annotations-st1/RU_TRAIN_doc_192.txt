@@ -1,0 +1,5 @@
+82	353	Political
+945	1916	Legality_Constitutionality_and_jurisprudence
+9076	9839	Crime_and_punishment
+9841	10474	Crime_and_punishment
+11541	12798	Crime_and_punishment

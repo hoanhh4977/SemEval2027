@@ -1,0 +1,3 @@
+157	861	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+865	1384	Political
+1388	3251	Morality	Crime_and_punishment

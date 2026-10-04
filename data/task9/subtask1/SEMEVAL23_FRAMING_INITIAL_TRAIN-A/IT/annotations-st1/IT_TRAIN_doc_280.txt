@@ -1,0 +1,5 @@
+69	769	External_regulation_and_reputation	Capacity_and_resources
+1269	2154	Economic
+2156	2560	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+2562	3562	Security_and_defense
+3564	4071	Health_and_safety	Crime_and_punishment

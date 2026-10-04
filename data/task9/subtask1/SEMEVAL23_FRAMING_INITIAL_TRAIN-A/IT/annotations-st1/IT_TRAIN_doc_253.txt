@@ -1,0 +1,4 @@
+90	807	Economic
+809	1398	Security_and_defense
+1400	2106	Economic	Capacity_and_resources
+2108	3106	Economic	Political

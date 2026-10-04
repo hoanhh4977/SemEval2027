@@ -1,0 +1,3 @@
+105	475	Political
+945	1614	Policy_prescription_and_evaluation
+1616	2450	Security_and_defense	Crime_and_punishment

@@ -1,0 +1,13 @@
+0	25	Cultural_identity
+64	183	Health_and_safety
+185	418	Legality_Constitutionality_and_jurisprudence	Public_opinion
+686	1126	Quality_of_life
+1128	1478	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+1760	2141	Public_opinion
+2143	2349	Cultural_identity
+2502	2875	Political	Fairness_and_equality
+2877	3060	Policy_prescription_and_evaluation
+3062	3419	Fairness_and_equality
+7044	7339	Political
+7650	7928	Legality_Constitutionality_and_jurisprudence
+8152	8351	Fairness_and_equality

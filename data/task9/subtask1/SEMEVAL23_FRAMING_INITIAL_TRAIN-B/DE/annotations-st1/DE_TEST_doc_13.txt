@@ -1,0 +1,4 @@
+0	86	Health_and_safety
+88	312	Security_and_defense
+314	591	Health_and_safety
+593	885	Capacity_and_resources

@@ -1,0 +1,11 @@
+29	591	Economic	Political	Crime_and_punishment
+981	1319	External_regulation_and_reputation	Health_and_safety
+1351	1839	Legality_Constitutionality_and_jurisprudence	Public_opinion
+1843	2126	Health_and_safety
+2130	2546	Morality
+3603	4244	Legality_Constitutionality_and_jurisprudence
+4248	4843	Morality
+5307	6065	Legality_Constitutionality_and_jurisprudence
+7651	8037	Capacity_and_resources
+8506	9081	Quality_of_life
+9760	10237	Legality_Constitutionality_and_jurisprudence

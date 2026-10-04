@@ -1,0 +1,2 @@
+32	650	Quality_of_life	Health_and_safety
+1155	1980	Health_and_safety

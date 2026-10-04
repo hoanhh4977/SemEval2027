@@ -1,0 +1,3 @@
+63	201	Health_and_safety	Political
+436	569	Political
+1791	2196	Health_and_safety

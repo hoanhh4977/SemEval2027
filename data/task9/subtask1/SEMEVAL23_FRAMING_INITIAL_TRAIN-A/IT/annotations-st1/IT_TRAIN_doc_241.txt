@@ -1,0 +1,3 @@
+110	569	Legality_Constitutionality_and_jurisprudence	Political	Crime_and_punishment
+3033	3535	Morality
+3537	4170	Economic

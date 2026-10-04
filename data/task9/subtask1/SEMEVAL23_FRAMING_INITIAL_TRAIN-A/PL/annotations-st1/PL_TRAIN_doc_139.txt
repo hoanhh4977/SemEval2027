@@ -1,0 +1,6 @@
+28	381	Quality_of_life
+383	909	Economic
+954	1290	Economic	Capacity_and_resources
+1895	2496	Capacity_and_resources
+3325	4030	Economic
+4220	4567	Policy_prescription_and_evaluation

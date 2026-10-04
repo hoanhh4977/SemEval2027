@@ -1,0 +1,7 @@
+0	176	Security_and_defense
+494	860	Security_and_defense
+1228	1361	Political
+1365	2062	External_regulation_and_reputation
+2066	2540	Security_and_defense
+3072	3432	External_regulation_and_reputation
+3909	4273	Policy_prescription_and_evaluation

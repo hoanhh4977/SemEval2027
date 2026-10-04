@@ -1,0 +1,9 @@
+0	22	Security_and_defense
+220	578	Policy_prescription_and_evaluation	External_regulation_and_reputation
+582	1027	Security_and_defense
+1301	1947	Crime_and_punishment
+1951	2395	Political
+2499	3027	Economic
+3031	3412	Policy_prescription_and_evaluation
+3416	3878	Policy_prescription_and_evaluation
+3882	4210	Policy_prescription_and_evaluation	Health_and_safety

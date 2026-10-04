@@ -1,0 +1,5 @@
+54	160	Economic
+162	716	Quality_of_life	Security_and_defense
+959	1265	Capacity_and_resources
+1267	1697	Fairness_and_equality
+1699	2181	Policy_prescription_and_evaluation

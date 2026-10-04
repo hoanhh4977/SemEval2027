@@ -1,0 +1,5 @@
+513	727	Policy_prescription_and_evaluation
+729	979	Policy_prescription_and_evaluation	Morality
+1397	1582	Political
+1584	1851	Quality_of_life
+1999	2139	Capacity_and_resources

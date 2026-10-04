@@ -1,0 +1,3 @@
+32	449	Political	Security_and_defense
+1484	1635	Security_and_defense
+1637	1887	Security_and_defense

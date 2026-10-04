@@ -1,0 +1,5 @@
+0	64	External_regulation_and_reputation
+68	353	Political
+357	695	Economic	Crime_and_punishment
+699	1038	Capacity_and_resources
+1399	1834	Legality_Constitutionality_and_jurisprudence	Economic	Security_and_defense	Crime_and_punishment

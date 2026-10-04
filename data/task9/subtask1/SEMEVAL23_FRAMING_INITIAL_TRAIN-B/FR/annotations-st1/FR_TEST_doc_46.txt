@@ -1,0 +1,5 @@
+89	460	Health_and_safety	Fairness_and_equality
+462	1535	Legality_Constitutionality_and_jurisprudence	Cultural_identity
+1537	1751	Cultural_identity
+1754	2494	Cultural_identity
+3015	3497	Morality	Cultural_identity

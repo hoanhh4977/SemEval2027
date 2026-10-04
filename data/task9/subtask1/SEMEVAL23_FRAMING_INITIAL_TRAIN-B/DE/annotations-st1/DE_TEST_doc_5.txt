@@ -1,0 +1,4 @@
+64	394	Legality_Constitutionality_and_jurisprudence	Morality
+682	744	Legality_Constitutionality_and_jurisprudence
+746	1117	Health_and_safety
+1119	1600	Capacity_and_resources

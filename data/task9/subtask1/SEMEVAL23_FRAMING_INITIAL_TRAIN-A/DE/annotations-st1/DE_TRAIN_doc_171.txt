@@ -1,0 +1,10 @@
+0	70	Health_and_safety
+128	284	Fairness_and_equality
+286	906	Capacity_and_resources
+3532	4079	Economic
+4081	4675	Quality_of_life
+4677	5311	Policy_prescription_and_evaluation	Political
+11003	11827	Capacity_and_resources
+14407	15492	Health_and_safety
+15494	15693	Security_and_defense
+16384	17173	Quality_of_life

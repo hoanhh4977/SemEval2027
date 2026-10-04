@@ -1,0 +1,5 @@
+178	706	Cultural_identity	Security_and_defense
+708	1050	Crime_and_punishment
+1052	1263	Security_and_defense
+4602	5284	Economic	Capacity_and_resources
+5286	5672	External_regulation_and_reputation

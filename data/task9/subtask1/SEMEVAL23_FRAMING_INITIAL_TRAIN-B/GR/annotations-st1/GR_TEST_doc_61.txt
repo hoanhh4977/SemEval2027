@@ -1,0 +1,9 @@
+59	101	External_regulation_and_reputation
+1257	1283	Political
+1285	1357	Political
+1359	1423	Political
+1425	1494	Political
+2795	2866	Policy_prescription_and_evaluation
+2918	3063	Security_and_defense	Crime_and_punishment
+3065	3092	Crime_and_punishment
+3094	3163	Crime_and_punishment

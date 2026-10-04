@@ -1,0 +1,4 @@
+142	416	Economic	Political
+753	1256	Capacity_and_resources
+1589	2002	Health_and_safety
+2006	2321	Cultural_identity

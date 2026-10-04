@@ -1,0 +1,2 @@
+64	620	Policy_prescription_and_evaluation	External_regulation_and_reputation	Political	Security_and_defense
+622	1568	Economic	Capacity_and_resources

@@ -1,0 +1,4 @@
+0	70	Security_and_defense
+74	319	External_regulation_and_reputation
+5106	5337	Fairness_and_equality
+5601	5723	Crime_and_punishment

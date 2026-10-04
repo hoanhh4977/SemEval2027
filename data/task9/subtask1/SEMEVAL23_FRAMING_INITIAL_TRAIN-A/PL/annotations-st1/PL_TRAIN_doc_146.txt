@@ -1,0 +1,13 @@
+157	537	Quality_of_life	Public_opinion
+539	1107	Public_opinion
+1109	2094	Security_and_defense
+2097	2528	Quality_of_life
+3058	3468	Public_opinion
+3471	5255	Economic	Cultural_identity
+5258	5974	Political
+5976	6752	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+6754	7369	Security_and_defense
+7371	7946	Policy_prescription_and_evaluation	Economic	Crime_and_punishment
+8486	9524	Cultural_identity
+10143	10555	Cultural_identity
+10557	10885	Morality

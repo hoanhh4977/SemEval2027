@@ -1,0 +1,5 @@
+77	463	Political
+465	788	Security_and_defense	Crime_and_punishment
+790	1020	Economic	Political
+1022	1264	Economic
+1266	2946	Crime_and_punishment

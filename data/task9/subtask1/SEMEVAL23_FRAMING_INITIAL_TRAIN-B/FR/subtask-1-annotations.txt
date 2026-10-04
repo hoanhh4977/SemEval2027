@@ -1,0 +1,160 @@
+FR_TEST_doc_1.txt	0	76	Public_opinion
+FR_TEST_doc_1.txt	1322	1442	Health_and_safety
+FR_TEST_doc_2.txt	610	1641	Quality_of_life	Crime_and_punishment
+FR_TEST_doc_2.txt	2260	3062	Political
+FR_TEST_doc_3.txt	0	56	Policy_prescription_and_evaluation
+FR_TEST_doc_3.txt	58	170	Capacity_and_resources
+FR_TEST_doc_3.txt	172	550	Policy_prescription_and_evaluation
+FR_TEST_doc_3.txt	552	796	Policy_prescription_and_evaluation
+FR_TEST_doc_4.txt	0	31	Capacity_and_resources
+FR_TEST_doc_4.txt	62	407	Economic
+FR_TEST_doc_4.txt	1014	1376	Economic	Capacity_and_resources
+FR_TEST_doc_5.txt	0	61	Political
+FR_TEST_doc_5.txt	4381	5375	Cultural_identity
+FR_TEST_doc_6.txt	0	24	Capacity_and_resources
+FR_TEST_doc_6.txt	26	363	Policy_prescription_and_evaluation	Crime_and_punishment
+FR_TEST_doc_6.txt	1634	2390	Policy_prescription_and_evaluation
+FR_TEST_doc_6.txt	2392	2876	External_regulation_and_reputation
+FR_TEST_doc_6.txt	4553	4802	Crime_and_punishment
+FR_TEST_doc_7.txt	0	83	Security_and_defense
+FR_TEST_doc_7.txt	85	586	External_regulation_and_reputation
+FR_TEST_doc_8.txt	0	248	Quality_of_life
+FR_TEST_doc_8.txt	320	475	Security_and_defense
+FR_TEST_doc_8.txt	477	772	Crime_and_punishment
+FR_TEST_doc_9.txt	541	920	Public_opinion
+FR_TEST_doc_9.txt	922	1380	Policy_prescription_and_evaluation
+FR_TEST_doc_10.txt	0	60	Public_opinion
+FR_TEST_doc_10.txt	62	155	Cultural_identity
+FR_TEST_doc_10.txt	157	829	Cultural_identity
+FR_TEST_doc_10.txt	831	1635	Cultural_identity
+FR_TEST_doc_10.txt	1637	2250	Cultural_identity
+FR_TEST_doc_11.txt	0	55	Health_and_safety
+FR_TEST_doc_11.txt	1190	1590	Morality
+FR_TEST_doc_11.txt	1592	1678	Health_and_safety
+FR_TEST_doc_11.txt	2444	2848	Security_and_defense
+FR_TEST_doc_12.txt	0	121	Policy_prescription_and_evaluation
+FR_TEST_doc_12.txt	597	837	Security_and_defense
+FR_TEST_doc_12.txt	2929	3175	Public_opinion
+FR_TEST_doc_12.txt	3889	4103	Security_and_defense
+FR_TEST_doc_12.txt	4399	4740	Fairness_and_equality
+FR_TEST_doc_12.txt	5167	5518	Security_and_defense
+FR_TEST_doc_12.txt	6690	6865	Cultural_identity
+FR_TEST_doc_13.txt	0	56	Morality
+FR_TEST_doc_14.txt	1165	1579	Capacity_and_resources
+FR_TEST_doc_15.txt	65	291	Morality
+FR_TEST_doc_15.txt	293	1003	Quality_of_life
+FR_TEST_doc_16.txt	60	577	Security_and_defense
+FR_TEST_doc_16.txt	1871	2007	External_regulation_and_reputation
+FR_TEST_doc_17.txt	0	127	Policy_prescription_and_evaluation
+FR_TEST_doc_17.txt	139	1975	Policy_prescription_and_evaluation	Health_and_safety	Public_opinion
+FR_TEST_doc_18.txt	0	33	Cultural_identity
+FR_TEST_doc_18.txt	35	254	Cultural_identity
+FR_TEST_doc_18.txt	1281	1716	Policy_prescription_and_evaluation	Fairness_and_equality
+FR_TEST_doc_19.txt	100	220	Health_and_safety	Crime_and_punishment
+FR_TEST_doc_20.txt	0	65	Policy_prescription_and_evaluation
+FR_TEST_doc_20.txt	79	476	External_regulation_and_reputation
+FR_TEST_doc_20.txt	725	1375	Economic	Capacity_and_resources
+FR_TEST_doc_20.txt	2724	3799	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+FR_TEST_doc_20.txt	5190	6076	Political
+FR_TEST_doc_21.txt	0	186	Capacity_and_resources
+FR_TEST_doc_21.txt	1009	1356	Economic	External_regulation_and_reputation
+FR_TEST_doc_22.txt	0	72	Health_and_safety
+FR_TEST_doc_22.txt	335	739	Capacity_and_resources
+FR_TEST_doc_22.txt	2133	2551	Quality_of_life	Political
+FR_TEST_doc_23.txt	0	204	Policy_prescription_and_evaluation
+FR_TEST_doc_23.txt	206	751	Legality_Constitutionality_and_jurisprudence
+FR_TEST_doc_23.txt	753	1221	Legality_Constitutionality_and_jurisprudence
+FR_TEST_doc_23.txt	1223	1700	Legality_Constitutionality_and_jurisprudence
+FR_TEST_doc_23.txt	1702	2423	Political
+FR_TEST_doc_23.txt	2425	3345	Legality_Constitutionality_and_jurisprudence	Cultural_identity
+FR_TEST_doc_24.txt	105	475	Political
+FR_TEST_doc_24.txt	945	1614	Policy_prescription_and_evaluation
+FR_TEST_doc_24.txt	1616	2450	Security_and_defense	Crime_and_punishment
+FR_TEST_doc_25.txt	315	850	Economic	Cultural_identity
+FR_TEST_doc_26.txt	3213	3946	Cultural_identity
+FR_TEST_doc_27.txt	89	738	Policy_prescription_and_evaluation	Political
+FR_TEST_doc_27.txt	2288	3297	Quality_of_life	Health_and_safety
+FR_TEST_doc_28.txt	0	132	Health_and_safety
+FR_TEST_doc_28.txt	134	383	Health_and_safety
+FR_TEST_doc_28.txt	385	860	Health_and_safety
+FR_TEST_doc_28.txt	1336	1630	Capacity_and_resources
+FR_TEST_doc_28.txt	2061	2114	Quality_of_life
+FR_TEST_doc_28.txt	2116	2336	Quality_of_life
+FR_TEST_doc_28.txt	2338	2584	Quality_of_life
+FR_TEST_doc_28.txt	3075	3590	Policy_prescription_and_evaluation	Capacity_and_resources
+FR_TEST_doc_28.txt	3868	4175	Capacity_and_resources
+FR_TEST_doc_28.txt	4593	4907	Economic
+FR_TEST_doc_28.txt	5654	6114	Quality_of_life
+FR_TEST_doc_29.txt	66	808	Political
+FR_TEST_doc_29.txt	810	1478	Health_and_safety
+FR_TEST_doc_29.txt	2460	3225	Economic
+FR_TEST_doc_30.txt	125	508	Policy_prescription_and_evaluation
+FR_TEST_doc_30.txt	910	1507	Health_and_safety	Quality_of_life
+FR_TEST_doc_31.txt	88	833	Political
+FR_TEST_doc_31.txt	2578	3515	Public_opinion
+FR_TEST_doc_31.txt	4065	4365	External_regulation_and_reputation
+FR_TEST_doc_31.txt	4367	5424	Morality	Cultural_identity
+FR_TEST_doc_32.txt	693	1039	Health_and_safety
+FR_TEST_doc_32.txt	1041	1438	Economic
+FR_TEST_doc_33.txt	0	75	Capacity_and_resources
+FR_TEST_doc_33.txt	77	359	Quality_of_life
+FR_TEST_doc_33.txt	361	888	Public_opinion
+FR_TEST_doc_33.txt	890	1202	Policy_prescription_and_evaluation
+FR_TEST_doc_33.txt	1204	1356	Policy_prescription_and_evaluation
+FR_TEST_doc_33.txt	2037	2699	Capacity_and_resources
+FR_TEST_doc_33.txt	4770	5237	Political
+FR_TEST_doc_34.txt	0	97	Morality
+FR_TEST_doc_34.txt	99	793	Fairness_and_equality
+FR_TEST_doc_34.txt	920	1535	Legality_Constitutionality_and_jurisprudence
+FR_TEST_doc_35.txt	0	62	Capacity_and_resources
+FR_TEST_doc_35.txt	907	1036	Public_opinion
+FR_TEST_doc_36.txt	101	267	Morality
+FR_TEST_doc_36.txt	487	745	Security_and_defense
+FR_TEST_doc_37.txt	50	730	Cultural_identity	External_regulation_and_reputation
+FR_TEST_doc_38.txt	77	395	Quality_of_life
+FR_TEST_doc_39.txt	90	654	Economic	Capacity_and_resources
+FR_TEST_doc_39.txt	1281	1955	Security_and_defense
+FR_TEST_doc_40.txt	94	724	Cultural_identity
+FR_TEST_doc_40.txt	1274	1845	External_regulation_and_reputation
+FR_TEST_doc_40.txt	1847	2811	Fairness_and_equality
+FR_TEST_doc_40.txt	3791	4990	Political
+FR_TEST_doc_40.txt	6431	7065	Morality
+FR_TEST_doc_40.txt	7067	7378	Cultural_identity
+FR_TEST_doc_41.txt	451	530	Economic	External_regulation_and_reputation
+FR_TEST_doc_41.txt	1431	2231	Capacity_and_resources
+FR_TEST_doc_42.txt	0	85	Economic
+FR_TEST_doc_42.txt	443	1605	Health_and_safety	Quality_of_life
+FR_TEST_doc_42.txt	3518	4231	Public_opinion
+FR_TEST_doc_43.txt	0	83	Capacity_and_resources
+FR_TEST_doc_43.txt	304	802	External_regulation_and_reputation
+FR_TEST_doc_44.txt	0	35	Health_and_safety
+FR_TEST_doc_44.txt	37	146	Policy_prescription_and_evaluation
+FR_TEST_doc_44.txt	148	201	Capacity_and_resources
+FR_TEST_doc_44.txt	590	778	Health_and_safety
+FR_TEST_doc_45.txt	0	52	Cultural_identity
+FR_TEST_doc_45.txt	4471	4779	Morality
+FR_TEST_doc_45.txt	6192	6932	Public_opinion
+FR_TEST_doc_46.txt	89	460	Health_and_safety	Fairness_and_equality
+FR_TEST_doc_46.txt	462	1535	Legality_Constitutionality_and_jurisprudence	Cultural_identity
+FR_TEST_doc_46.txt	1537	1751	Cultural_identity
+FR_TEST_doc_46.txt	1754	2494	Cultural_identity
+FR_TEST_doc_46.txt	3015	3497	Morality	Cultural_identity
+FR_TEST_doc_47.txt	0	38	Quality_of_life
+FR_TEST_doc_47.txt	135	280	Morality
+FR_TEST_doc_47.txt	282	501	Legality_Constitutionality_and_jurisprudence
+FR_TEST_doc_48.txt	0	99	Cultural_identity
+FR_TEST_doc_48.txt	243	701	Political
+FR_TEST_doc_48.txt	838	1390	Political
+FR_TEST_doc_48.txt	2048	2521	Political
+FR_TEST_doc_49.txt	45	633	Morality
+FR_TEST_doc_49.txt	635	1421	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+FR_TEST_doc_49.txt	1423	1973	Quality_of_life
+FR_TEST_doc_49.txt	1975	2585	Cultural_identity
+FR_TEST_doc_49.txt	2587	3276	Fairness_and_equality
+FR_TEST_doc_49.txt	3278	3828	Legality_Constitutionality_and_jurisprudence
+FR_TEST_doc_50.txt	219	463	External_regulation_and_reputation	Political
+FR_TEST_doc_50.txt	847	1253	Economic
+FR_TEST_doc_50.txt	2341	2933	Capacity_and_resources
+FR_TEST_doc_50.txt	2935	3329	Capacity_and_resources
+FR_TEST_doc_50.txt	3572	3830	External_regulation_and_reputation	Security_and_defense
+FR_TEST_doc_50.txt	3984	4624	Morality

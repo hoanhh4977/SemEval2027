@@ -1,0 +1,7 @@
+0	193	Fairness_and_equality
+197	531	Fairness_and_equality
+535	873	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+881	1213	Legality_Constitutionality_and_jurisprudence
+1217	1938	Legality_Constitutionality_and_jurisprudence
+3770	4241	Legality_Constitutionality_and_jurisprudence
+4245	4666	Health_and_safety

@@ -1,0 +1,6 @@
+0	73	Health_and_safety	Political
+77	186	Legality_Constitutionality_and_jurisprudence
+190	506	Political
+510	946	Quality_of_life
+1226	1422	Legality_Constitutionality_and_jurisprudence
+3884	3976	Health_and_safety

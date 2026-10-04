@@ -1,0 +1,2 @@
+68	1001	Morality	Economic	External_regulation_and_reputation	Quality_of_life	Security_and_defense
+1005	1392	Health_and_safety

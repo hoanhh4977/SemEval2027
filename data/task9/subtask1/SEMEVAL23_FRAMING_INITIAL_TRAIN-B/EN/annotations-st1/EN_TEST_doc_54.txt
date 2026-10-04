@@ -1,0 +1,6 @@
+0	70	Security_and_defense
+72	320	Policy_prescription_and_evaluation
+542	875	Security_and_defense
+877	1074	Economic
+1076	1460	Legality_Constitutionality_and_jurisprudence
+1462	1662	Crime_and_punishment

@@ -1,0 +1,5 @@
+63	345	External_regulation_and_reputation
+347	1883	Economic	Capacity_and_resources	Security_and_defense
+1885	3083	Quality_of_life
+3085	5691	Economic	External_regulation_and_reputation	Quality_of_life	Security_and_defense
+5693	7615	Policy_prescription_and_evaluation	Political

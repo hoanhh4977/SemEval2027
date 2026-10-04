@@ -1,0 +1,4 @@
+0	58	External_regulation_and_reputation	Political
+60	697	External_regulation_and_reputation
+3958	4166	Capacity_and_resources
+4974	5429	Capacity_and_resources

@@ -1,0 +1,6 @@
+27	391	Political
+395	748	Health_and_safety
+1093	1626	Quality_of_life
+1630	1878	Quality_of_life
+3137	3945	External_regulation_and_reputation
+4846	5478	Legality_Constitutionality_and_jurisprudence

@@ -1,0 +1,3 @@
+0	78	Capacity_and_resources	Political
+82	798	Health_and_safety
+802	1462	Economic	Health_and_safety

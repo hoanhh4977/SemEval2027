@@ -1,0 +1,2 @@
+0	69	Health_and_safety
+71	1960	Legality_Constitutionality_and_jurisprudence	Economic	External_regulation_and_reputation	Capacity_and_resources	Health_and_safety	Quality_of_life

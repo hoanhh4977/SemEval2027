@@ -1,0 +1,4 @@
+567	843	Political
+1154	1550	Health_and_safety
+1614	1911	Health_and_safety
+2840	3386	Health_and_safety	Political

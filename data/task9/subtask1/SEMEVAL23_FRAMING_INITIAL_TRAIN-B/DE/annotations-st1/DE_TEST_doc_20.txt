@@ -1,0 +1,13 @@
+28	569	Health_and_safety
+571	984	Morality
+986	1495	Public_opinion
+1497	1868	Political
+1898	2518	Morality
+2997	3377	Morality
+5366	5872	Morality
+6437	6830	Security_and_defense
+7118	7649	Legality_Constitutionality_and_jurisprudence	Morality
+8322	9225	Health_and_safety	Quality_of_life
+15627	16292	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+19967	20223	Public_opinion
+21369	21543	Political

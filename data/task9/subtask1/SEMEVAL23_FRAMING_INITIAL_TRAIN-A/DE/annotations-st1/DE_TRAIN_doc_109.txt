@@ -1,0 +1,4 @@
+30	1160	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+1162	1201	Legality_Constitutionality_and_jurisprudence
+1203	1869	External_regulation_and_reputation
+2792	2861	Political

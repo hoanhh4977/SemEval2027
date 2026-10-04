@@ -1,0 +1,3 @@
+64	723	Economic	Health_and_safety	Security_and_defense
+725	1454	Capacity_and_resources	Political
+1456	2342	External_regulation_and_reputation

@@ -1,0 +1,3 @@
+0	64	Capacity_and_resources
+68	320	Capacity_and_resources	Political
+324	823	Security_and_defense

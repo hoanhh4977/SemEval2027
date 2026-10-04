@@ -1,0 +1,6 @@
+56	276	Morality
+355	721	Cultural_identity
+723	770	Cultural_identity
+772	1076	Cultural_identity
+1078	1556	Cultural_identity
+1558	2019	Cultural_identity

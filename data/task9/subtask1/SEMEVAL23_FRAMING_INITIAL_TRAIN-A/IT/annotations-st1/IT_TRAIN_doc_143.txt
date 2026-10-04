@@ -1,0 +1,6 @@
+77	442	Security_and_defense
+457	934	Cultural_identity
+1433	1787	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+1802	2504	Quality_of_life	Crime_and_punishment
+2536	2994	Quality_of_life	Fairness_and_equality
+3023	3653	Capacity_and_resources

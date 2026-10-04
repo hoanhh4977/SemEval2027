@@ -1,0 +1,5 @@
+0	69	Security_and_defense
+185	448	Legality_Constitutionality_and_jurisprudence
+760	908	Policy_prescription_and_evaluation
+2331	2475	Quality_of_life
+2759	3055	Public_opinion

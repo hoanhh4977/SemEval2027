@@ -1,0 +1,8 @@
+0	62	Health_and_safety
+313	633	Legality_Constitutionality_and_jurisprudence	Economic	Cultural_identity
+635	933	Health_and_safety
+2049	2667	Public_opinion
+2669	3243	Fairness_and_equality
+3245	3888	Cultural_identity	Quality_of_life
+4640	5165	Economic
+6983	7487	Policy_prescription_and_evaluation	Capacity_and_resources

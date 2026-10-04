@@ -1,0 +1,3 @@
+0	148	Capacity_and_resources
+634	725	Economic
+977	1615	Capacity_and_resources

@@ -1,0 +1,3 @@
+0	109	Health_and_safety
+111	1223	Capacity_and_resources
+1716	2084	Quality_of_life

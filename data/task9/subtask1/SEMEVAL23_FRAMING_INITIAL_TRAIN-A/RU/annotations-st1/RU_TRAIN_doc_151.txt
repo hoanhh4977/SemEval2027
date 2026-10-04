@@ -1,0 +1,3 @@
+0	72	Political
+76	216	Security_and_defense
+220	534	Political

@@ -1,0 +1,3 @@
+0	84	Legality_Constitutionality_and_jurisprudence
+356	663	Cultural_identity
+665	841	Quality_of_life

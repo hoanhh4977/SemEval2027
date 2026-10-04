@@ -1,0 +1,6 @@
+74	866	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Health_and_safety	Political	Public_opinion
+868	1386	Economic	Health_and_safety	Quality_of_life
+1388	2590	Policy_prescription_and_evaluation	Morality
+2637	3293	Morality
+3295	4666	Political	Fairness_and_equality
+4668	4977	Policy_prescription_and_evaluation

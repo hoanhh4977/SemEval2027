@@ -1,0 +1,7 @@
+0	121	Policy_prescription_and_evaluation
+597	837	Security_and_defense
+2929	3175	Public_opinion
+3889	4103	Security_and_defense
+4399	4740	Fairness_and_equality
+5167	5518	Security_and_defense
+6690	6865	Cultural_identity

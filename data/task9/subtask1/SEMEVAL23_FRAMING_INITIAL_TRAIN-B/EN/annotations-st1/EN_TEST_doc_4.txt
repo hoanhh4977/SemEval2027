@@ -1,0 +1,8 @@
+171	432	Public_opinion
+434	701	Health_and_safety
+3590	3746	Legality_Constitutionality_and_jurisprudence	Economic
+4591	4729	Economic
+5140	5360	Health_and_safety
+5728	5996	Capacity_and_resources
+5998	6230	Morality
+7047	7256	Quality_of_life

@@ -1,0 +1,7 @@
+99	334	Health_and_safety
+1080	1426	Health_and_safety
+2193	2395	Economic
+2397	2897	Economic	Quality_of_life
+2899	3310	Quality_of_life	Capacity_and_resources
+3612	4110	Political
+4361	4762	Health_and_safety	Crime_and_punishment

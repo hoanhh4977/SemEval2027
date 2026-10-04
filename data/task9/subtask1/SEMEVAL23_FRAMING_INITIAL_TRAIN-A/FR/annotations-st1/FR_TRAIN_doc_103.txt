@@ -1,0 +1,3 @@
+56	850	Morality
+854	1360	Morality
+2356	2906	External_regulation_and_reputation

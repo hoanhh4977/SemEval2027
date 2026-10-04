@@ -1,0 +1,5 @@
+206	545	Legality_Constitutionality_and_jurisprudence
+562	820	Security_and_defense
+822	947	Security_and_defense
+949	1323	Fairness_and_equality	Crime_and_punishment
+1348	1747	Crime_and_punishment

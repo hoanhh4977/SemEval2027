@@ -1,0 +1,4 @@
+0	43	External_regulation_and_reputation
+4339	5190	Economic
+7357	7768	Capacity_and_resources
+19735	20375	Cultural_identity	Security_and_defense

@@ -1,0 +1,6 @@
+121	721	Political
+725	1342	Political
+1346	2043	Political
+2047	2494	Political
+3902	4535	Legality_Constitutionality_and_jurisprudence
+4539	5061	Legality_Constitutionality_and_jurisprudence

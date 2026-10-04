@@ -1,0 +1,5 @@
+26	504	Political
+506	1141	External_regulation_and_reputation
+1143	2118	Security_and_defense
+2727	3476	Economic	Crime_and_punishment
+3478	4072	Economic	Capacity_and_resources

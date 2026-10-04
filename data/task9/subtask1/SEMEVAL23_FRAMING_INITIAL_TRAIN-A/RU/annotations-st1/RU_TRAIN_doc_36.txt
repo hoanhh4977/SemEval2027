@@ -1,0 +1,6 @@
+0	481	External_regulation_and_reputation	Political
+1857	2912	Economic
+6254	7324	Crime_and_punishment
+8460	9350	Crime_and_punishment
+9354	9922	Crime_and_punishment
+10543	11719	Crime_and_punishment

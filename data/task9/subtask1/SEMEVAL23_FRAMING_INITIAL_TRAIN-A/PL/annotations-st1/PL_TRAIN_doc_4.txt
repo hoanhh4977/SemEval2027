@@ -1,0 +1,4 @@
+0	62	Fairness_and_equality
+66	359	Capacity_and_resources
+501	734	Crime_and_punishment
+1037	1336	Policy_prescription_and_evaluation

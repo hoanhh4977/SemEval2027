@@ -1,0 +1,6 @@
+0	119	Political
+123	317	Political
+321	698	Policy_prescription_and_evaluation
+702	946	Health_and_safety
+950	1190	Morality
+2279	2646	Economic	Political

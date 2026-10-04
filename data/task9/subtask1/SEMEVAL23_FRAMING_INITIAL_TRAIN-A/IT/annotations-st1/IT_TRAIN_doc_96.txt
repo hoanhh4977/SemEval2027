@@ -1,0 +1,4 @@
+1130	1398	Public_opinion
+1400	1831	Morality
+2683	2855	Fairness_and_equality
+3307	3449	Cultural_identity

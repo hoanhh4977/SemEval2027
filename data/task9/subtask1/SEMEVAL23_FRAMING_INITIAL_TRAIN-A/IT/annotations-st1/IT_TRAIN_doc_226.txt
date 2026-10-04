@@ -1,0 +1,4 @@
+36	637	Policy_prescription_and_evaluation	Security_and_defense
+641	995	Economic
+999	1810	Economic	Capacity_and_resources
+1814	2236	External_regulation_and_reputation

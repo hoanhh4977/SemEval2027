@@ -1,0 +1,6 @@
+97	670	External_regulation_and_reputation
+672	1061	Security_and_defense
+4523	5230	Legality_Constitutionality_and_jurisprudence
+5744	6297	Capacity_and_resources
+6688	6952	Legality_Constitutionality_and_jurisprudence	Economic
+7087	8035	Policy_prescription_and_evaluation	Security_and_defense	Public_opinion

@@ -1,0 +1,5 @@
+0	52	Economic
+54	127	Economic
+430	793	Economic
+795	1238	Economic
+1513	2066	Economic	External_regulation_and_reputation
