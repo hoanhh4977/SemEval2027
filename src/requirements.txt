@@ -1,11 +1,14 @@
+# On Kaggle torch / transformers / pandas / scikit-learn are already installed; this only adds what is missing.
 torch
 transformers>=4.40
 scikit-learn
 pandas
 numpy
 scipy
+tabulate
 sentencepiece
-protobuf
+protobuf>=5.26
+tiktoken
 # only needed for the decoder-LLM (LoRA) experiments, group "llm"
 peft
 bitsandbytes

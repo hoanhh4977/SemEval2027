@@ -1,0 +1,42 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+_tmp_*
+
+# ---- Experiment outputs (they are downloaded from Kaggle, not stored in git) ----
+session_out/
+out/
+out_*/
+*_out/
+t8_out*/
+dapt_cache*/
+report*/
+*.zip
+
+# ---- Model weights / checkpoints (large) ----
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+
+# ---- Secrets: never commit tokens or passwords ----
+.env
+.env.*
+*.pem
+*secret*
+*password*
+
+# ---- OS / editor noise ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Local copy of the raw data at the repo root ----
+# The training/dev files used by Kaggle are already tracked in notebooks/data/task8, so this root copy
+# (and the 100 MB Task 9 data) would only be a duplicate. Delete this line if you want to track /data instead.
+/data/

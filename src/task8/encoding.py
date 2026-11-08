@@ -22,6 +22,19 @@ from .data import context_text
 ROBERTA_LIKE = ("xlm-roberta", "roberta", "camembert", "xlm-roberta-xl")
 
 
+def load_tokenizer(name: str):
+    """Fast tokenizer if possible; otherwise the slow SentencePiece one (mDeBERTa's fast tokenizer needs a
+    protobuf version that some environments do not have)."""
+    from transformers import AutoTokenizer
+    try:
+        tok = AutoTokenizer.from_pretrained(name, use_fast=True)
+    except Exception:  # noqa: BLE001
+        tok = AutoTokenizer.from_pretrained(name, use_fast=False)
+    if tok.pad_token_id is None:  # decoder LLMs have no pad token
+        tok.pad_token = tok.eos_token
+    return tok
+
+
 def build_encodings(df: pd.DataFrame, tok, cfg: dict) -> List[List[int]]:
     """Return one list of token ids per row of `df`."""
     use_context = cfg["context"] != "none"

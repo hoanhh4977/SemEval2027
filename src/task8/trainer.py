@@ -11,9 +11,9 @@ from typing import Dict, Set
 
 import numpy as np
 import torch
-from transformers import AutoConfig, AutoTokenizer
+from transformers import AutoConfig
 
-from .encoding import build_encodings, collate, make_items
+from .encoding import build_encodings, collate, load_tokenizer, make_items
 from .losses import class_weights, compute_loss
 from .metrics import score_split
 from .model import MTModel, layer_index
@@ -135,9 +135,7 @@ def fit_predict(cfg: dict, tasks: Set[str], train_df, val_df, extra_dfs: Dict[st
     rng = np.random.RandomState(seed)
 
     # ---- data
-    tok = AutoTokenizer.from_pretrained(cfg["backbone"], use_fast=True)
-    if tok.pad_token_id is None:
-        tok.pad_token = tok.eos_token
+    tok = load_tokenizer(cfg["backbone"])
     pad_id = tok.pad_token_id
     if tasks == {"C"}:  # a C-only model never needs non-hateful rows
         train_df = train_df[train_df["y_b"] > 0].reset_index(drop=True)
