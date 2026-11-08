@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "task": "SemEval-2027 Task 8 (StereoQueerEval)",
+    "kaggle_machine": "GPU T4 x2, Internet on",
+    "minutes_per_cost_unit": 10,
+    "overhead_minutes_per_run": 1.5,
+    "hard_stop_hours": 11,
+    "notes": [
+      "cost unit = one xlm-roberta-base multi-task run (1 seed) on one T4; see 'cost' in src/task8/experiments.py.",
+      "minutes_per_cost_unit is an ESTIMATE. Round R0 measures the real speed; afterwards edit this number and run: python src/plan_summary.py --write",
+      "hard_stop_hours: a run is not started if it would end after this time (Kaggle kills a session at 12 h).",
+      "Each session has two lanes = two GPUs running in parallel. Lane order = priority (the most important experiments first).",
+      "Rounds are decision points: after each round you send me the zip; I analyse it and may change the later rounds.",
+      "Registered but not scheduled (optional extras): BB_mbert, A_P_maxlen384, DS_frac_75, LLM_* beyond R3."
+    ]
+  },
+  "rounds": [
+    {
+      "id": "R0",
+      "goal": "Calibration: check that everything runs on the real GPUs and measure the true speed (short session, the only one far below 10 h).",
+      "decision_after": "Fix bugs; set minutes_per_cost_unit; check that mdeberta / xlmr-large / DAPT run without fp16 problems.",
+      "sessions": [
+        {
+          "id": "r0s1",
+          "notebook_name": "t8-r0s1-calibration",
+          "seeds": [
+            0
+          ],
+          "lanes": {
+            "gpu0": {
+              "experiments": [
+                "SMOKE",
+                "B_majority",
+                "B_tfidf_comment",
+                "P"
+              ]
+            },
+            "gpu1": {
+              "experiments": [
+                "BB_mdeberta",
+                "X_P_dapt",
+                "BB_xlmr_large"
+              ]
+            }
+          },
+          "estimated_hours": {
+            "gpu0": 0.3,
+            "gpu1": 1.1
+          }
+        }
+      ]
+    },
+    {
+      "id": "R1",
+      "goal": "Core comparison: baselines vs the proposed method P, and which of its components matter (ablation).",
+      "decision_after": "Is P better than the baselines, and which components can be dropped? I may redefine P before R2.",
+      "sessions": [
+        {
+          "id": "r1s1",
+          "notebook_name": "t8-r1s1-core-comparison",
+          "seeds": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "lanes": {
+            "gpu0": {
+              "experiments": [
+                "P",
+                "B_xlmrb_mt_context",
+                "B_xlmrb_mt_comment",
+                "B_xlmrb_single_context",
+                "B_xlmrb_single_comment",
+                "A_P_no_context"
+              ]
+            },
+            "gpu1": {
+              "experiments": [
+                "B_majority",
+                "B_random_stratified",
+                "B_tfidf_comment",
+                "B_tfidf_context",
+                "A_P_title_only",
+                "A_P_no_hier",
+                "A_P_no_cw",
+                "A_P_no_llrd",
+                "A_P_no_supcon",
+                "A_P_single_task",
+                "A_P_balanced_cw",
+                "A_P_focal"
+              ]
+            }
+          },
+          "estimated_hours": {
+            "gpu0": 9.1,
+            "gpu1": 9.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "R2",
+      "goal": "Literature tricks (FGM, domain pre-training), other backbones, cross-lingual transfer (incl. Persian), learning curve, remaining design variants.",
+      "decision_after": "Choose the final backbone and recipe; decide whether the LLM round (R3) is worth running.",
+      "sessions": [
+        {
+          "id": "r2s1",
+          "notebook_name": "t8-r2s1-backbones-extensions",
+          "seeds": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "lanes": {
+            "gpu0": {
+              "experiments": [
+                "BB_mdeberta",
+                "X_P_fgm",
+                "X_P_dapt",
+                "BB_xlmr_large",
+                "BB_labse",
+                "XL_train_EN",
+                "XL_train_IT",
+                "XL_train_NL"
+              ]
+            },
+            "gpu1": {
+              "experiments": [
+                "BB_twitter_xlmr",
+                "X_P_dapt_fgm",
+                "XL_train_EN+IT",
+                "XL_train_EN+NL",
+                "XL_train_IT+NL",
+                "DS_frac_25",
+                "DS_frac_50",
+                "A_P_maxlen128",
+                "A_P_supcon_0.3",
+                "A_P_uncertainty_w",
+                "A_P_mean_pool"
+              ]
+            }
+          },
+          "estimated_hours": {
+            "gpu0": 9.7,
+            "gpu1": 9.6
+          }
+        }
+      ]
+    },
+    {
+      "id": "R3",
+      "goal": "OPTIONAL, run only if worthwhile: decoder LLMs (Qwen2.5) fine-tuned with LoRA, compared with the encoder. Untested code and slow, so decide after R2.",
+      "decision_after": "Is an LLM better than the best encoder? If the 7B looks promising, r3s2 gives it the remaining 2 seeds.",
+      "sessions": [
+        {
+          "id": "r3s1",
+          "notebook_name": "t8-r3s1-llm",
+          "seeds": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "lanes": {
+            "gpu0": {
+              "experiments": [
+                "LLM_qwen1.5b_lora"
+              ]
+            },
+            "gpu1": {
+              "experiments": [
+                "LLM_qwen7b_qlora"
+              ],
+              "seeds": [
+                0,
+                1,
+                2
+              ]
+            }
+          },
+          "estimated_hours": {
+            "gpu0": 5.1,
+            "gpu1": 9.6
+          }
+        },
+        {
+          "id": "r3s2",
+          "notebook_name": "t8-r3s2-llm-7b-rest",
+          "seeds": [
+            3
+          ],
+          "lanes": {
+            "gpu0": {
+              "experiments": [
+                "LLM_qwen7b_qlora"
+              ],
+              "seeds": [
+                3
+              ]
+            },
+            "gpu1": {
+              "experiments": [
+                "LLM_qwen7b_qlora"
+              ],
+              "seeds": [
+                4
+              ]
+            }
+          },
+          "estimated_hours": {
+            "gpu0": 3.2,
+            "gpu1": 3.2
+          }
+        }
+      ]
+    },
+    {
+      "id": "R4",
+      "goal": "RESERVED. Final system: best recipe, ensemble of the best backbones, retraining on all labelled data for the submission, extra seeds where results are close. To be designed after R2 (and R3).",
+      "decision_after": "-",
+      "sessions": []
+    }
+  ]
+}

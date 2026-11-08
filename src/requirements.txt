@@ -1,0 +1,12 @@
+torch
+transformers>=4.40
+scikit-learn
+pandas
+numpy
+scipy
+sentencepiece
+protobuf
+# only needed for the decoder-LLM (LoRA) experiments, group "llm"
+peft
+bitsandbytes
+accelerate
