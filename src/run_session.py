@@ -69,10 +69,12 @@ def main():
         return
 
     if a.one_gpu:  # sequential
+        env = {**os.environ, "PYTORCH_CUDA_ALLOC_CONF": "expandable_segments:True"}
         for lane, cmd in jobs:
-            subprocess.call(cmd)
+            subprocess.call(cmd, env=env)
     else:          # parallel, one process per GPU
-        procs = [(lane, subprocess.Popen(cmd)) for lane, cmd in jobs]
+        env = {**os.environ, "PYTORCH_CUDA_ALLOC_CONF": "expandable_segments:True"}  # less memory fragmentation
+        procs = [(lane, subprocess.Popen(cmd, env=env)) for lane, cmd in jobs]
         for lane, p in procs:
             p.wait()
             print(f"lane {lane} exited with code {p.returncode}")

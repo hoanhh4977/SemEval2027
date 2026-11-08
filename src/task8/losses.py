@@ -64,6 +64,9 @@ def supervised_contrastive(h, labels, temperature: float):
 
 def compute_loss(outputs: dict, batch: dict, class_w: dict, cfg: dict, model) -> torch.Tensor:
     gamma = cfg["focal_gamma"] if cfg["loss"] == "focal" else 0.0
+    # Under fp16 autocast the heads output half precision, while class weights are float32: always compute
+    # the loss in float32 (also numerically safer).
+    outputs = {name: value.float() for name, value in outputs.items()}
     parts = {}
     if "a" in outputs:
         parts["a"] = cross_entropy(outputs["a"], batch["y_a"], class_w.get("a"), gamma)

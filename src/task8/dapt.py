@@ -31,8 +31,8 @@ def collect_texts(data_dir: str):
     return [t for t in texts if len(t) > 3]
 
 
-def run_dapt(backbone: str, data_dir: str, out_dir: str, epochs: int = 3, bs: int = 16, lr: float = 5e-5,
-             max_len: int = 192, seed: int = 0, log=print) -> str:
+def run_dapt(backbone: str, data_dir: str, out_dir: str, epochs: int = 3, bs: int = 8, lr: float = 4e-5,
+             max_len: int = 128, seed: int = 0, log=print) -> str:
     if os.path.exists(os.path.join(out_dir, "DONE")):
         return out_dir
     random.seed(seed)

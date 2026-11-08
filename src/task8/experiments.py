@@ -99,7 +99,7 @@ add("BB_mdeberta", "backbone", cost=1.6, backbone=MDEB, **PROPOSED)
 add("BB_twitter_xlmr", "backbone", backbone=TWXLMR, **PROPOSED)
 add("BB_mbert", "backbone", backbone=MBERT, **PROPOSED)
 add("BB_labse", "backbone", backbone=LABSE, **PROPOSED)
-add("BB_xlmr_large", "backbone", cost=3.5, backbone=XLMRL, lr=1e-5, bs=8, accum=2, epochs=5,
+add("BB_xlmr_large", "backbone", cost=3.5, backbone=XLMRL, lr=1e-5, bs=4, accum=4, epochs=5,
     **{k: v for k, v in PROPOSED.items()})
 
 # ------------------------------------------------------------------ cross-lingual transfer
