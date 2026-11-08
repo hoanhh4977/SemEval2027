@@ -66,15 +66,26 @@ def summarize(out_dir: str, exp_name: str):
         json.dump(summary, f, indent=1)
 
 
+def _is_task8_dir(path: str) -> bool:
+    """True if `path` really holds the data files (empty train/ dev/ folders do not count)."""
+    return (os.path.isfile(os.path.join(path, "train", "StereoQueerEval_EN_training.tsv"))
+            and os.path.isfile(os.path.join(path, "dev", "StereoQueerEval_FA_development.tsv")))
+
+
 def find_data_dir(given: Optional[str]) -> str:
-    """The Task 8 folder is the one that contains train/ and dev/ (search Kaggle inputs if not given)."""
+    """Find the Task 8 folder: --data if given, else search the repo (notebooks/data/task8, data/task8, ...)
+    and the Kaggle input datasets."""
+    repo_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # .../<repo>
     candidates = [given] if given else []
-    candidates += ["data/task8", "../data/task8"]
+    candidates += ["data/task8", "notebooks/data/task8", os.path.join(repo_root, "data", "task8"),
+                   os.path.join(repo_root, "notebooks", "data", "task8")]
+    candidates += [os.path.dirname(p) for p in glob.glob(os.path.join(repo_root, "**", "task8", "train"), recursive=True)]
     candidates += [os.path.dirname(p) for p in glob.glob("/kaggle/input/**/train", recursive=True)]
     for c in candidates:
-        if c and os.path.isdir(os.path.join(c, "train")) and os.path.isdir(os.path.join(c, "dev")):
+        if c and _is_task8_dir(c):
             return c
-    raise FileNotFoundError("Task 8 data not found: expected a folder with train/ and dev/. Pass --data <folder>.")
+    raise FileNotFoundError("Task 8 data not found: expected a folder containing train/StereoQueerEval_EN_training.tsv "
+                            "and dev/StereoQueerEval_FA_development.tsv. Pass --data <folder>.")
 
 
 def run_experiments(names: List[str], seeds: List[int], out_dir: str, zip_path: str, data_dir: Optional[str],

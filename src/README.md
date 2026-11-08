@@ -78,40 +78,49 @@ Chạy theo thứ tự R0 → R1 → R2. Đừng gộp session.
 
 ## 4. Chạy trên Kaggle (làm một lần)
 
-**Bước 1. Tạo 2 dataset riêng tư** (Kaggle: *Create → New Dataset*, để **Private**):
-
-| Tên dataset | Upload cái gì |
-|---|---|
-| `semeval27-t8-data` | thư mục `data/task8` (có `train/` và `dev/`). Dữ liệu thuộc DUA, **không để public** |
-| `semeval27-src` | thư mục `src/` này (chứa `run_session.py`, `task8/`, `plan.json`...) |
-
-Khi sửa code thì vào dataset `semeval27-src` → *New Version* → upload lại.
+**Bước 1. Dữ liệu và code lấy thẳng từ GitHub** (không cần tạo dataset Kaggle).
+Repo `hoanhh4977/SemEval2027` chứa cả code (`src/`) và dữ liệu (`notebooks/data/task8/`).
+* Repo **private**: tạo một *Personal Access Token* trên GitHub (Settings → Developer settings → Fine-grained tokens,
+  chỉ cấp quyền **Contents: Read-only** cho repo này), rồi trong notebook Kaggle: *Add-ons → Secrets → Add secret*,
+  tên **`GITHUB_TOKEN`**, dán token vào và bật cho notebook.
+* Repo public: không cần token (nhưng xem cảnh báo DUA ở mục 6).
 
 **Bước 2. Tạo notebook** (*Create → New Notebook*), đặt tên **đúng theo cột "Tên notebook"** ở bảng trên
 (ví dụ `t8-r1s1-core-comparison`). Quy ước tên: `t8-<id session>-<mô tả ngắn>`.
-Trong notebook:
-* *Add Input* → thêm cả hai dataset ở bước 1.
-* Settings: **Accelerator = GPU T4 x2**, **Internet = On**.
+Settings: **Accelerator = GPU T4 x2**, **Internet = On**. Không cần *Add Input* gì cả.
 
 **Bước 3. Dán 3 cell** (đổi `r1s1` thành session muốn chạy):
 
 ```python
-# Cell 1: chép code ra /kaggle/working và cài thư viện
-import glob, os, shutil
-src = os.path.dirname(glob.glob('/kaggle/input/**/run_session.py', recursive=True)[0])
-shutil.copytree(src, '/kaggle/working/src', dirs_exist_ok=True)
-!pip install -q -r /kaggle/working/src/requirements.txt
+# Cell 1: tải code + dữ liệu từ GitHub (chỉ lấy src/ và dữ liệu Task 8) và cài thư viện
+REPO = "github.com/hoanhh4977/SemEval2027.git"
+try:
+    from kaggle_secrets import UserSecretsClient
+    url = f"https://x-access-token:{UserSecretsClient().get_secret('GITHUB_TOKEN')}@{REPO}"
+except Exception:
+    url = f"https://{REPO}"          # không có token: thử clone công khai
+!rm -rf /kaggle/temp/repo
+!git clone -q --depth 1 --filter=blob:none --sparse {url} /kaggle/temp/repo
+%cd /kaggle/temp/repo
+!git remote set-url origin https://{REPO}
+!git sparse-checkout set src notebooks/data/task8
+!pip install -q -r src/requirements.txt
 !nvidia-smi -L
+!ls notebooks/data/task8/train
 ```
+Kết quả đúng: 2 dòng GPU, và 3 file `StereoQueerEval_{EN,IT,NL}_training.tsv`.
+(Repo được đặt ở `/kaggle/temp`, nên token không bị lưu vào file kết quả.)
+
 ```python
 # Cell 2: xem kế hoạch (tuỳ chọn) và kiểm tra lệnh sẽ chạy
-!python /kaggle/working/src/plan_summary.py
-!python /kaggle/working/src/run_session.py --session r1s1 --dry_run
+!python src/plan_summary.py
+!python src/run_session.py --session r1s1 --dry_run
 ```
 ```python
 # Cell 3: chạy thật (mất khoảng 10 giờ)
-!python /kaggle/working/src/run_session.py --session r1s1
+!python src/run_session.py --session r1s1
 ```
+Mỗi lần tôi sửa code, bạn commit + push lên GitHub; lần chạy sau Cell 1 sẽ tự lấy bản mới.
 Nếu `nvidia-smi -L` chỉ thấy 1 GPU, thêm `--one_gpu` vào lệnh ở Cell 3 (hai lane chạy lần lượt, lâu gấp đôi.
 Runner sẽ tự không bắt đầu run nào vượt giới hạn giờ; phần chưa chạy xong sẽ báo cho tôi để xếp lại).
 
@@ -136,6 +145,9 @@ Trọng số model không được lưu nên file nhỏ (vài chục MB).
 3. Tôi sẽ sửa `minutes_per_cost_unit` trong `plan.json` và chạy `plan_summary.py --write` để cập nhật giờ ước tính.
 
 ## 6. Lưu ý Kaggle
+
+* **Dữ liệu thuộc Data Usage Agreement (DUA).** Repo chứa dữ liệu Task 8 phải để **private**. Không đưa dữ liệu hay
+  mật khẩu giải nén lên repo public, hay lên Kaggle dataset public.
 
 * GPU có hạn mức theo tuần (thường **30 giờ/tuần**, xem ở *Settings → Quota* trong tài khoản). Một session 10 giờ
   tốn khoảng 10 giờ. Nên chạy R0 + R1 trong một tuần, R2 tuần sau.
