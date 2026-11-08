@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "colab-mcp": {
+      "command": "D:\\DataScience\\Anaconda\\envs\\semeval\\python.exe",
+      "args": ["-m", "colab_mcp"]
+    }
+  }
+}
