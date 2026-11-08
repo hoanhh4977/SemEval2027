@@ -39,4 +39,3 @@ desktop.ini
 # ---- Local copy of the raw data at the repo root ----
 # The training/dev files used by Kaggle are already tracked in notebooks/data/task8, so this root copy
 # (and the 100 MB Task 9 data) would only be a duplicate. Delete this line if you want to track /data instead.
-/data/

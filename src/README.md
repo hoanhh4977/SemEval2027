@@ -78,38 +78,30 @@ Chạy theo thứ tự R0 → R1 → R2. Đừng gộp session.
 
 ## 4. Chạy trên Kaggle (làm một lần)
 
-**Bước 1. Dữ liệu và code lấy thẳng từ GitHub** (không cần tạo dataset Kaggle).
-Repo `hoanhh4977/SemEval2027` chứa cả code (`src/`) và dữ liệu (`notebooks/data/task8/`).
-* Repo **private**: tạo một *Personal Access Token* trên GitHub (Settings → Developer settings → Fine-grained tokens,
-  chỉ cấp quyền **Contents: Read-only** cho repo này), rồi trong notebook Kaggle: *Add-ons → Secrets → Add secret*,
-  tên **`GITHUB_TOKEN`**, dán token vào và bật cho notebook.
-* Repo public: không cần token (nhưng xem cảnh báo DUA ở mục 6).
+**Bước 1. Code lấy từ GitHub, dữ liệu để trong một Kaggle dataset riêng tư.**
+Repo `hoanhh4977/SemEval2027` chỉ chứa code (`src/`), **không chứa dữ liệu** (dữ liệu thuộc DUA, không đưa lên GitHub).
+Tạo dataset dữ liệu một lần: Kaggle → *Create → New Dataset*, kéo thả thư mục `data/task8` (có `train/` và `dev/`),
+Title `semeval27-t8-data`, Visibility **Private**, bấm *Create*.
+(Nếu repo để private thì thêm Secret `GITHUB_TOKEN` như hướng dẫn trước đây; repo public thì không cần.)
 
 **Bước 2. Tạo notebook** (*Create → New Notebook*), đặt tên **đúng theo cột "Tên notebook"** ở bảng trên
 (ví dụ `t8-r1s1-core-comparison`). Quy ước tên: `t8-<id session>-<mô tả ngắn>`.
-Settings: **Accelerator = GPU T4 x2**, **Internet = On**. Không cần *Add Input* gì cả.
+* *Add Input* → thêm dataset `semeval27-t8-data`.
+* Settings: **Accelerator = GPU T4 x2**, **Internet = On**.
 
 **Bước 3. Dán 3 cell** (đổi `r1s1` thành session muốn chạy):
 
 ```python
-# Cell 1: tải code + dữ liệu từ GitHub (chỉ lấy src/ và dữ liệu Task 8) và cài thư viện
+# Cell 1: tải code từ GitHub và cài thư viện
 REPO = "github.com/hoanhh4977/SemEval2027.git"
-try:
-    from kaggle_secrets import UserSecretsClient
-    url = f"https://x-access-token:{UserSecretsClient().get_secret('GITHUB_TOKEN')}@{REPO}"
-except Exception:
-    url = f"https://{REPO}"          # không có token: thử clone công khai
 !rm -rf /kaggle/temp/repo
-!git clone -q --depth 1 --filter=blob:none --sparse {url} /kaggle/temp/repo
+!git clone -q --depth 1 https://{REPO} /kaggle/temp/repo
 %cd /kaggle/temp/repo
-!git remote set-url origin https://{REPO}
-!git sparse-checkout set src notebooks/data/task8
 !pip install -q -r src/requirements.txt
 !nvidia-smi -L
-!ls notebooks/data/task8/train
+!find /kaggle/input -name "*.tsv"
 ```
-Kết quả đúng: 2 dòng GPU, và 3 file `StereoQueerEval_{EN,IT,NL}_training.tsv`.
-(Repo được đặt ở `/kaggle/temp`, nên token không bị lưu vào file kết quả.)
+Kết quả đúng: 2 dòng GPU, và 4 file `.tsv` (EN, IT, NL train và FA dev).
 
 ```python
 # Cell 2: xem kế hoạch (tuỳ chọn) và kiểm tra lệnh sẽ chạy
