@@ -1,2 +1,0 @@
-0	77	Political
-79	565	Economic	External_regulation_and_reputation	Security_and_defense

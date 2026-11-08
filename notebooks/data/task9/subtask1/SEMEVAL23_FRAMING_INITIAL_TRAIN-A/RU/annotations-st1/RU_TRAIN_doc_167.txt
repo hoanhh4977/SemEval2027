@@ -1,2 +1,0 @@
-0	93	Political
-723	1045	Economic	Capacity_and_resources

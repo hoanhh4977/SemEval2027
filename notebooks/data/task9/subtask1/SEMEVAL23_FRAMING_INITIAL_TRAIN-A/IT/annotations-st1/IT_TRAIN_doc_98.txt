@@ -1,3 +1,0 @@
-0	124	Political
-126	510	Political
-512	1310	Political

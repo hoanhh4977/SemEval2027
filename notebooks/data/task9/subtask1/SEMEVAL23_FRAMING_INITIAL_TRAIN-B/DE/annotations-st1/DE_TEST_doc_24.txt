@@ -1,3 +1,0 @@
-15	771	Security_and_defense
-773	1520	Political	Public_opinion
-1522	2165	Capacity_and_resources

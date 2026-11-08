@@ -1,2 +1,0 @@
-0	30	Economic
-1060	1429	Fairness_and_equality

@@ -1,3 +1,0 @@
-0	74	Security_and_defense
-583	983	Crime_and_punishment
-1279	1835	Economic	External_regulation_and_reputation

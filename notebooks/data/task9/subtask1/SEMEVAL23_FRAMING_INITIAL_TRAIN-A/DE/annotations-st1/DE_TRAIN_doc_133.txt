@@ -1,3 +1,0 @@
-0	84	Political
-912	1268	Morality	Political
-1272	1625	Economic

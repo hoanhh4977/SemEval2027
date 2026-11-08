@@ -1,2 +1,0 @@
-600	759	Security_and_defense
-763	974	Crime_and_punishment

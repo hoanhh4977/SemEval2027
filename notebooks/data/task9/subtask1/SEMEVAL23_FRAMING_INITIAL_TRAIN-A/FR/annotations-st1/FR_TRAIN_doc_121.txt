@@ -1,3 +1,0 @@
-542	859	External_regulation_and_reputation
-2433	3262	Security_and_defense
-4840	5664	Economic	Security_and_defense

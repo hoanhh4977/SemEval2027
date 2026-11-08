@@ -1,2 +1,0 @@
-0	77	Health_and_safety
-2182	2782	Capacity_and_resources

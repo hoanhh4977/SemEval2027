@@ -1,3 +1,0 @@
-0	97	Morality
-99	793	Fairness_and_equality
-920	1535	Legality_Constitutionality_and_jurisprudence

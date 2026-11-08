@@ -1,3 +1,0 @@
-79	433	Quality_of_life
-1459	1882	Economic
-2726	3282	Fairness_and_equality

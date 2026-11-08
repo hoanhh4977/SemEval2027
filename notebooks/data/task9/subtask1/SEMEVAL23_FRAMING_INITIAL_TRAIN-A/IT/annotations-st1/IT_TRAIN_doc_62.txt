@@ -1,2 +1,0 @@
-102	590	Capacity_and_resources	Public_opinion
-861	1367	Security_and_defense

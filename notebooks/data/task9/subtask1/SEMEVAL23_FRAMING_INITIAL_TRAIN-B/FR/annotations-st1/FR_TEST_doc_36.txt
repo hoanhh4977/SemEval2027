@@ -1,2 +1,0 @@
-101	267	Morality
-487	745	Security_and_defense

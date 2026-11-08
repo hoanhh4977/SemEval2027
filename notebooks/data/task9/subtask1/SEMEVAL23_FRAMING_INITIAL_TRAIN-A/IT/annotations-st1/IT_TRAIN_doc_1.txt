@@ -1,2 +1,0 @@
-82	369	Policy_prescription_and_evaluation	Health_and_safety
-439	882	Health_and_safety

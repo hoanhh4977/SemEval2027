@@ -1,3 +1,0 @@
-0	45	Political
-369	716	Economic
-1652	2006	Health_and_safety

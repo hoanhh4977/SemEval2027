@@ -1,2 +1,0 @@
-70	158	Capacity_and_resources
-964	2053	Economic	Quality_of_life

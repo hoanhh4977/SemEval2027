@@ -1,3 +1,0 @@
-0	262	Economic
-264	508	Economic
-510	646	Economic

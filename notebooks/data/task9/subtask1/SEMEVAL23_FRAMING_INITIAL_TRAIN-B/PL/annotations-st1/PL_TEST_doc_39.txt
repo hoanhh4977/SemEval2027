@@ -1,3 +1,0 @@
-0	91	Crime_and_punishment
-95	332	Security_and_defense
-1198	1475	Capacity_and_resources

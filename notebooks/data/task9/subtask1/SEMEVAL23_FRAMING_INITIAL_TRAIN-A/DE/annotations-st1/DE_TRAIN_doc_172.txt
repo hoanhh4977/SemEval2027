@@ -1,4 +1,0 @@
-81	522	Economic	Fairness_and_equality
-993	1599	External_regulation_and_reputation	Political
-1603	2193	Morality
-2197	3031	Economic

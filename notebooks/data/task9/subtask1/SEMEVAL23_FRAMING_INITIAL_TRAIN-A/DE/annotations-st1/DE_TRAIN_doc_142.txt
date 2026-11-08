@@ -1,3 +1,0 @@
-0	107	Security_and_defense
-672	1159	Security_and_defense
-1527	1923	External_regulation_and_reputation	Capacity_and_resources

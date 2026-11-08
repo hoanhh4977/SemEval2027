@@ -1,3 +1,0 @@
-179	963	External_regulation_and_reputation	Political
-1898	2517	Economic	Capacity_and_resources
-2521	2927	Public_opinion

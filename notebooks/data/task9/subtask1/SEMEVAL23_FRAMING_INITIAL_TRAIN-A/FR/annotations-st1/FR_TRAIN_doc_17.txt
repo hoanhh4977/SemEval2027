@@ -1,2 +1,0 @@
-0	68	Political
-70	219	Public_opinion

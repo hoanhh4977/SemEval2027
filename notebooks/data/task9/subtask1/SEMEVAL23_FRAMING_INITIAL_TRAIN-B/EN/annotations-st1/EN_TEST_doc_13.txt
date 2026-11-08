@@ -1,3 +1,0 @@
-0	38	Health_and_safety
-40	322	Health_and_safety
-2367	2594	Economic

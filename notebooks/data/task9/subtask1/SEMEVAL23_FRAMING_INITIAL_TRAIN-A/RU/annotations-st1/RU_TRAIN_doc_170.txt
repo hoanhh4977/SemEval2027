@@ -1,3 +1,0 @@
-0	81	External_regulation_and_reputation
-85	159	Legality_Constitutionality_and_jurisprudence
-3274	3552	Crime_and_punishment

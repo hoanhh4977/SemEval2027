@@ -1,3 +1,0 @@
-26	489	Capacity_and_resources	Security_and_defense
-491	883	Morality
-885	1397	Capacity_and_resources

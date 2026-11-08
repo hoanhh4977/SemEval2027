@@ -1,3 +1,0 @@
-294	535	External_regulation_and_reputation
-539	1196	Political
-1200	1234	Morality

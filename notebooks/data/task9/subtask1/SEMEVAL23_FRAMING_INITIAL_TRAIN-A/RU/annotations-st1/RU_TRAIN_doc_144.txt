@@ -1,2 +1,0 @@
-0	77	Political
-240	686	Economic

@@ -1,3 +1,0 @@
-80	277	Legality_Constitutionality_and_jurisprudence
-281	612	Legality_Constitutionality_and_jurisprudence	Morality
-1625	1912	Public_opinion

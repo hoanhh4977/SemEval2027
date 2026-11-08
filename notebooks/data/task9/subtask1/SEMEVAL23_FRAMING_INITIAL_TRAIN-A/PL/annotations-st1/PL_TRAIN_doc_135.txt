@@ -1,3 +1,0 @@
-0	58	Political
-60	354	Political
-727	1007	Capacity_and_resources

@@ -1,2 +1,0 @@
-0	92	Capacity_and_resources
-96	328	Capacity_and_resources

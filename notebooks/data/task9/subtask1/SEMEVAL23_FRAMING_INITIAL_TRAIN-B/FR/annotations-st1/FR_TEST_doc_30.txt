@@ -1,2 +1,0 @@
-125	508	Policy_prescription_and_evaluation
-910	1507	Health_and_safety	Quality_of_life

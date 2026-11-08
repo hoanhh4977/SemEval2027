@@ -1,3 +1,0 @@
-69	340	Policy_prescription_and_evaluation	Capacity_and_resources	Political	Crime_and_punishment
-342	627	Capacity_and_resources
-1426	1611	Economic	Crime_and_punishment

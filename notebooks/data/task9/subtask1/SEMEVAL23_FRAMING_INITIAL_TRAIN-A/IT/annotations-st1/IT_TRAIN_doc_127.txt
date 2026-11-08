@@ -1,3 +1,0 @@
-0	95	Health_and_safety
-97	794	Health_and_safety
-1907	3065	Quality_of_life

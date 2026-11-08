@@ -1,2 +1,0 @@
-219	349	Political
-590	791	Security_and_defense

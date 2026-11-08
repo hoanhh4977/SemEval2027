@@ -1,3 +1,0 @@
-45	559	External_regulation_and_reputation
-1541	1880	Security_and_defense
-1917	2270	Policy_prescription_and_evaluation

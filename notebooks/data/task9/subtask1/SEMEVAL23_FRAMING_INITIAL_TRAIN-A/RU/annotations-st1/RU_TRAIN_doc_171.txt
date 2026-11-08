@@ -1,3 +1,0 @@
-0	47	Morality
-96	277	Legality_Constitutionality_and_jurisprudence
-281	1080	Cultural_identity

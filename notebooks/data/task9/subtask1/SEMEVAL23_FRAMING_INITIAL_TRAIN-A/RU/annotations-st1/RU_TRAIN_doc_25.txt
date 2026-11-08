@@ -1,2 +1,0 @@
-0	155	Political
-444	933	Economic	External_regulation_and_reputation	Health_and_safety

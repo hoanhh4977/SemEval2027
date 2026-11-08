@@ -1,2 +1,0 @@
-0	80	Political
-197	920	Morality

@@ -1,2 +1,0 @@
-42	442	Economic
-598	1011	Economic	Quality_of_life

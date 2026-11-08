@@ -1,3 +1,0 @@
-0	98	Policy_prescription_and_evaluation
-102	748	Legality_Constitutionality_and_jurisprudence	Political
-1283	2033	Economic

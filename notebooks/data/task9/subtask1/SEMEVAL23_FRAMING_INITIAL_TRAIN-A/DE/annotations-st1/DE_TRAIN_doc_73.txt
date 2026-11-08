@@ -1,2 +1,0 @@
-104	362	Security_and_defense
-366	586	External_regulation_and_reputation

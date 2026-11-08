@@ -1,2 +1,0 @@
-0	25	Capacity_and_resources
-1624	2066	Quality_of_life

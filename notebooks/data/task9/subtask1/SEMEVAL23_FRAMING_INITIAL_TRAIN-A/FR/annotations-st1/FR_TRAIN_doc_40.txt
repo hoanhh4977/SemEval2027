@@ -1,2 +1,0 @@
-0	59	Political
-61	1077	Security_and_defense

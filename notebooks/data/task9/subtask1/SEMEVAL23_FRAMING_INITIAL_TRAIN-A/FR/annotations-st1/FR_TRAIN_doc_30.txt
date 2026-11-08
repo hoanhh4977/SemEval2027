@@ -1,3 +1,0 @@
-947	1407	Policy_prescription_and_evaluation
-1453	1808	Policy_prescription_and_evaluation
-2091	2555	Capacity_and_resources

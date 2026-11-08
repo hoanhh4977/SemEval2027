@@ -1,3 +1,0 @@
-87	232	Health_and_safety
-277	940	Political
-2058	3206	Morality

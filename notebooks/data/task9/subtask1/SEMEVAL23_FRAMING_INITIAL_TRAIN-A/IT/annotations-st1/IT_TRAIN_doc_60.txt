@@ -1,3 +1,0 @@
-62	355	Economic	Capacity_and_resources
-453	733	Capacity_and_resources
-735	1152	Policy_prescription_and_evaluation

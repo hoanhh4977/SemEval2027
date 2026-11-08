@@ -1,3 +1,0 @@
-34	331	Economic	Political
-896	1314	Capacity_and_resources
-1333	1815	Economic

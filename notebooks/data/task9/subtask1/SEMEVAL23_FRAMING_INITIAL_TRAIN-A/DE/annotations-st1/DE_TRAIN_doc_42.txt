@@ -1,3 +1,0 @@
-0	70	Political
-72	907	Political	Public_opinion
-909	1969	Legality_Constitutionality_and_jurisprudence	Economic

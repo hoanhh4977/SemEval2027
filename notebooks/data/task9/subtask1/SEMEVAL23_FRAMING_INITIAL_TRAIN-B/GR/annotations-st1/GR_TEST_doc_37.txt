@@ -1,2 +1,0 @@
-409	813	Political
-815	1084	Cultural_identity

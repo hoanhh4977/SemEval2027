@@ -1,3 +1,0 @@
-84	572	Security_and_defense
-576	1143	Capacity_and_resources	Security_and_defense
-1508	1865	Cultural_identity

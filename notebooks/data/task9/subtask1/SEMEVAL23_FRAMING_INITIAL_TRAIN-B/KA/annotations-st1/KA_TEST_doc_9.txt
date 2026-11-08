@@ -1,3 +1,0 @@
-105	604	Political
-1102	1362	Public_opinion
-1366	1882	Political

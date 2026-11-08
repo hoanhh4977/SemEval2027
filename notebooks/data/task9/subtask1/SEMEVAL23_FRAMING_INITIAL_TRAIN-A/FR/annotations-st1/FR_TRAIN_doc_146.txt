@@ -1,2 +1,0 @@
-0	39	Political	Public_opinion
-41	80	Economic
