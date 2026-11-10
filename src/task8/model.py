@@ -24,7 +24,9 @@ LORA_TARGETS = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", 
 def _load_encoder(cfg: dict):
     name = cfg["backbone"]
     if cfg["arch"] != "decoder":
-        return AutoModel.from_pretrained(name), False
+        # .float(): some checkpoints (e.g. mDeBERTa) are stored in fp16 and newer transformers keep that dtype,
+        # but mixed-precision training needs float32 master weights (autocast does the fp16 compute).
+        return AutoModel.from_pretrained(name).float(), False
     from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
     kw = {}
     quant = bool(cfg.get("load_4bit"))

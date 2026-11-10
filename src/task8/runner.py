@@ -13,6 +13,7 @@ import atexit
 import glob
 import json
 import os
+import tempfile
 import time
 import zipfile
 from typing import List, Optional
@@ -117,7 +118,8 @@ def run_experiments(names: List[str], seeds: List[int], out_dir: str, zip_path: 
     gpu_name = torch.cuda.get_device_name(0) if torch.cuda.is_available() else "CPU"
     log(f"device={gpu_name} data={data_dir}")
     log(f"experiments={names} seeds={seeds}")
-    dapt_root = os.path.join(os.path.dirname(os.path.abspath(out_dir)), f"dapt_cache_{tag}")  # not zipped
+    # The adapted model (~1 GB) must NOT be inside any folder that gets zipped: use the system temp folder.
+    dapt_root = os.path.join(tempfile.gettempdir(), f"t8_dapt_cache_{tag}")
     errors_path = os.path.join(out_dir, f"errors_{tag}.jsonl")
     skipped = []
 
