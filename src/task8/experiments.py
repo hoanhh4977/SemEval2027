@@ -82,6 +82,8 @@ add("A_P_no_llrd", "ablation", **{**PROPOSED, "llrd": 1.0})
 add("A_P_no_supcon", "ablation", **{**PROPOSED, "supcon_w": 0.0})
 add("A_P_single_task", "ablation", cost=3.0, mode="single", **PROPOSED)
 add("A_P_balanced_cw", "ablation", **{**PROPOSED, "cw": "balanced"})
+# "Lean P": only video context + sqrt class weights (the two components that helped in R1).
+add("A_P_lean", "ablation", cw="sqrt")
 add("A_P_focal", "ablation", **{**PROPOSED, "loss": "focal"})
 add("A_P_uncertainty_w", "ablation", **{**PROPOSED, "weighting": "uncertainty"})
 add("A_P_mean_pool", "ablation", **{**PROPOSED, "pooling": "mean"})

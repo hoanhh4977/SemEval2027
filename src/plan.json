@@ -130,6 +130,7 @@
             },
             "gpu1": {
               "experiments": [
+                "A_P_lean",
                 "BB_twitter_xlmr",
                 "X_P_dapt_fgm",
                 "XL_train_EN+IT",
@@ -146,7 +147,7 @@
           },
           "estimated_hours": {
             "gpu0": 9.7,
-            "gpu1": 9.6
+            "gpu1": 10.5
           }
         }
       ]
