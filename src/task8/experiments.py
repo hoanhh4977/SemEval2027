@@ -114,9 +114,9 @@ for _f in (0.25, 0.5, 0.75):
 
 # ------------------------------------------------------------------ decoder LLM + LoRA (heaviest)
 add("LLM_qwen1.5b_lora", "llm", cost=6.0, backbone=QWEN15, arch="decoder", lr=2e-4, head_lr=5e-4, llrd=1.0,
-    bs=8, accum=2, epochs=3, grad_ckpt=True, **{k: v for k, v in PROPOSED.items() if k != "llrd"})
+    bs=8, accum=2, epochs=3, grad_ckpt=True, eval_bs=16, **{k: v for k, v in PROPOSED.items() if k != "llrd"})
 add("LLM_qwen7b_qlora", "llm", cost=19.0, backbone=QWEN7, arch="decoder", lr=1e-4, head_lr=5e-4, llrd=1.0,
-    bs=4, accum=4, epochs=2, load_4bit=True, max_len=224, **{k: v for k, v in PROPOSED.items() if k != "llrd"})
+    bs=4, accum=4, epochs=2, load_4bit=True, max_len=224, eval_bs=8, **{k: v for k, v in PROPOSED.items() if k != "llrd"})
 
 GROUP_ORDER = ["smoke", "baselines", "main", "ablation", "extensions", "backbone", "crosslingual", "datasize", "llm"]
 

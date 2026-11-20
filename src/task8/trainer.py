@@ -163,7 +163,7 @@ def fit_predict(cfg: dict, tasks: Set[str], train_df, val_df, extra_dfs: Dict[st
     for epoch in range(cfg["epochs"]):
         train_loss = _train_one_epoch(model, train_items, pad_id, class_w, opt, sched, scaler, groups, cfg,
                                       device, rng, log)
-        val_score = _selection_score(val_df, predict(model, val_items, pad_id, device), tasks)
+        val_score = _selection_score(val_df, predict(model, val_items, pad_id, device, cfg.get("eval_bs", 64)), tasks)
         history.append({"epoch": epoch, "train_loss": train_loss, "val_score": val_score})
         log(f"  epoch {epoch}: train_loss={train_loss:.4f} val_score={val_score:.4f}")
         if val_score > best_score + 1e-6:
@@ -181,9 +181,9 @@ def fit_predict(cfg: dict, tasks: Set[str], train_df, val_df, extra_dfs: Dict[st
         with torch.no_grad():
             for name, value in best_state.items():
                 params[name].copy_(value.to(params[name].device))
-    probs = {"val": predict(model, val_items, pad_id, device)}
+    probs = {"val": predict(model, val_items, pad_id, device, cfg.get("eval_bs", 64))}
     for name, items in extra_items.items():
-        probs[name] = predict(model, items, pad_id, device)
+        probs[name] = predict(model, items, pad_id, device, cfg.get("eval_bs", 64))
 
     info = {"best_epoch": best_epoch, "best_val": best_score, "history": history,
             "train_time_s": time.time() - start_time, "n_train": len(train_items)}

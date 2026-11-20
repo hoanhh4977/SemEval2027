@@ -28,6 +28,11 @@ def _load_encoder(cfg: dict):
         # but mixed-precision training needs float32 master weights (autocast does the fp16 compute).
         return AutoModel.from_pretrained(name).float(), False
     from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
+    try:  # Kaggle ships an old torchao that peft refuses (ImportError); we never use torchao, so switch the check off
+        import peft.tuners.lora.torchao as _peft_torchao
+        _peft_torchao.is_torchao_available = lambda: False
+    except Exception:  # noqa: BLE001
+        pass
     kw = {}
     quant = bool(cfg.get("load_4bit"))
     if quant:

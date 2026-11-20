@@ -178,31 +178,26 @@
                 "LLM_qwen7b_qlora"
               ],
               "seeds": [
-                0,
                 1,
-                2
+                2,
+                3
               ]
             }
           },
           "estimated_hours": {
             "gpu0": 5.1,
-            "gpu1": 9.6
+            "gpu1": 7.4
           }
         },
         {
           "id": "r3s2",
           "notebook_name": "t8-r3s2-llm-7b-rest",
           "seeds": [
-            3
+            4
           ],
           "lanes": {
             "gpu0": {
-              "experiments": [
-                "LLM_qwen7b_qlora"
-              ],
-              "seeds": [
-                3
-              ]
+              "experiments": []
             },
             "gpu1": {
               "experiments": [
@@ -214,8 +209,8 @@
             }
           },
           "estimated_hours": {
-            "gpu0": 3.2,
-            "gpu1": 3.2
+            "gpu0": 0.0,
+            "gpu1": 2.5
           }
         }
       ]
